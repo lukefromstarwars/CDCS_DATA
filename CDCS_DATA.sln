@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "CDCS.IMPORT", "CDCS.IMPORT\CDCS.IMPORT.dtproj", "{B39BECBC-80BD-4D6A-9037-87DC96F60984}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B39BECBC-80BD-4D6A-9037-87DC96F60984}.Development|Default.ActiveCfg = Development
+		{B39BECBC-80BD-4D6A-9037-87DC96F60984}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1FDB045-4F8A-41AC-ACDA-EB137DA1324E}
+	EndGlobalSection
+EndGlobal
