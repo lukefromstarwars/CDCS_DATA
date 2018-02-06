@@ -1,0 +1,1111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<actionZones>
+  <zoneActionWerkgebied>
+				<id>264</id>
+				<value i18n="fr">Belgique</value>
+				<value i18n="nl">België</value>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>265</id>
+				<value i18n="fr">Bruxelles-Halle-Vilvoorde</value>
+				<value i18n="nl">Brussel-Halle-Vilvoorde</value>
+				<parent>264</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>266</id>
+				<value i18n="fr">Flandre</value>
+				<value i18n="nl">Vlaanderen</value>
+				<parent>264</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>267</id>
+				<value i18n="fr">Brabant flamand</value>
+				<value i18n="nl">Vlaams-Brabant</value>
+				<parent>266</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>268</id>
+				<value i18n="fr">Région bruxelloise</value>
+				<value i18n="nl">Brussels Gewest</value>
+				<parent>264</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>269</id>
+				<value i18n="fr">Anderlecht</value>
+				<value i18n="nl">Anderlecht</value>
+				<parent>268</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>270</id>
+				<value i18n="fr">Anderlecht Centre - Wayez</value>
+				<value i18n="nl">Anderlecht Centrum - Wayez</value>
+				<parent>269</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>271</id>
+				<value i18n="fr">Bizet - Roue - Ceria</value>
+				<value i18n="nl">Bizet - Rad - Coovi</value>
+				<parent>269</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>272</id>
+				<value i18n="fr">Bon Air</value>
+				<value i18n="nl">Goede Lucht</value>
+				<parent>269</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>273</id>
+				<value i18n="fr">Buffon</value>
+				<value i18n="nl">Buffon</value>
+				<parent>269</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>274</id>
+				<value i18n="fr">Cureghem Bara</value>
+				<value i18n="nl">Kuregem Bara</value>
+				<parent>269</parent>
+				<parent>419</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>275</id>
+				<value i18n="fr">Cureghem Rosée</value>
+				<value i18n="nl">Kuregem Dauw</value>
+				<parent>269</parent>
+				<parent>406</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>276</id>
+				<value i18n="fr">Cureghem Vétérinaire</value>
+				<value i18n="nl">Kuregem Veeartsenij</value>
+				<parent>269</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>277</id>
+				<value i18n="fr">Industrie Birmingham</value>
+				<value i18n="nl">Industrie Birmingham</value>
+				<parent>269</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>278</id>
+				<value i18n="fr">Industrie Sud</value>
+				<value i18n="nl">Industrie Zuid</value>
+				<parent>269</parent>
+				<parent>360</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>279</id>
+				<value i18n="fr">Machtens</value>
+				<value i18n="nl">Machtens</value>
+				<parent>269</parent>
+				<parent>406</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>280</id>
+				<value i18n="fr">Moortebeek - Peterbos</value>
+				<value i18n="nl">Moortebeek - Peterbos</value>
+				<parent>269</parent>
+				<parent>406</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>281</id>
+				<value i18n="fr">Neerpede</value>
+				<value i18n="nl">Neerpede</value>
+				<parent>269</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>282</id>
+				<value i18n="fr">Parc Astrid</value>
+				<value i18n="nl">Astridpark</value>
+				<parent>269</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>283</id>
+				<value i18n="fr">Parc des Étangs</value>
+				<value i18n="nl">Vijverspark</value>
+				<parent>269</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>284</id>
+				<value i18n="fr">Parc Forestier</value>
+				<value i18n="nl">Bospark</value>
+				<parent>269</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>285</id>
+				<value i18n="fr">Scherdemael</value>
+				<value i18n="nl">Scherdemaal</value>
+				<parent>269</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>286</id>
+				<value i18n="fr">Scheut</value>
+				<value i18n="nl">Scheut</value>
+				<parent>269</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>287</id>
+				<value i18n="fr">Veeweyde - Aurore</value>
+				<value i18n="nl">Veeweide - Aurore</value>
+				<parent>269</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>288</id>
+				<value i18n="fr">Vogelenzang - Erasme</value>
+				<value i18n="nl">Vogelenzang - Erasmus</value>
+				<parent>269</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>289</id>
+				<value i18n="fr">Auderghem</value>
+				<value i18n="nl">Oudergem</value>
+				<parent>268</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>290</id>
+				<value i18n="fr">Auderghem Centre</value>
+				<value i18n="nl">Oudergem Centrum</value>
+				<parent>289</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>291</id>
+				<value i18n="fr">Chant d'Oiseau</value>
+				<value i18n="nl">Vogelzang</value>
+				<parent>289</parent>
+				<parent>483</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>292</id>
+				<value i18n="fr">Chaussée de Wavre - Saint-Julien</value>
+				<value i18n="nl">Waverse Steenweg - Sint-Julliaan</value>
+				<parent>289</parent>
+				<parent>344</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>293</id>
+				<value i18n="fr">Delta</value>
+				<value i18n="nl">Delta</value>
+				<parent>289</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>294</id>
+				<value i18n="fr">Forêt de Soignes</value>
+				<value i18n="nl">Zoniënwoud</value>
+				<parent>289</parent>
+				<parent>450</parent>
+				<parent>467</parent>
+				<parent>483</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>295</id>
+				<value i18n="fr">Parc de la Woluwe</value>
+				<value i18n="nl">Park van Woluwe</value>
+				<parent>289</parent>
+				<parent>483</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>296</id>
+				<value i18n="fr">Putdaal</value>
+				<value i18n="nl">Putdaal</value>
+				<parent>289</parent>
+				<parent>483</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>297</id>
+				<value i18n="fr">Transvaal</value>
+				<value i18n="nl">Transvaal</value>
+				<parent>289</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>298</id>
+				<value i18n="fr">Trois Tilleuls</value>
+				<value i18n="nl">Drie Linden</value>
+				<parent>289</parent>
+				<parent>467</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>299</id>
+				<value i18n="fr">Watermael Centre</value>
+				<value i18n="nl">Watermaal Centrum</value>
+				<parent>289</parent>
+				<parent>467</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>300</id>
+				<value i18n="fr">Berchem-Sainte-Agathe</value>
+				<value i18n="nl">Sint-Agatha-Berchem</value>
+				<parent>268</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>301</id>
+				<value i18n="fr">Berchem-Sainte-Agathe Centre</value>
+				<value i18n="nl">Sint-Agatha-Berchem Centrum</value>
+				<parent>300</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>302</id>
+				<value i18n="fr">Hôpital Français</value>
+				<value i18n="nl">Frans Hospitaal</value>
+				<parent>300</parent>
+				<parent>401</parent>
+				<parent>406</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>303</id>
+				<value i18n="fr">Korenbeek</value>
+				<value i18n="nl">Korenbeek</value>
+				<parent>300</parent>
+				<parent>406</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>304</id>
+				<value i18n="fr">Potaarde</value>
+				<value i18n="nl">Potaarde</value>
+				<parent>300</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>305</id>
+				<value i18n="fr">Bruxelles - Centre</value>
+				<value i18n="nl">Brussel - Centrum</value>
+				<parent>511</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>306</id>
+				<value i18n="fr">Anneessens</value>
+				<value i18n="nl">Anneessens</value>
+				<parent>305</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>307</id>
+				<value i18n="fr">Béguinage - Dixmude</value>
+				<value i18n="nl">Begijnhof - Diksmuide</value>
+				<parent>305</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>308</id>
+				<value i18n="fr">Bois de la Cambre</value>
+				<value i18n="nl">Ter Kamerenbos</value>
+				<parent>305</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>309</id>
+				<value i18n="fr">Boondael</value>
+				<value i18n="nl">Boondaal</value>
+				<parent>305</parent>
+				<parent>378</parent>
+				<parent>467</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>310</id>
+				<value i18n="fr">Brugmann - Lepoutre</value>
+				<value i18n="nl">Brugmann - Lepoutre</value>
+				<parent>305</parent>
+				<parent>360</parent>
+				<parent>378</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>311</id>
+				<value i18n="fr">Châtelain</value>
+				<value i18n="nl">Kastelein</value>
+				<parent>305</parent>
+				<parent>378</parent>
+				<parent>419</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>312</id>
+				<value i18n="fr">Cinquantenaire</value>
+				<value i18n="nl">Jubelpark</value>
+				<parent>305</parent>
+				<parent>344</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>313</id>
+				<value i18n="fr">Dansaert</value>
+				<value i18n="nl">Dansaert</value>
+				<parent>305</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>314</id>
+				<value i18n="fr">Dries</value>
+				<value i18n="nl">Dries</value>
+				<parent>305</parent>
+				<parent>378</parent>
+				<parent>467</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>315</id>
+				<value i18n="fr">Étangs d'Ixelles</value>
+				<value i18n="nl">Vijvers van Elsene</value>
+				<parent>305</parent>
+				<parent>378</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>316</id>
+				<value i18n="fr">Fort Jaco</value>
+				<value i18n="nl">Fort Jaco</value>
+				<parent>305</parent>
+				<parent>450</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>317</id>
+				<value i18n="fr">Grand Place</value>
+				<value i18n="nl">Grote Markt</value>
+				<parent>305</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>318</id>
+				<value i18n="fr">Industrie Nord</value>
+				<value i18n="nl">Industrie Nord</value>
+				<parent>305</parent>
+				<parent>352</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>319</id>
+				<value i18n="fr">Industrie Otan</value>
+				<value i18n="nl">Industrie Nato</value>
+				<parent>305</parent>
+				<parent>352</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>320</id>
+				<value i18n="fr">Louise - Longue Haie</value>
+				<value i18n="nl">Louiza - Langehaag</value>
+				<parent>305</parent>
+				<parent>378</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>321</id>
+				<value i18n="fr">Marolles</value>
+				<value i18n="nl">Marollen</value>
+				<parent>305</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>322</id>
+				<value i18n="fr">Martyrs</value>
+				<value i18n="nl">Martelaars</value>
+				<parent>305</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>323</id>
+				<value i18n="fr">Notre-Dame Aux Neiges</value>
+				<value i18n="nl">Onze Lieve Vrouw Ter Sneeuw</value>
+				<parent>305</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>324</id>
+				<value i18n="fr">Parc Léopold</value>
+				<value i18n="nl">Leopoldpark</value>
+				<parent>305</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>325</id>
+				<value i18n="fr">Porte Tervueren</value>
+				<value i18n="nl">Tervurense Poort</value>
+				<parent>305</parent>
+				<parent>344</parent>
+				<parent>434</parent>
+				<parent>474</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>326</id>
+				<value i18n="fr">Quartier Européen</value>
+				<value i18n="nl">Europawijk</value>
+				<parent>305</parent>
+				<parent>378</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>327</id>
+				<value i18n="fr">Quartier Maritime</value>
+				<value i18n="nl">Havenwijk</value>
+				<parent>305</parent>
+				<parent>406</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>328</id>
+				<value i18n="fr">Quartier Nord</value>
+				<value i18n="nl">Noordwijk</value>
+				<parent>305</parent>
+				<parent>428</parent>
+				<parent>434</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>329</id>
+				<value i18n="fr">Quartier Royal</value>
+				<value i18n="nl">Koningswijk</value>
+				<parent>305</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>330</id>
+				<value i18n="fr">Sablon</value>
+				<value i18n="nl">Zavel</value>
+				<parent>305</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>331</id>
+				<value i18n="fr">Squares</value>
+				<value i18n="nl">Squares</value>
+				<parent>305</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>332</id>
+				<value i18n="fr">Stalingrad</value>
+				<value i18n="nl">Stalingrad</value>
+				<parent>305</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>333</id>
+				<value i18n="fr">Bruxelles - Haren</value>
+				<value i18n="nl">Brussel - Haren</value>
+				<parent>511</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>334</id>
+				<value i18n="fr">Quartier Haren</value>
+				<value i18n="nl">Harenwijk</value>
+				<parent>333</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>335</id>
+				<value i18n="fr">Bruxelles - Laeken</value>
+				<value i18n="nl">Brussel - Laken</value>
+				<parent>511</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>336</id>
+				<value i18n="fr">Domaine Royal Laeken</value>
+				<value i18n="nl">Koninklijk Domein Laken</value>
+				<parent>335</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>337</id>
+				<value i18n="fr">Heysel</value>
+				<value i18n="nl">Heizel</value>
+				<parent>335</parent>
+				<parent>392</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>338</id>
+				<value i18n="fr">Houba</value>
+				<value i18n="nl">Houba</value>
+				<parent>335</parent>
+				<parent>392</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>339</id>
+				<value i18n="fr">Mutsaard</value>
+				<value i18n="nl">Mutsaard</value>
+				<parent>335</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>340</id>
+				<value i18n="fr">Vieux Laeken Est</value>
+				<value i18n="nl">Oud Laken Oost</value>
+				<parent>335</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>341</id>
+				<value i18n="fr">Vieux Laeken Ouest</value>
+				<value i18n="nl">Oud Laken West</value>
+				<parent>335</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>342</id>
+				<value i18n="fr">Bruxelles - Neder-Over-Heembeek</value>
+				<value i18n="nl">Brussel - Neder-Over-Heembeek</value>
+				<parent>511</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>343</id>
+				<value i18n="fr">Heembeek</value>
+				<value i18n="nl">Heembeek</value>
+				<parent>342</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>344</id>
+				<value i18n="fr">Etterbeek</value>
+				<value i18n="nl">Etterbeek</value>
+				<parent>268</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>345</id>
+				<value i18n="fr">Chasse</value>
+				<value i18n="nl">Jacht</value>
+				<parent>344</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>348</id>
+				<value i18n="fr">Jourdan</value>
+				<value i18n="nl">Jourdan</value>
+				<parent>344</parent>
+				<parent>378</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>350</id>
+				<value i18n="fr">Saint-Michel</value>
+				<value i18n="nl">Sint-Michiel</value>
+				<parent>344</parent>
+				<parent>483</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>351</id>
+				<value i18n="fr">Saint-Pierre</value>
+				<value i18n="nl">Sint-Pieter</value>
+				<parent>344</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>352</id>
+				<value i18n="fr">Evere</value>
+				<value i18n="nl">Evere</value>
+				<parent>268</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>353</id>
+				<value i18n="fr">Avenue Léopold III</value>
+				<value i18n="nl">Leopold III Laan</value>
+				<parent>352</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>354</id>
+				<value i18n="fr">Cimetière de Bruxelles</value>
+				<value i18n="nl">Kerkhof Brussel</value>
+				<parent>352</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>355</id>
+				<value i18n="fr">Conscience</value>
+				<value i18n="nl">Conscience</value>
+				<parent>352</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>358</id>
+				<value i18n="fr">Paduwa</value>
+				<value i18n="nl">Paduwa</value>
+				<parent>352</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>359</id>
+				<value i18n="fr">Paix</value>
+				<value i18n="nl">Vrede</value>
+				<parent>352</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>360</id>
+				<value i18n="fr">Forest</value>
+				<value i18n="nl">Vorst</value>
+				<parent>268</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>361</id>
+				<value i18n="fr">Altitude 100</value>
+				<value i18n="nl">Hoogte 100</value>
+				<parent>360</parent>
+				<parent>450</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>362</id>
+				<value i18n="fr">Bas Forest</value>
+				<value i18n="nl">Laag Vorst</value>
+				<parent>360</parent>
+				<parent>419</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>364</id>
+				<value i18n="fr">Haut Saint-Gilles</value>
+				<value i18n="nl">Hoog Sint-Gillis</value>
+				<parent>360</parent>
+				<parent>419</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>366</id>
+				<value i18n="fr">Molière - Longchamp</value>
+				<value i18n="nl">Molière - Longchamp</value>
+				<parent>360</parent>
+				<parent>450</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>367</id>
+				<value i18n="fr">Parc Duden - Parc de Forest</value>
+				<value i18n="nl">Dudenpark - Park van Vorst</value>
+				<parent>360</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>368</id>
+				<value i18n="fr">Saint-Denis - Neerstalle</value>
+				<value i18n="nl">Sint-Denijs - Neerstalle</value>
+				<parent>360</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>369</id>
+				<value i18n="fr">Van Volxem - Van Haelen</value>
+				<value i18n="nl">Van Volxem - Van Haelen</value>
+				<parent>360</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>370</id>
+				<value i18n="fr">Vossegat - Roosendaal</value>
+				<value i18n="nl">Vossegat - Roosendaal</value>
+				<parent>360</parent>
+				<parent>450</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>371</id>
+				<value i18n="fr">Ganshoren</value>
+				<value i18n="nl">Ganshoren</value>
+				<parent>268</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>372</id>
+				<value i18n="fr">Basilique</value>
+				<value i18n="nl">Basiliek</value>
+				<parent>371</parent>
+				<parent>392</parent>
+				<parent>401</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>373</id>
+				<value i18n="fr">Bois du Laarbeek - Poelbos</value>
+				<value i18n="nl">Laarbeekbos - Poelbos</value>
+				<parent>371</parent>
+				<parent>392</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>374</id>
+				<value i18n="fr">Ganshoren Centre</value>
+				<value i18n="nl">Ganshoren Centrum</value>
+				<parent>371</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>375</id>
+				<value i18n="fr">Jette Centre</value>
+				<value i18n="nl">Jette Centrum</value>
+				<parent>371</parent>
+				<parent>392</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>376</id>
+				<value i18n="fr">Parc Elisabeth</value>
+				<value i18n="nl">Elisabethpark</value>
+				<parent>371</parent>
+				<parent>401</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>377</id>
+				<value i18n="fr">Villas de Ganshoren</value>
+				<value i18n="nl">Villa's van Ganshoren</value>
+				<parent>371</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>378</id>
+				<value i18n="fr">Ixelles</value>
+				<value i18n="nl">Elsene</value>
+				<parent>268</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>382</id>
+				<value i18n="fr">Cimetière d'Ixelles</value>
+				<value i18n="nl">Kerkhof Elsene</value>
+				<parent>378</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>385</id>
+				<value i18n="fr">Flagey - Malibran</value>
+				<value i18n="nl">Flagey - Malibran</value>
+				<parent>378</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>386</id>
+				<value i18n="fr">Hôpital Etterbeek - Ixelles</value>
+				<value i18n="nl">Hospitaal Etterbeek - Elsene</value>
+				<parent>378</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>389</id>
+				<value i18n="fr">Matonge</value>
+				<value i18n="nl">Matonge</value>
+				<parent>378</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>391</id>
+				<value i18n="fr">Université</value>
+				<value i18n="nl">Universiteitswijk</value>
+				<parent>378</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>392</id>
+				<value i18n="fr">Jette</value>
+				<value i18n="nl">Jette</value>
+				<parent>268</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>395</id>
+				<value i18n="fr">Heymbosch - Az Jette</value>
+				<value i18n="nl">Heymbosch - AZ Jette</value>
+				<parent>392</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>399</id>
+				<value i18n="fr">Parc Baudouin - Dielegembos</value>
+				<value i18n="nl">Boudewijnpark - Dielegembos</value>
+				<parent>392</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>400</id>
+				<value i18n="fr">Woeste</value>
+				<value i18n="nl">Woeste</value>
+				<parent>392</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>401</id>
+				<value i18n="fr">Koekelberg</value>
+				<value i18n="nl">Koekelberg</value>
+				<parent>268</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>405</id>
+				<value i18n="fr">Quartier Koekelberg</value>
+				<value i18n="nl">Koekelbergwijk</value>
+				<parent>401</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>406</id>
+				<value i18n="fr">Molenbeek-Saint-Jean</value>
+				<value i18n="nl">Sint-Jans-Molenbeek</value>
+				<parent>268</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>408</id>
+				<value i18n="fr">Duchesse</value>
+				<value i18n="nl">Hertogin</value>
+				<parent>406</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>409</id>
+				<value i18n="fr">Gare de l'Ouest</value>
+				<value i18n="nl">Weststation</value>
+				<parent>406</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>411</id>
+				<value i18n="fr">Karreveld</value>
+				<value i18n="nl">Karreveld</value>
+				<parent>406</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>414</id>
+				<value i18n="fr">Molenbeek Historique</value>
+				<value i18n="nl">Historisch Molenbeek</value>
+				<parent>406</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>416</id>
+				<value i18n="fr">Parc Marie-José</value>
+				<value i18n="nl">Marie-Josépark</value>
+				<parent>406</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>418</id>
+				<value i18n="fr">Scheutbos</value>
+				<value i18n="nl">Scheutbos</value>
+				<parent>406</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>419</id>
+				<value i18n="fr">Saint-Gilles</value>
+				<value i18n="nl">Sint-Gillis</value>
+				<parent>268</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>421</id>
+				<value i18n="fr">Berckmans - Hôtel des Monnaies</value>
+				<value i18n="nl">Berckmans - Munthof</value>
+				<parent>419</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>422</id>
+				<value i18n="fr">Bosnie</value>
+				<value i18n="nl">Bosnië</value>
+				<parent>419</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>425</id>
+				<value i18n="fr">Gare du Midi</value>
+				<value i18n="nl">Zuidstation</value>
+				<parent>419</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>427</id>
+				<value i18n="fr">Porte de Hal</value>
+				<value i18n="nl">Hallepoort</value>
+				<parent>419</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>428</id>
+				<value i18n="fr">Saint-Josse-Ten-Noode</value>
+				<value i18n="nl">Sint-Joost-ten-Node</value>
+				<parent>268</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>429</id>
+				<value i18n="fr">Botanique</value>
+				<value i18n="nl">Kruidtuin</value>
+				<parent>428</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>430</id>
+				<value i18n="fr">Chaussée de Haecht</value>
+				<value i18n="nl">Haachtsesteenweg</value>
+				<parent>428</parent>
+				<parent>434</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>431</id>
+				<value i18n="fr">Quartier Brabant</value>
+				<value i18n="nl">Brabantwijk</value>
+				<parent>428</parent>
+				<parent>434</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>433</id>
+				<value i18n="fr">Saint-Josse Centre</value>
+				<value i18n="nl">Sint-Joost Centrum</value>
+				<parent>428</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>434</id>
+				<value i18n="fr">Schaerbeek</value>
+				<value i18n="nl">Schaarbeek</value>
+				<parent>268</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>436</id>
+				<value i18n="fr">Collignon</value>
+				<value i18n="nl">Collignon</value>
+				<parent>434</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>437</id>
+				<value i18n="fr">Dailly</value>
+				<value i18n="nl">Dailly</value>
+				<parent>434</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>438</id>
+				<value i18n="fr">Gare de Schaerbeek</value>
+				<value i18n="nl">Schaarbeek Station</value>
+				<parent>434</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>439</id>
+				<value i18n="fr">Gare Josaphat</value>
+				<value i18n="nl">Josaphat Station</value>
+				<parent>434</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>440</id>
+				<value i18n="fr">Georges Henri</value>
+				<value i18n="nl">Georges Henri</value>
+				<parent>434</parent>
+				<parent>474</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>441</id>
+				<value i18n="fr">Helmet</value>
+				<value i18n="nl">Helmet</value>
+				<parent>434</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>442</id>
+				<value i18n="fr">Josaphat</value>
+				<value i18n="nl">Josaphat</value>
+				<parent>434</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>443</id>
+				<value i18n="fr">Parc Josaphat</value>
+				<value i18n="nl">Josaphatpark</value>
+				<parent>434</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>444</id>
+				<value i18n="fr">Plasky</value>
+				<value i18n="nl">Plasky</value>
+				<parent>434</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>448</id>
+				<value i18n="fr">Reyers</value>
+				<value i18n="nl">Reyers</value>
+				<parent>434</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>449</id>
+				<value i18n="fr">Terdelt</value>
+				<value i18n="nl">Terdelt</value>
+				<parent>434</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>450</id>
+				<value i18n="fr">Uccle</value>
+				<value i18n="nl">Ukkel</value>
+				<parent>268</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>452</id>
+				<value i18n="fr">Churchill</value>
+				<value i18n="nl">Churchill</value>
+				<parent>450</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>453</id>
+				<value i18n="fr">Cimetière Saint-Gilles</value>
+				<value i18n="nl">Kerkhof Sint-Gillis</value>
+				<parent>450</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>454</id>
+				<value i18n="fr">Dieweg</value>
+				<value i18n="nl">Dieweg</value>
+				<parent>450</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>457</id>
+				<value i18n="fr">Globe</value>
+				<value i18n="nl">Globe</value>
+				<parent>450</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>458</id>
+				<value i18n="fr">Kalevoet - Moensberg</value>
+				<value i18n="nl">Kalevoet - Moensberg</value>
+				<parent>450</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>459</id>
+				<value i18n="fr">Kriekenput - Homborch - Verrewinkel</value>
+				<value i18n="nl">Kriekenput - Homborch - Verrewinkel</value>
+				<parent>450</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>461</id>
+				<value i18n="fr">Montjoie - Langeveld</value>
+				<value i18n="nl">Montjoie - Langeveld</value>
+				<parent>450</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>462</id>
+				<value i18n="fr">Observatoire</value>
+				<value i18n="nl">Observatorium</value>
+				<parent>450</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>463</id>
+				<value i18n="fr">Parc Wolvendael</value>
+				<value i18n="nl">Wolvendaelpark</value>
+				<parent>450</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>464</id>
+				<value i18n="fr">Saint-Job Kauwberg</value>
+				<value i18n="nl">Sint-Job Kauwberg</value>
+				<parent>450</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>465</id>
+				<value i18n="fr">Vivier d'Oie</value>
+				<value i18n="nl">Diesdelle</value>
+				<parent>450</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>467</id>
+				<value i18n="fr">Watermael-Boitsfort</value>
+				<value i18n="nl">Watermaal-Bosvoorde</value>
+				<parent>268</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>468</id>
+				<value i18n="fr">Boitsfort Centre</value>
+				<value i18n="nl">Bosvoorde Centrum</value>
+				<parent>467</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>474</id>
+				<value i18n="fr">Woluwe-Saint-Lambert</value>
+				<value i18n="nl">Sint-Lambrechts-Woluwe</value>
+				<parent>268</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>475</id>
+				<value i18n="fr">Boulevard de la Woluwe</value>
+				<value i18n="nl">Woluwelaan</value>
+				<parent>474</parent>
+				<parent>483</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>477</id>
+				<value i18n="fr">Gribaumont</value>
+				<value i18n="nl">Gribaumont</value>
+				<parent>474</parent>
+				<parent>483</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>478</id>
+				<value i18n="fr">Kapelleveld</value>
+				<value i18n="nl">Kapelleveld</value>
+				<parent>474</parent>
+				<parent>483</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>480</id>
+				<value i18n="fr">Roodebeek - Constellations</value>
+				<value i18n="nl">Roodebeek - Sterrebeelden</value>
+				<parent>474</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>481</id>
+				<value i18n="fr">Stockel</value>
+				<value i18n="nl">Stokkel</value>
+				<parent>474</parent>
+				<parent>483</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>482</id>
+				<value i18n="fr">Val d'Or</value>
+				<value i18n="nl">Gulledelle</value>
+				<parent>474</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>483</id>
+				<value i18n="fr">Woluwe-Saint-Pierre</value>
+				<value i18n="nl">Sint-Pieters-Woluwe</value>
+				<parent>268</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>492</id>
+				<value i18n="fr">Saint-Paul</value>
+				<value i18n="nl">Sint-Paulus</value>
+				<parent>483</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>493</id>
+				<value i18n="fr">Sainte-Alix - Joli Bois</value>
+				<value i18n="nl">Sinte-Aleidis - Mooibos</value>
+				<parent>483</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>495</id>
+				<value i18n="fr">Wallonie</value>
+				<value i18n="nl">Wallonië</value>
+				<parent>264</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>496</id>
+				<value i18n="fr">Brabant wallon</value>
+				<value i18n="nl">Waals-Brabant</value>
+				<parent>495</parent>
+			</zoneActionWerkgebied>
+  <zoneActionWerkgebied>
+				<id>511</id>
+				<value i18n="fr">Bruxelles</value>
+				<value i18n="nl">Brussel</value>
+				<parent>268</parent>
+			</zoneActionWerkgebied>
+</actionZones>

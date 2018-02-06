@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <LangStat>
+				<id>730</id>
+				<value i18n="fr">FR</value>
+				<value i18n="nl">FR</value>
+			</LangStat>
+  <LangStat>
+				<id>731</id>
+				<value i18n="fr">FR-NL</value>
+				<value i18n="nl">FR-NL</value>
+			</LangStat>
+  <LangStat>
+				<id>732</id>
+				<value i18n="fr">NL</value>
+				<value i18n="nl">NL</value>
+			</LangStat>
+  <LangStat>
+				<id>1606</id>
+				<value i18n="fr" />
+				<value i18n="nl" />
+			</LangStat>
+</languages>

@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mes:updateRequest 
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+  xmlns:mes="http://psb.bric.brussels/bruso/messages/organisation/v1" 
+  xmlns="http://psb.bric.brussels/type/bruso/organisation/v1">
+  <mes:organisationList>
+    <mes:organisation>
+      <id>1</id>
+      <FICHE>
+        <![CDATA[000001]]>
+      </FICHE>
+      <INFOR>
+        <![CDATA[31/08/17]]>
+      </INFOR>
+      <NMOFFNL>
+        <![CDATA[HOMEGRADE.BRUSSELS]]>
+      </NMOFFNL>
+      <NMOFFFR>
+        <![CDATA[HOMEGRADE.BRUSSELS]]>
+      </NMOFFFR>
+      <NMUSENL></NMUSENL>
+      <NMUSEFR></NMUSEFR>
+      <NMSERVNL></NMSERVNL>
+      <NMSERVFR></NMSERVFR>
+      <TEL_NL>
+        <![CDATA[02/219.40.60]]>
+      </TEL_NL>
+      <TEL>
+        <![CDATA[02/219.40.60]]>
+      </TEL>
+      <FAX>
+        <![CDATA[02/219.35.90]]>
+      </FAX>
+      <EMAIL_NL>
+        <![CDATA[info@homegrade.brussels]]>
+      </EMAIL_NL>
+      <EMAIL>
+        <![CDATA[info@homegrade.brussels]]>
+      </EMAIL>
+      <HTTP_NL>
+        <![CDATA[http://www.homegrade.brussels]]>
+      </HTTP_NL>
+      <HTTP>
+        <![CDATA[http://www.homegrade.brussels]]>
+      </HTTP>
+      <HTTPNL2></HTTPNL2>
+      <HTTP2></HTTP2>
+      <URLNL></URLNL>
+      <URLFR></URLFR>
+      <ACTIVNL>
+        <![CDATA[Dienst voor de begeleiding van particulieren die hun woning in het Brussels Gewest wensen te verbeteren:<br>- informatie over geluidsisolatie, energie, huisvesting, renovatie, patrimonium en stedenbouw<br>- huisbezoeken om de energiefactuur te helpen verlagen en renovatieprojecten te helpen verwezenlijken<br>- begeleiding bij stappen die ondernomen moeten worden op technisch en administratief vlak en wegwijs maken in de bestaande financiële tegemoetkomingen door adviseurs<br>]]>
+      </ACTIVNL>
+      <ACTIVFR>
+        <![CDATA[Service qui accompagne les particuliers qui désirent améliorer leur logement en Région bruxelloise :<br>- Information en matière d'isolation acoustique, d'énergie, de logement, de rénovation, de patrimoine et d'urbanisme<br>- Visites à domicile pour aider à réduire la facture énergétique et à concrétiser les projets de rénovation<br>- Accompagnement dans les démarches tant sur le plan technique qu'administratif et information sur les aides financières existantes par des conseillers<br>]]>
+      </ACTIVFR>
+      <PUBLIEK>
+        <![CDATA[Huurders, eigenaars-bewoners, verhuurders, mede-eigenaars]]>
+      </PUBLIEK>
+      <BENEF>
+        <![CDATA[Locataires, propriétaires occupants, bailleurs et copropriétaires]]>
+      </BENEF>
+      <PERMANNL>
+        <![CDATA[- Van dinsdag tot vrijdag van 10 uur tot 17 uur, zaterdag van 14 uur tot 17 uur
+- Telefonische infolijn: van dinsdag tot vrijdag van 10 uur tot 12 uur en van 14 uur tot 16 uur]]>
+      </PERMANNL>
+      <PERMANFR>
+        <![CDATA[- Du mardi au vendredi de 10h à 17h, samedi de 14h à 17h
+- Permanence téléphonique : du mardi au vendredi de 10h à 12h et de 14h à 16h]]>
+      </PERMANFR>
+      <TIJDSCHR></TIJDSCHR>
+      <REVUE></REVUE>
+      <OPMERK>
+        <![CDATA[- Gesubsidieerd door het Brussels Gewest
+- Fusie van vzw STADSWINKEL en vzw ENERGIEHUIS]]>
+      </OPMERK>
+      <REMARQUE>
+        <![CDATA[- Subsidié par la Région bruxelloise
+- Fusion de l'asbl LE CENTRE URBAIN et de l'asbl MAISON DE L'ÉNERGIE]]>
+      </REMARQUE>
+      <PM_RP>
+        <![CDATA[0435.722.317]]>
+      </PM_RP>
+      <DOEL>
+        <![CDATA[De vereniging heeft tot doel de volledige, neutrale, onpartijdige en gedocumenteerde informatie aan de inwoners van het Brussels Hoofdstedelijk Gewest, zonder enig onderscheid, in alle materies die rechtstreeks of onrechtstreeks en op transversale wijze raken aan hel behoud en de verbetering van het stadsmilieu en het leefklimaat in hetl Brussels Hoofdstedelijk Gewest, het duurzaam wonen, de huisvesting en de vernieuwing hiervan, de stedenbouw, de ruimtelijke ordening en het erfgoed te bevorderen. Zij coordineert en integreert de door de regering van het Brussels Hoofdstedelijk Gewest erkende verenigingen van het Netwerk Wonen in een netwerk, in het kader van de gewestelijke strategie en de daarbij behorende doelstellingen, de gemeentelijke strategische context, de kennis van de beoogde wijken, steeds met de bedoeling en de kwaliteit van de geleverde diensten te verbeteren. Zij steunt het werkingsvermogen van de verenigingen van Netwerk wonen, versterkt de mutualisering van de goede praktijken onder hen en vergemakkelijkt de samenwerking tussen de verschiilende actoren van de stadsvernieuwing, waaronder de overheid, en dit netwerk
+Zij heeft met name als opdracht :
+- informatieverspreiding, bewustmaking en opvoeding, raad en bijstand inzake bescherming en verbetering van hel stadsmilieu en het leefklimaat
+- hulp aan de inwoners van het Brussels Hoofdstedelijk Gewest bij de verdediging van de collectieve belangen op het vlak van bescherming en verbetering van het stadsmilieu en hel leefklimaat
+- het verder zetten van specifieke handelingen met hel oog op de verbetering van hel stadsmilieu en het leefklimaat in hel Brussels Hoofdstedelijk Gewest
+- deelname aan adviescommissies en adviesverstrekking in het kader van openbare onderzoeken overontwerpplannen van de Regering voor bescherming en verbetering van het stadsmilieu en het leefklimaat]]>
+      </DOEL>
+      <BUT>
+        <![CDATA[L'association a pour objet:
+- Promouvoir l'information complète, neutre, impartiale et documentée des habitants de la Région de
+Bruxelles-Capitale, sans distinction aucune, dans toutes les matières touchant, directement ou indirectement, et
+de façon transversale, à la défense et l'amélioration de l'environnement urbain et du cadre de vie en Région de
+Bruxelles-Capitale en particulier concernant l'habitat durable, le logement et sa rénovation, l'urbanisme, le
+patrimoine, la réduction de l'impact écologique au sens large des logements bruxellois en favorisant notamment
+la réduction des consommations d'énergie, l'éco-construction, la gestion de l'eau, la qualité acoustique, la
+réduction de la pollution intérieure, la promotion des primes à la rénovation ou à l'énergie, etc
+- Participer de façon significative et quantifiable aux objectifs de réduction des consommations
+énergétiques et d'émissions de gaz à effet de serre émanant du bâtiment et en particulier du logement en
+Région de Bruxelles-Capitale
+- Mettre en oeuvre les politiques régionales en collaboration étroite avec les administrations compétentes
+- Mettre en réseau et coordonner les associations du Réseau Habitat agréées par le Gouvernement de la
+Région de Bruxelles-Capitale et les acteurs locaux comme relais des activités de l'association et ce dans le
+respect de la stratégie régionale et des objectifs y afférents, du contexte stratégique communal, de la
+connaissance des quartiers visés et dans un souci permanent d'amélioration de la qualité du service rendu
+- Soutenir les capacités d'action des acteurs locaux et en particulier les associations du réseau habitat,
+renforcer entre elles la mutualisation des bonnes pratiques et faciliter l'articulation entre les différents acteurs de
+la rénovation urbaine, dont les pouvoirs publics, et ce réseau. L'association s'adresse à tout public et peut accomplir tous les actes se rapportant directement ou
+indirectement à toute activité favorisant la qualité de vie dans le bâti bruxellois tout en réduisant son impact sur
+l'environnement. Pour servir son objectif, dans le respect des lignes directrices des synergies fixées dans les conventions de
+partenariats validées par le/la ou les Ministres compétents pour les matières en lien avec l'objet social,
+l'association se donne notamment pour missions (liste non exhaustive et non limitative) :
+- Diffusion d'informations, sensibilisation et éducation, conseil et accompagnement en matière de
+protection et d'amélioration de l'environnement urbain et du cadre de vie
+- Poursuite d'actions particulières visant l'amélioration de lenvironnement urbain et du cadre de vie en
+Région de Bruxelles-Capitale
+- Réduction de l'impact énergétique et climatique des logements bruxellois via un accompagnement et des
+visites à domicile ayant pour objectif de stimuler les ménages bruxellois au passage à l'acte et d'accélérer ainsi
+le taux de rénovation
+- Conduite d'actions diverses, à destination des propriétaires, gestionnaires et locataires de logement,
+participant de façon significative aux objectifs de réduction des consommations énergétiques et d'émissions de
+gaz à effet de serre en Région de Bruxelles-Capitale. Ces missions sont précisées dans le cadre d'un contrat de gestion passé avec la Région de Bruxelles
+Capitale
+- Accompagnement proposé par l'association sera proactif et bilingue, et d'ordre technique, administratif
+et financier
+]]>
+      </BUT>
+      <PUBLIBS>
+        <![CDATA[http://www.ejustice.just.fgov.be/cgi_tsv/tsv_rech.pl?language=nl&btw=0435722317&liste=Liste]]>
+      </PUBLIBS>
+      <PUBLIMB>
+        <![CDATA[http://www.ejustice.just.fgov.be/cgi_tsv/tsv_rech.pl?language=fr&btw=0435722317&liste=Liste]]>
+      </PUBLIMB>
+      <BRUSOFR>
+        <![CDATA[https://social.brussels/organisation/1]]>
+      </BRUSOFR>
+      <BRUSONL>
+        <![CDATA[https://sociaal.brussels/organisation/1]]>
+      </BRUSONL>
+      <ERKAND></ERKAND>
+      <AGRAUTR></AGRAUTR>
+      <OLDNAMNL>
+        <![CDATA[DE STADSWINKEL - LE CENTRE URBAIN]]>
+      </OLDNAMNL>
+      <OLDNAMFR>
+        <![CDATA[LE CENTRE URBAIN - DE STADSWINKEL]]>
+      </OLDNAMFR>
+      <CREE></CREE>
+      <DEEL></DEEL>
+      <ANTENNE></ANTENNE>
+      <MOTHER></MOTHER>
+      <FAX_NL>
+        <![CDATA[02/219.35.90]]>
+      </FAX_NL>
+      <INT_SOC></INT_SOC>
+      <addresseAdres>
+        <ADRESNL>
+          <![CDATA[Sint-Goriksplein]]>
+        </ADRESNL>
+        <ADRESFR>
+          <![CDATA[Place Saint-Géry]]>
+        </ADRESFR>
+        <ADNUM>1</ADNUM>
+        <BNUM></BNUM>
+        <POSTNL>
+          <![CDATA[1000 BRUSSEL]]>
+        </POSTNL>
+        <POSTFR>
+          <![CDATA[1000 BRUXELLES]]>
+        </POSTFR>
+        <ZIP>
+          <![CDATA[1000]]>
+        </ZIP>
+        <GEMEENTE>
+          <![CDATA[BRUSSEL]]>
+        </GEMEENTE>
+        <COMMUNE>
+          <![CDATA[BRUXELLES]]>
+        </COMMUNE>
+        <ADOPM />
+        <ADREM />
+        <WIJK>
+          <![CDATA[DANSAERT]]>
+        </WIJK>
+        <QUARTIER>
+          <![CDATA[DANSAERT]]>
+        </QUARTIER>
+        <STATCODE>21004A20-</STATCODE>
+        <STATNMNL>
+          <![CDATA[BEURS-NOORDWEST]]>
+        </STATNMNL>
+        <STATNMFR>
+          <![CDATA[BOURSE-NORD-OUEST]]>
+        </STATNMFR>
+        <XCOORD>148498.44</XCOORD>
+        <YCOORD>170846.45</YCOORD>
+        <WGS84LAT>
+          <![CDATA[50.84801816986914]]>
+        </WGS84LAT>
+        <WGS84LON>
+          <![CDATA[4.3474304989496275]]>
+        </WGS84LON>
+        <WQ_CODE>2</WQ_CODE>
+      </addresseAdres>
+      <statutstatuut>922</statutstatuut>
+      <!-- statutstatuut - Association sans but lucratif (ASBL) / Vereniging zonder winstoogmerk (VZW) -->
+      <LANGSTAT>
+        <![CDATA[FR-NL]]>
+      </LANGSTAT>
+      <ACCES></ACCES>
+      <AANMELD></AANMELD>
+      <!-- offrLingTaalAnb - 739 / français / Frans -->
+      <offrLingTaalAnb>739</offrLingTaalAnb>
+      <!-- offrLingTaalAnb - 740 / néerlandais / Nederlands -->
+      <offrLingTaalAnb>740</offrLingTaalAnb>
+      <!-- natOffreHulpwijz - 733 / À domicile / Aan huis -->
+      <natOffreHulpwijz>733</natOffreHulpwijz>
+      <!-- natOffreHulpwijz - 736 / Sur place / Ter plaatse -->
+      <natOffreHulpwijz>736</natOffreHulpwijz>
+      <!-- natOffreHulpwijz - 737 / Téléphonique / Telefonisch -->
+      <natOffreHulpwijz>737</natOffreHulpwijz>
+      <!-- zoneActionWerkgebied - 268 / Région bruxelloise / Brussels Gewest -->
+      <zoneActionWerkgebied>268</zoneActionWerkgebied>
+      <!-- CATEG - 56 / Conseils en rénovation / Renovatieadvies -->
+      <CATEG>56</CATEG>
+      <!-- CATEG - 456 / Accès à l'énergie et gestion de son utilisation / Toegang tot energie en beheer van het energieverbruik -->
+      <CATEG>456</CATEG>
+    </mes:organisation>
+  </mes:organisationList>
+</mes:updateRequest>

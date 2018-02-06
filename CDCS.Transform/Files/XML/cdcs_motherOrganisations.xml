@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<motherOrganisations>
+  <pouvoirAgreantErkenning>
+				<id>497</id>
+				<value i18n="fr">AUTORITÉ FÉDÉRALE</value>
+				<value i18n="nl">FEDERALE OVERHEID</value>
+			</pouvoirAgreantErkenning>
+  <pouvoirAgreantErkenning>
+				<id>498</id>
+				<value i18n="fr">COMMISSION COMMUNAUTAIRE COMMUNE - COCOM</value>
+				<value i18n="nl">GEMEENSCHAPPELIJKE GEMEENSCHAPSCOMMISSIE - GGC</value>
+			</pouvoirAgreantErkenning>
+  <pouvoirAgreantErkenning>
+				<id>499</id>
+				<value i18n="fr">COMMISSION COMMUNAUTAIRE FRANÇAISE - COCOF</value>
+				<value i18n="nl">COMMISSION COMMUNAUTAIRE FRANÇAISE - COCOF</value>
+			</pouvoirAgreantErkenning>
+  <pouvoirAgreantErkenning>
+				<id>501</id>
+				<value i18n="fr">COMMUNAUTÉ FLAMANDE</value>
+				<value i18n="nl">VLAAMSE GEMEENSCHAP</value>
+			</pouvoirAgreantErkenning>
+  <pouvoirAgreantErkenning>
+				<id>502</id>
+				<value i18n="fr">COMMUNAUTÉ FRANÇAISE</value>
+				<value i18n="nl">FRANSE GEMEENSCHAP</value>
+			</pouvoirAgreantErkenning>
+  <pouvoirAgreantErkenning>
+				<id>503</id>
+				<value i18n="fr">KIND EN GEZIN</value>
+				<value i18n="nl">KIND EN GEZIN</value>
+			</pouvoirAgreantErkenning>
+  <pouvoirAgreantErkenning>
+				<id>504</id>
+				<value i18n="fr">OFFICE DE LA NAISSANCE ET DE L'ENFANCE - ONE</value>
+				<value i18n="nl">OFFICE DE LA NAISSANCE ET DE L'ENFANCE - ONE</value>
+			</pouvoirAgreantErkenning>
+  <pouvoirAgreantErkenning>
+				<id>505</id>
+				<value i18n="fr">PERSONNES HANDICAPÉES AUTONOMIE RECHERCHÉE - PHARE</value>
+				<value i18n="nl">PERSONNES HANDICAPÉES AUTONOMIE RECHERCHÉE - PHARE</value>
+			</pouvoirAgreantErkenning>
+  <pouvoirAgreantErkenning>
+				<id>506</id>
+				<value i18n="fr">RÉGION DE BRUXELLES-CAPITALE</value>
+				<value i18n="nl">BRUSSELS HOOFDSTEDELIJK GEWEST</value>
+			</pouvoirAgreantErkenning>
+  <pouvoirAgreantErkenning>
+				<id>507</id>
+				<value i18n="fr">SOCIÉTÉ DU LOGEMENT DE LA RÉGION DE BRUXELLES-CAPITALE - SLRB</value>
+				<value i18n="nl">BRUSSELSE GEWESTELIJKE HUISVESTINGSMAATSCHAPPIJ - BGHM</value>
+			</pouvoirAgreantErkenning>
+  <pouvoirAgreantErkenning>
+				<id>508</id>
+				<value i18n="fr">VLAAMS AGENTSCHAP VOOR PERSONEN MET EEN HANDICAP - VAPH</value>
+				<value i18n="nl">VLAAMS AGENTSCHAP VOOR PERSONEN MET EEN HANDICAP - VAPH</value>
+			</pouvoirAgreantErkenning>
+  <pouvoirAgreantErkenning>
+				<id>509</id>
+				<value i18n="fr">VLAAMSE DIENST VOOR ARBEIDSBEMIDDELING EN BEROEPSOPLEIDING - VDAB</value>
+				<value i18n="nl">VLAAMSE DIENST VOOR ARBEIDSBEMIDDELING EN BEROEPSOPLEIDING - VDAB</value>
+			</pouvoirAgreantErkenning>
+  <pouvoirAgreantErkenning>
+				<id>510</id>
+				<value i18n="fr">VLAAMSE GEMEENSCHAPSCOMMISSIE - VGC</value>
+				<value i18n="nl">VLAAMSE GEMEENSCHAPSCOMMISSIE - VGC</value>
+			</pouvoirAgreantErkenning>
+</motherOrganisations>

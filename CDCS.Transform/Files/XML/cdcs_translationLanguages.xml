@@ -1,0 +1,563 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<translationLanguages>
+  <offrLingTaal>
+				<id>739</id>
+				<value i18n="fr">français</value>
+				<value i18n="nl">Frans</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>740</id>
+				<value i18n="fr">néerlandais</value>
+				<value i18n="nl">Nederlands</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>741</id>
+				<value i18n="fr">afar</value>
+				<value i18n="nl">Afar</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>742</id>
+				<value i18n="fr">albanais</value>
+				<value i18n="nl">Albanees</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>743</id>
+				<value i18n="fr">allemand</value>
+				<value i18n="nl">Duits</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>744</id>
+				<value i18n="fr">amharique </value>
+				<value i18n="nl">Amhaars</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>745</id>
+				<value i18n="fr">anglais</value>
+				<value i18n="nl">Engels</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>746</id>
+				<value i18n="fr">arabe (standard moderne)</value>
+				<value i18n="nl">Arabisch (modern standaard)</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>747</id>
+				<value i18n="fr">arabe (maghrébin)</value>
+				<value i18n="nl">Arabisch (Maghrebijns)</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>748</id>
+				<value i18n="fr">araméen</value>
+				<value i18n="nl">Aramees</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>749</id>
+				<value i18n="fr">arménien</value>
+				<value i18n="nl">Armeens</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>750</id>
+				<value i18n="fr">azéri</value>
+				<value i18n="nl">Azeri</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>751</id>
+				<value i18n="fr">bambara</value>
+				<value i18n="nl">Bambara</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>752</id>
+				<value i18n="fr">bengali</value>
+				<value i18n="nl">Bengaals</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>753</id>
+				<value i18n="fr">biélorusse</value>
+				<value i18n="nl">Wit-Russisch</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>754</id>
+				<value i18n="fr">bosniaque </value>
+				<value i18n="nl">Bosnisch </value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>755</id>
+				<value i18n="fr">bulgare </value>
+				<value i18n="nl">Bulgaars </value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>756</id>
+				<value i18n="fr">cachemiri</value>
+				<value i18n="nl">Kasjmiri</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>757</id>
+				<value i18n="fr">cantonais</value>
+				<value i18n="nl">Kantonees</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>758</id>
+				<value i18n="fr">catalan</value>
+				<value i18n="nl">Catalaans</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>759</id>
+				<value i18n="fr">cingalais</value>
+				<value i18n="nl">Singalees</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>760</id>
+				<value i18n="fr">coréen </value>
+				<value i18n="nl">Koreaans</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>761</id>
+				<value i18n="fr">croate </value>
+				<value i18n="nl">Kroatisch</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>762</id>
+				<value i18n="fr">danois</value>
+				<value i18n="nl">Deens</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>763</id>
+				<value i18n="fr">dari </value>
+				<value i18n="nl">Dari </value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>764</id>
+				<value i18n="fr">dioula</value>
+				<value i18n="nl">Dioula</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>765</id>
+				<value i18n="fr">espagnol</value>
+				<value i18n="nl">Spaans</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>766</id>
+				<value i18n="fr">ewe</value>
+				<value i18n="nl">Ewe</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>767</id>
+				<value i18n="fr">finnois</value>
+				<value i18n="nl">Fins</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>768</id>
+				<value i18n="fr">fon-gbe</value>
+				<value i18n="nl">Fon</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>769</id>
+				<value i18n="fr">géorgien</value>
+				<value i18n="nl">Georgisch</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>770</id>
+				<value i18n="fr">grec</value>
+				<value i18n="nl">Grieks</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>771</id>
+				<value i18n="fr">gujarati</value>
+				<value i18n="nl">Gujarati</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>772</id>
+				<value i18n="fr">hakka</value>
+				<value i18n="nl">Hakka</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>773</id>
+				<value i18n="fr">haoussa</value>
+				<value i18n="nl">Hausa</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>774</id>
+				<value i18n="fr">hassanya</value>
+				<value i18n="nl">Hassaniya</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>775</id>
+				<value i18n="fr">hébreu</value>
+				<value i18n="nl">Hebreeuws</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>776</id>
+				<value i18n="fr">hindi</value>
+				<value i18n="nl">Hindi</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>777</id>
+				<value i18n="fr">hongrois</value>
+				<value i18n="nl">Hongaars</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>778</id>
+				<value i18n="fr">igbo</value>
+				<value i18n="nl">Igbo</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>779</id>
+				<value i18n="fr">indonésien</value>
+				<value i18n="nl">Indonesisch</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>780</id>
+				<value i18n="fr">italien</value>
+				<value i18n="nl">Italiaans</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>781</id>
+				<value i18n="fr">japonais</value>
+				<value i18n="nl">Japans</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>782</id>
+				<value i18n="fr">kabyle</value>
+				<value i18n="nl">Kabylisch</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>783</id>
+				<value i18n="fr">kazakh</value>
+				<value i18n="nl">Kazachs</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>784</id>
+				<value i18n="fr">khmer</value>
+				<value i18n="nl">Khmer</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>785</id>
+				<value i18n="fr">kirghiz</value>
+				<value i18n="nl">Kirgizisch</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>786</id>
+				<value i18n="fr">kikongo</value>
+				<value i18n="nl">Kikongo </value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>787</id>
+				<value i18n="fr">kinyarwanda </value>
+				<value i18n="nl">Kinyarwanda</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>788</id>
+				<value i18n="fr">kirundi</value>
+				<value i18n="nl">Kirundi</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>789</id>
+				<value i18n="fr">kiyaka </value>
+				<value i18n="nl">Kiyaka </value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>790</id>
+				<value i18n="fr">krio</value>
+				<value i18n="nl">Krio</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>791</id>
+				<value i18n="fr">kurde</value>
+				<value i18n="nl">Koerdisch</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>792</id>
+				<value i18n="fr">langue des signes de Belgique francophone (LSFB)</value>
+				<value i18n="nl">langue des signes de Belgique francophone (LSFB)</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>793</id>
+				<value i18n="fr">lao</value>
+				<value i18n="nl">Lao</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>794</id>
+				<value i18n="fr">letton</value>
+				<value i18n="nl">Lets</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>795</id>
+				<value i18n="fr">lingala</value>
+				<value i18n="nl">Lingala </value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>796</id>
+				<value i18n="fr">lituanien </value>
+				<value i18n="nl">Litouws</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>797</id>
+				<value i18n="fr">macédonien </value>
+				<value i18n="nl">Macedonisch </value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>798</id>
+				<value i18n="fr">malayalam</value>
+				<value i18n="nl">Malayalam</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>799</id>
+				<value i18n="fr">malinké </value>
+				<value i18n="nl">Malinké </value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>800</id>
+				<value i18n="fr">mandarin</value>
+				<value i18n="nl">Mandarijn</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>801</id>
+				<value i18n="fr">mongol</value>
+				<value i18n="nl">Mongools</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>802</id>
+				<value i18n="fr">monténégrin</value>
+				<value i18n="nl">Montenegrijns</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>803</id>
+				<value i18n="fr">moré</value>
+				<value i18n="nl">More</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>804</id>
+				<value i18n="fr">népalais</value>
+				<value i18n="nl">Nepalees</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>805</id>
+				<value i18n="fr">norvégien</value>
+				<value i18n="nl">Noors</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>806</id>
+				<value i18n="fr">oromo</value>
+				<value i18n="nl">Oromo </value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>807</id>
+				<value i18n="fr">ouïgour </value>
+				<value i18n="nl">Oeigoers</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>808</id>
+				<value i18n="fr">ourdou</value>
+				<value i18n="nl">Urdu  </value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>809</id>
+				<value i18n="fr">ouzbek</value>
+				<value i18n="nl">Oezbeeks</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>810</id>
+				<value i18n="fr">pashto</value>
+				<value i18n="nl">Pasjtoe </value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>811</id>
+				<value i18n="fr">pendjabi</value>
+				<value i18n="nl">Punjabi</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>812</id>
+				<value i18n="fr">persan</value>
+				<value i18n="nl">Perzisch </value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>813</id>
+				<value i18n="fr">peul</value>
+				<value i18n="nl">Peul </value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>814</id>
+				<value i18n="fr">philippin</value>
+				<value i18n="nl">Filipijns</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>815</id>
+				<value i18n="fr">polonais </value>
+				<value i18n="nl">Pools </value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>816</id>
+				<value i18n="fr">portugais </value>
+				<value i18n="nl">Portugees </value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>817</id>
+				<value i18n="fr">rifain</value>
+				<value i18n="nl">Riffijns</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>818</id>
+				<value i18n="fr">rom </value>
+				<value i18n="nl">Rom</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>819</id>
+				<value i18n="fr">roumain</value>
+				<value i18n="nl">Roemeens</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>820</id>
+				<value i18n="fr">russe </value>
+				<value i18n="nl">Russisch </value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>821</id>
+				<value i18n="fr">serbe</value>
+				<value i18n="nl">Servisch</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>822</id>
+				<value i18n="fr">slovaque </value>
+				<value i18n="nl">Slowaaks </value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>823</id>
+				<value i18n="fr">slovène</value>
+				<value i18n="nl">Sloveens</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>824</id>
+				<value i18n="fr">somali </value>
+				<value i18n="nl">Somalisch</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>825</id>
+				<value i18n="fr">soussou</value>
+				<value i18n="nl">Soussou </value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>826</id>
+				<value i18n="fr">suédois </value>
+				<value i18n="nl">Zweeds</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>827</id>
+				<value i18n="fr">swahili </value>
+				<value i18n="nl">Swahili </value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>828</id>
+				<value i18n="fr">tagalog</value>
+				<value i18n="nl">Tagalog</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>829</id>
+				<value i18n="fr">tamil</value>
+				<value i18n="nl">Tamil</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>830</id>
+				<value i18n="fr">tchèque </value>
+				<value i18n="nl">Tsjechisch</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>831</id>
+				<value i18n="fr">tchétchène</value>
+				<value i18n="nl">Tsjetsjeens</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>832</id>
+				<value i18n="fr">tetela</value>
+				<value i18n="nl">Tetela</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>833</id>
+				<value i18n="fr">thaï</value>
+				<value i18n="nl">Thai</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>834</id>
+				<value i18n="fr">tibétain</value>
+				<value i18n="nl">Tibetaans</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>835</id>
+				<value i18n="fr">tigrigna</value>
+				<value i18n="nl">Tigrinya</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>836</id>
+				<value i18n="fr">tshiluba</value>
+				<value i18n="nl">Tshiluba</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>837</id>
+				<value i18n="fr">tswana</value>
+				<value i18n="nl">Tswana</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>838</id>
+				<value i18n="fr">turc </value>
+				<value i18n="nl">Turks</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>839</id>
+				<value i18n="fr">turkmène</value>
+				<value i18n="nl">Turkmeens</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>840</id>
+				<value i18n="fr">twi</value>
+				<value i18n="nl">Twi </value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>841</id>
+				<value i18n="fr">ukrainien  </value>
+				<value i18n="nl">Oekraïens</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>842</id>
+				<value i18n="fr">vietnamien</value>
+				<value i18n="nl">Vietnamees</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>843</id>
+				<value i18n="fr">Vlaamse Gebarentaal (VGT)</value>
+				<value i18n="nl">Vlaamse Gebarentaal (VGT)</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>844</id>
+				<value i18n="fr">wolof</value>
+				<value i18n="nl">Wolof</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>845</id>
+				<value i18n="fr">yiddish</value>
+				<value i18n="nl">Jiddisch</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>846</id>
+				<value i18n="fr">zarma</value>
+				<value i18n="nl">Zarma</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>847</id>
+				<value i18n="fr">-service faisant appel à un service d'interprétariat social</value>
+				<value i18n="nl">-Dienst die een beroep doet op sociaal tolkdiensten </value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>848</id>
+				<value i18n="fr">-service faisant appel à un service de médiation interculturelle</value>
+				<value i18n="nl">-Dienst die een beroep doet op interculturele bemiddelaars</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>1168</id>
+				<value i18n="fr">domari</value>
+				<value i18n="nl">Domari</value>
+			</offrLingTaal>
+  <offrLingTaal>
+				<id>1169</id>
+				<value i18n="fr">tadjik</value>
+				<value i18n="nl">Tadzjieks</value>
+			</offrLingTaal>
+</translationLanguages>

@@ -1,0 +1,261 @@
+<?xml version="1.0"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="updateRequest">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="organisationList">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element minOccurs="0" maxOccurs="unbounded" name="organisation">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element minOccurs="0" name="id" type="xs:unsignedShort" />
+                    <xs:element minOccurs="0" name="FICHE" type="xs:unsignedShort" />
+                    <xs:element minOccurs="0" name="INFOR" type="xs:string" />
+                    <xs:element minOccurs="0" name="NMOFFNL" type="xs:string" />
+                    <xs:element minOccurs="0" name="NMOFFFR" type="xs:string" />
+                    <xs:element minOccurs="0" maxOccurs="unbounded" name="NMUSENL" type="xs:string" />
+                    <xs:element minOccurs="0" maxOccurs="unbounded" name="NMUSEFR" type="xs:string" />
+                    <xs:element minOccurs="0" maxOccurs="unbounded" name="NMSERVNL" type="xs:string" />
+                    <xs:element minOccurs="0" maxOccurs="unbounded" name="NMSERVFR" type="xs:string" />
+                    <xs:element minOccurs="0" maxOccurs="unbounded" name="TEL_NL" type="xs:string" />
+                    <xs:element minOccurs="0" maxOccurs="unbounded" name="TEL" type="xs:string" />
+                    <xs:element minOccurs="0" maxOccurs="unbounded" name="FAX" type="xs:string" />
+                    <xs:element minOccurs="0" maxOccurs="unbounded" name="EMAIL_NL" type="xs:string" />
+                    <xs:element minOccurs="0" maxOccurs="unbounded" name="EMAIL" type="xs:string" />
+                    <xs:element minOccurs="0" name="HTTP_NL" type="xs:string" />
+                    <xs:element minOccurs="0" name="HTTP" type="xs:string" />
+                    <xs:element minOccurs="0" maxOccurs="unbounded" name="HTTPNL2" type="xs:string" />
+                    <xs:element minOccurs="0" maxOccurs="unbounded" name="HTTP2" type="xs:string" />
+                    <xs:element minOccurs="0" maxOccurs="unbounded" name="URLNL" type="xs:string" />
+                    <xs:element minOccurs="0" maxOccurs="unbounded" name="URLFR" type="xs:string" />
+                    <xs:element minOccurs="0" name="ACTIVNL" type="xs:string" />
+                    <xs:element minOccurs="0" name="ACTIVFR" type="xs:string" />
+                    <xs:element minOccurs="0" name="PUBLIEK" type="xs:string" />
+                    <xs:element minOccurs="0" name="BENEF" type="xs:string" />
+                    <xs:element minOccurs="0" name="PERMANNL" type="xs:string" />
+                    <xs:element minOccurs="0" name="PERMANFR" type="xs:string" />
+                    <xs:element minOccurs="0" maxOccurs="unbounded" name="TIJDSCHR" type="xs:string" />
+                    <xs:element minOccurs="0" maxOccurs="unbounded" name="REVUE" type="xs:string" />
+                    <xs:element minOccurs="0" name="OPMERK" type="xs:string" />
+                    <xs:element minOccurs="0" name="REMARQUE" type="xs:string" />
+                    <xs:element minOccurs="0" name="PM_RP" type="xs:string" />
+                    <xs:element minOccurs="0" name="DOEL" type="xs:string" />
+                    <xs:element minOccurs="0" name="BUT" type="xs:string" />
+                    <xs:element minOccurs="0" name="PUBLIBS" type="xs:string" />
+                    <xs:element minOccurs="0" name="PUBLIMB" type="xs:string" />
+                    <xs:element minOccurs="0" name="BRUSOFR" type="xs:string" />
+                    <xs:element minOccurs="0" name="BRUSONL" type="xs:string" />
+                    <xs:element minOccurs="0" maxOccurs="unbounded" name="ERKAND" type="xs:string" />
+                    <xs:element minOccurs="0" maxOccurs="unbounded" name="AGRAUTR" type="xs:string" />
+                    <xs:element minOccurs="0" maxOccurs="unbounded" name="OLDNAMNL" type="xs:string" />
+                    <xs:element minOccurs="0" maxOccurs="unbounded" name="OLDNAMFR" type="xs:string" />
+                    <xs:element minOccurs="0" name="CREE" type="xs:string" />
+                    <xs:element minOccurs="0" name="DEEL" type="xs:string" />
+                    <xs:element minOccurs="0" name="ANTENNE" type="xs:string" />
+                    <xs:element minOccurs="0" name="MOTHER" type="xs:string" />
+                    <xs:element minOccurs="0" maxOccurs="unbounded" name="FAX_NL" type="xs:string" />
+                    <xs:element minOccurs="0" name="INT_SOC" type="xs:string" />
+                    <xs:element minOccurs="0" name="addresseAdres">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element minOccurs="0" name="ADRESNL" type="xs:string" />
+                          <xs:element minOccurs="0" name="ADRESFR" type="xs:string" />
+                          <xs:element minOccurs="0" name="ADNUM" type="xs:string" />
+                          <xs:element minOccurs="0" name="BNUM" type="xs:string" />
+                          <xs:element minOccurs="0" name="POSTNL" type="xs:string" />
+                          <xs:element minOccurs="0" name="POSTFR" type="xs:string" />
+                          <xs:element minOccurs="0" name="ZIP" type="xs:string" />
+                          <xs:element minOccurs="0" name="GEMEENTE" type="xs:string" />
+                          <xs:element minOccurs="0" name="COMMUNE" type="xs:string" />
+                          <xs:element minOccurs="0" name="ADOPM" type="xs:string" />
+                          <xs:element minOccurs="0" name="ADREM" type="xs:string" />
+                          <xs:element minOccurs="0" name="WIJK" type="xs:string" />
+                          <xs:element minOccurs="0" name="QUARTIER" type="xs:string" />
+                          <xs:element minOccurs="0" name="STATCODE" type="xs:string" />
+                          <xs:element minOccurs="0" name="STATNMNL" type="xs:string" />
+                          <xs:element minOccurs="0" name="STATNMFR" type="xs:string" />
+                          <xs:element minOccurs="0" name="XCOORD" type="xs:string" />
+                          <xs:element minOccurs="0" name="YCOORD" type="xs:string" />
+                          <xs:element minOccurs="0" name="WGS84LAT" type="xs:string" />
+                          <xs:element minOccurs="0" name="WGS84LON" type="xs:string" />
+                          <xs:element minOccurs="0" name="WQ_CODE" type="xs:string" />
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element minOccurs="0" name="statutstatuut" type="xs:unsignedShort" />
+                    <xs:element minOccurs="0" name="LANGSTAT" type="xs:string" />
+                    <xs:element minOccurs="0" maxOccurs="unbounded" name="ACCES" type="xs:string" />
+                    <xs:element minOccurs="0" maxOccurs="unbounded" name="AANMELD" type="xs:string" />
+                    <xs:element minOccurs="0" maxOccurs="unbounded" name="offrLingTaalAnb" type="xs:unsignedShort" />
+                    <xs:element minOccurs="0" maxOccurs="unbounded" name="natOffreHulpwijz" type="xs:unsignedShort" />
+                    <xs:element minOccurs="0" maxOccurs="unbounded" name="agrementErken" type="xs:unsignedShort" />
+                    <xs:element minOccurs="0" maxOccurs="unbounded" name="zoneActionWerkgebied" type="xs:unsignedShort" />
+                    <xs:element minOccurs="0" maxOccurs="unbounded" name="CATEG" type="xs:unsignedShort" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element minOccurs="0" name="LangStatList">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element minOccurs="0" maxOccurs="unbounded" name="LangStat">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element minOccurs="0" name="id" type="xs:unsignedShort" />
+                    <xs:element minOccurs="0" maxOccurs="unbounded" name="value">
+                      <xs:complexType>
+                        <xs:simpleContent>
+                          <xs:extension base="xs:string">
+                            <xs:attribute name="i18n" type="xs:string" use="optional" />
+                          </xs:extension>
+                        </xs:simpleContent>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element minOccurs="0" name="natOffreHulpwijzList">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element minOccurs="0" maxOccurs="unbounded" name="natOffreHulpwijz">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element minOccurs="0" name="id" type="xs:unsignedShort" />
+                    <xs:element minOccurs="0" maxOccurs="unbounded" name="value">
+                      <xs:complexType>
+                        <xs:simpleContent>
+                          <xs:extension base="xs:string">
+                            <xs:attribute name="i18n" type="xs:string" use="optional" />
+                          </xs:extension>
+                        </xs:simpleContent>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element minOccurs="0" name="offrLingTaalList">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element minOccurs="0" maxOccurs="unbounded" name="offrLingTaal">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element minOccurs="0" name="id" type="xs:unsignedShort" />
+                    <xs:element minOccurs="0" maxOccurs="unbounded" name="value">
+                      <xs:complexType>
+                        <xs:simpleContent>
+                          <xs:extension base="xs:string">
+                            <xs:attribute name="i18n" type="xs:string" use="optional" />
+                          </xs:extension>
+                        </xs:simpleContent>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element minOccurs="0" name="StatutStatuutList">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element minOccurs="0" maxOccurs="unbounded" name="StatutStatuut">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element minOccurs="0" name="id" type="xs:unsignedShort" />
+                    <xs:element minOccurs="0" maxOccurs="unbounded" name="value">
+                      <xs:complexType>
+                        <xs:simpleContent>
+                          <xs:extension base="xs:string">
+                            <xs:attribute name="i18n" type="xs:string" use="optional" />
+                          </xs:extension>
+                        </xs:simpleContent>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element minOccurs="0" name="zoneActionWerkgebiedList">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element minOccurs="0" maxOccurs="unbounded" name="zoneActionWerkgebied">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element minOccurs="0" name="id" type="xs:unsignedShort" />
+                    <xs:element minOccurs="0" maxOccurs="unbounded" name="value">
+                      <xs:complexType>
+                        <xs:simpleContent>
+                          <xs:extension base="xs:string">
+                            <xs:attribute name="i18n" type="xs:string" use="optional" />
+                          </xs:extension>
+                        </xs:simpleContent>
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element minOccurs="0" maxOccurs="unbounded" name="parent" type="xs:unsignedShort" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element minOccurs="0" name="pouvoirAgreantErkenningList">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element minOccurs="0" maxOccurs="unbounded" name="pouvoirAgreantErkenning">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element minOccurs="0" name="id" type="xs:unsignedShort" />
+                    <xs:element minOccurs="0" maxOccurs="unbounded" name="value">
+                      <xs:complexType>
+                        <xs:simpleContent>
+                          <xs:extension base="xs:string">
+                            <xs:attribute name="i18n" type="xs:string" use="optional" />
+                          </xs:extension>
+                        </xs:simpleContent>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element minOccurs="0" name="agrementErkenList">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element minOccurs="0" maxOccurs="unbounded" name="agrementErken">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element minOccurs="0" name="id" type="xs:unsignedShort" />
+                    <xs:element minOccurs="0" maxOccurs="unbounded" name="value">
+                      <xs:complexType>
+                        <xs:simpleContent>
+                          <xs:extension base="xs:string">
+                            <xs:attribute name="i18n" type="xs:string" use="optional" />
+                          </xs:extension>
+                        </xs:simpleContent>
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element minOccurs="0" name="pouvoirAgreantErkenning" type="xs:unsignedShort" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+      <xs:attribute name="schemaLocation" type="xs:string" use="optional" />
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

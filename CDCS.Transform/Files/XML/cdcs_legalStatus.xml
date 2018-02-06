@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<legalStatus>
+  <StatutStatuut>
+				<id>919</id>
+				<value i18n="fr">Association Chapitre XII (L.O. CPAS)</value>
+				<value i18n="nl">Vereniging Hoofdstuk XII (OCMW-wet)</value>
+			</StatutStatuut>
+  <StatutStatuut>
+				<id>920</id>
+				<value i18n="fr">Association de fait (AF)</value>
+				<value i18n="nl">Feitelijke vereniging (FV)</value>
+			</StatutStatuut>
+  <StatutStatuut>
+				<id>921</id>
+				<value i18n="fr">Association internationale (AI)</value>
+				<value i18n="nl">Internationale vereniging (IV)</value>
+			</StatutStatuut>
+  <StatutStatuut>
+				<id>922</id>
+				<value i18n="fr">Association sans but lucratif (ASBL)</value>
+				<value i18n="nl">Vereniging zonder winstoogmerk (VZW)</value>
+			</StatutStatuut>
+  <StatutStatuut>
+				<id>923</id>
+				<value i18n="fr">Fondation d'utilité publique (FUP)</value>
+				<value i18n="nl">Stichting van openbaar nut (SON)</value>
+			</StatutStatuut>
+  <StatutStatuut>
+				<id>924</id>
+				<value i18n="fr">Fondation privée (FP)</value>
+				<value i18n="nl">Private stichting (PS)</value>
+			</StatutStatuut>
+  <StatutStatuut>
+				<id>925</id>
+				<value i18n="fr">Mutualité</value>
+				<value i18n="nl">Ziekenfonds</value>
+			</StatutStatuut>
+  <StatutStatuut>
+				<id>926</id>
+				<value i18n="fr">Personne physique</value>
+				<value i18n="nl">Natuurlijk persoon</value>
+			</StatutStatuut>
+  <StatutStatuut>
+				<id>927</id>
+				<value i18n="fr">Personne morale de droit public</value>
+				<value i18n="nl">Publiekrechtelijk rechtspersoon</value>
+			</StatutStatuut>
+  <StatutStatuut>
+				<id>928</id>
+				<value i18n="fr">Service public - COCOF</value>
+				<value i18n="nl">Openbare instelling - COCOF</value>
+			</StatutStatuut>
+  <StatutStatuut>
+				<id>929</id>
+				<value i18n="fr">Service public - COCOM</value>
+				<value i18n="nl">Openbare instelling - GGC</value>
+			</StatutStatuut>
+  <StatutStatuut>
+				<id>930</id>
+				<value i18n="fr">Service public - Communauté française</value>
+				<value i18n="nl">Openbare instelling - Franse Gemeenschap</value>
+			</StatutStatuut>
+  <StatutStatuut>
+				<id>931</id>
+				<value i18n="fr">Service public - Commune</value>
+				<value i18n="nl">Openbare dienst - Gemeente</value>
+			</StatutStatuut>
+  <StatutStatuut>
+				<id>932</id>
+				<value i18n="fr">Service public - CPAS</value>
+				<value i18n="nl">Openbare dienst - OCMW</value>
+			</StatutStatuut>
+  <StatutStatuut>
+				<id>933</id>
+				<value i18n="fr">Service public - Fédéral</value>
+				<value i18n="nl">Openbare instelling - Federaal</value>
+			</StatutStatuut>
+  <StatutStatuut>
+				<id>934</id>
+				<value i18n="fr">Service public - Interfédéral</value>
+				<value i18n="nl">Openbare instelling - Interfederaal</value>
+			</StatutStatuut>
+  <StatutStatuut>
+				<id>935</id>
+				<value i18n="fr">Service public - Région bruxelloise</value>
+				<value i18n="nl">Openbare instelling - Brussels Gewest</value>
+			</StatutStatuut>
+  <StatutStatuut>
+				<id>936</id>
+				<value i18n="fr">Service public - VGC</value>
+				<value i18n="nl">Openbare instelling - VGC</value>
+			</StatutStatuut>
+  <StatutStatuut>
+				<id>937</id>
+				<value i18n="fr">Service public - Vlaamse Gemeenschap</value>
+				<value i18n="nl">Openbare instelling - Vlaamse Gemeenschap</value>
+			</StatutStatuut>
+  <StatutStatuut>
+				<id>938</id>
+				<value i18n="fr">Société à finalité sociale (SFS)</value>
+				<value i18n="nl">Vennootschap met een sociaal oogmerk (VSO)</value>
+			</StatutStatuut>
+  <StatutStatuut>
+				<id>939</id>
+				<value i18n="fr">Société anonyme (SA)</value>
+				<value i18n="nl">Naamloze vennootschap (NV)</value>
+			</StatutStatuut>
+  <StatutStatuut>
+				<id>940</id>
+				<value i18n="fr">Société coopérative à responsabilité limitée (SCRL)</value>
+				<value i18n="nl">Coöperatieve vennootschap met beperkte aansprakelijkheid (CVBA)</value>
+			</StatutStatuut>
+  <StatutStatuut>
+				<id>941</id>
+				<value i18n="fr">Société privée à responsabilité limitée (SPRL)</value>
+				<value i18n="nl">Besloten vennootschap met beperkte aansprakelijkheid (BVBA)</value>
+			</StatutStatuut>
+  <StatutStatuut>
+				<id>942</id>
+				<value i18n="fr">Société coopérative à responsabilité illimitée (SCRI)</value>
+				<value i18n="nl">Coöperatieve vennootschap met onbeperkte aansprakelijkheid (CVOA)</value>
+			</StatutStatuut>
+  <StatutStatuut>
+				<id>943</id>
+				<value i18n="fr">Syndicat</value>
+				<value i18n="nl">Vakbond</value>
+			</StatutStatuut>
+</legalStatus>

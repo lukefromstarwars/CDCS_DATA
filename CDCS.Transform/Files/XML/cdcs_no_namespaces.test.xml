@@ -1,0 +1,3761 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<updateRequest
+  schemaLocation="http://psb.bric.brussels/bruso/messages/organisation/v1">
+  <organisationList>
+    <organisation>
+      <id>1</id>
+      <FICHE>000001</FICHE>
+      <INFOR>31/08/17</INFOR>
+      <NMOFFNL>HOMEGRADE.BRUSSELS</NMOFFNL>
+      <NMOFFFR>HOMEGRADE.BRUSSELS</NMOFFFR>
+      <NMUSENL />
+      <NMUSEFR />
+      <NMSERVNL />
+      <NMSERVFR />
+      <TEL_NL>02/219.40.60</TEL_NL>
+      <TEL>02/219.40.60</TEL>
+      <FAX>02/219.35.90</FAX>
+      <EMAIL_NL>info@homegrade.brussels</EMAIL_NL>
+      <EMAIL>info@homegrade.brussels</EMAIL>
+      <HTTP_NL>http://www.homegrade.brussels</HTTP_NL>
+      <HTTP>http://www.homegrade.brussels</HTTP>
+      <HTTPNL2 />
+      <HTTP2 />
+      <URLNL />
+      <URLFR />
+      <ACTIVNL>Dienst voor de begeleiding van particulieren die hun woning in het Brussels Gewest wensen te verbeteren:&lt;br&gt;- informatie over geluidsisolatie, energie, huisvesting, renovatie, patrimonium en stedenbouw&lt;br&gt;- huisbezoeken om de energiefactuur te helpen verlagen en renovatieprojecten te helpen verwezenlijken&lt;br&gt;- begeleiding bij stappen die ondernomen moeten worden op technisch en administratief vlak en wegwijs maken in de bestaande financiële tegemoetkomingen door adviseurs&lt;br&gt;</ACTIVNL>
+      <ACTIVFR>Service qui accompagne les particuliers qui désirent améliorer leur logement en Région bruxelloise :&lt;br&gt;- Information en matière d'isolation acoustique, d'énergie, de logement, de rénovation, de patrimoine et d'urbanisme&lt;br&gt;- Visites à domicile pour aider à réduire la facture énergétique et à concrétiser les projets de rénovation&lt;br&gt;- Accompagnement dans les démarches tant sur le plan technique qu'administratif et information sur les aides financières existantes par des conseillers&lt;br&gt;</ACTIVFR>
+      <PUBLIEK>Huurders, eigenaars-bewoners, verhuurders, mede-eigenaars</PUBLIEK>
+      <BENEF>Locataires, propriétaires occupants, bailleurs et copropriétaires</BENEF>
+      <PERMANNL>
+        - Van dinsdag tot vrijdag van 10 uur tot 17 uur, zaterdag van 14 uur tot 17 uur
+        - Telefonische infolijn: van dinsdag tot vrijdag van 10 uur tot 12 uur en van 14 uur tot 16 uur
+      </PERMANNL>
+      <PERMANFR>
+        - Du mardi au vendredi de 10h à 17h, samedi de 14h à 17h
+        - Permanence téléphonique : du mardi au vendredi de 10h à 12h et de 14h à 16h
+      </PERMANFR>
+      <TIJDSCHR />
+      <REVUE />
+      <OPMERK>
+        - Gesubsidieerd door het Brussels Gewest
+        - Fusie van vzw STADSWINKEL en vzw ENERGIEHUIS
+      </OPMERK>
+      <REMARQUE>
+        - Subsidié par la Région bruxelloise
+        - Fusion de l'asbl LE CENTRE URBAIN et de l'asbl MAISON DE L'ÉNERGIE
+      </REMARQUE>
+      <PM_RP>0435.722.317</PM_RP>
+      <DOEL>
+        De vereniging heeft tot doel de volledige, neutrale, onpartijdige en gedocumenteerde informatie aan de inwoners van het Brussels Hoofdstedelijk Gewest, zonder enig onderscheid, in alle materies die rechtstreeks of onrechtstreeks en op transversale wijze raken aan hel behoud en de verbetering van het stadsmilieu en het leefklimaat in hetl Brussels Hoofdstedelijk Gewest, het duurzaam wonen, de huisvesting en de vernieuwing hiervan, de stedenbouw, de ruimtelijke ordening en het erfgoed te bevorderen. Zij coordineert en integreert de door de regering van het Brussels Hoofdstedelijk Gewest erkende verenigingen van het Netwerk Wonen in een netwerk, in het kader van de gewestelijke strategie en de daarbij behorende doelstellingen, de gemeentelijke strategische context, de kennis van de beoogde wijken, steeds met de bedoeling en de kwaliteit van de geleverde diensten te verbeteren. Zij steunt het werkingsvermogen van de verenigingen van Netwerk wonen, versterkt de mutualisering van de goede praktijken onder hen en vergemakkelijkt de samenwerking tussen de verschiilende actoren van de stadsvernieuwing, waaronder de overheid, en dit netwerk
+        Zij heeft met name als opdracht :
+        - informatieverspreiding, bewustmaking en opvoeding, raad en bijstand inzake bescherming en verbetering van hel stadsmilieu en het leefklimaat
+        - hulp aan de inwoners van het Brussels Hoofdstedelijk Gewest bij de verdediging van de collectieve belangen op het vlak van bescherming en verbetering van het stadsmilieu en hel leefklimaat
+        - het verder zetten van specifieke handelingen met hel oog op de verbetering van hel stadsmilieu en het leefklimaat in hel Brussels Hoofdstedelijk Gewest
+        - deelname aan adviescommissies en adviesverstrekking in het kader van openbare onderzoeken overontwerpplannen van de Regering voor bescherming en verbetering van het stadsmilieu en het leefklimaat
+      </DOEL>
+      <BUT>
+        L'association a pour objet:
+        - Promouvoir l'information complète, neutre, impartiale et documentée des habitants de la Région de
+        Bruxelles-Capitale, sans distinction aucune, dans toutes les matières touchant, directement ou indirectement, et
+        de façon transversale, à la défense et l'amélioration de l'environnement urbain et du cadre de vie en Région de
+        Bruxelles-Capitale en particulier concernant l'habitat durable, le logement et sa rénovation, l'urbanisme, le
+        patrimoine, la réduction de l'impact écologique au sens large des logements bruxellois en favorisant notamment
+        la réduction des consommations d'énergie, l'éco-construction, la gestion de l'eau, la qualité acoustique, la
+        réduction de la pollution intérieure, la promotion des primes à la rénovation ou à l'énergie, etc
+        - Participer de façon significative et quantifiable aux objectifs de réduction des consommations
+        énergétiques et d'émissions de gaz à effet de serre émanant du bâtiment et en particulier du logement en
+        Région de Bruxelles-Capitale
+        - Mettre en oeuvre les politiques régionales en collaboration étroite avec les administrations compétentes
+        - Mettre en réseau et coordonner les associations du Réseau Habitat agréées par le Gouvernement de la
+        Région de Bruxelles-Capitale et les acteurs locaux comme relais des activités de l'association et ce dans le
+        respect de la stratégie régionale et des objectifs y afférents, du contexte stratégique communal, de la
+        connaissance des quartiers visés et dans un souci permanent d'amélioration de la qualité du service rendu
+        - Soutenir les capacités d'action des acteurs locaux et en particulier les associations du réseau habitat,
+        renforcer entre elles la mutualisation des bonnes pratiques et faciliter l'articulation entre les différents acteurs de
+        la rénovation urbaine, dont les pouvoirs publics, et ce réseau. L'association s'adresse à tout public et peut accomplir tous les actes se rapportant directement ou
+        indirectement à toute activité favorisant la qualité de vie dans le bâti bruxellois tout en réduisant son impact sur
+        l'environnement. Pour servir son objectif, dans le respect des lignes directrices des synergies fixées dans les conventions de
+        partenariats validées par le/la ou les Ministres compétents pour les matières en lien avec l'objet social,
+        l'association se donne notamment pour missions (liste non exhaustive et non limitative) :
+        - Diffusion d'informations, sensibilisation et éducation, conseil et accompagnement en matière de
+        protection et d'amélioration de l'environnement urbain et du cadre de vie
+        - Poursuite d'actions particulières visant l'amélioration de lenvironnement urbain et du cadre de vie en
+        Région de Bruxelles-Capitale
+        - Réduction de l'impact énergétique et climatique des logements bruxellois via un accompagnement et des
+        visites à domicile ayant pour objectif de stimuler les ménages bruxellois au passage à l'acte et d'accélérer ainsi
+        le taux de rénovation
+        - Conduite d'actions diverses, à destination des propriétaires, gestionnaires et locataires de logement,
+        participant de façon significative aux objectifs de réduction des consommations énergétiques et d'émissions de
+        gaz à effet de serre en Région de Bruxelles-Capitale. Ces missions sont précisées dans le cadre d'un contrat de gestion passé avec la Région de Bruxelles
+        Capitale
+        - Accompagnement proposé par l'association sera proactif et bilingue, et d'ordre technique, administratif
+        et financier
+      </BUT>
+      <PUBLIBS>http://www.ejustice.just.fgov.be/cgi_tsv/tsv_rech.pl?language=nl&amp;btw=0435722317&amp;liste=Liste</PUBLIBS>
+      <PUBLIMB>http://www.ejustice.just.fgov.be/cgi_tsv/tsv_rech.pl?language=fr&amp;btw=0435722317&amp;liste=Liste</PUBLIMB>
+      <BRUSOFR>https://social.brussels/organisation/1</BRUSOFR>
+      <BRUSONL>https://sociaal.brussels/organisation/1</BRUSONL>
+      <ERKAND />
+      <AGRAUTR />
+      <OLDNAMNL>DE STADSWINKEL - LE CENTRE URBAIN</OLDNAMNL>
+      <OLDNAMFR>LE CENTRE URBAIN - DE STADSWINKEL</OLDNAMFR>
+      <CREE />
+      <DEEL />
+      <ANTENNE />
+      <MOTHER />
+      <FAX_NL>02/219.35.90</FAX_NL>
+      <INT_SOC />
+      <addresseAdres>
+        <ADRESNL>Sint-Goriksplein</ADRESNL>
+        <ADRESFR>Place Saint-Géry</ADRESFR>
+        <ADNUM>1</ADNUM>
+        <BNUM />
+        <POSTNL>1000 BRUSSEL</POSTNL>
+        <POSTFR>1000 BRUXELLES</POSTFR>
+        <ZIP>1000</ZIP>
+        <GEMEENTE>BRUSSEL</GEMEENTE>
+        <COMMUNE>BRUXELLES</COMMUNE>
+        <ADOPM />
+        <ADREM />
+        <WIJK>DANSAERT</WIJK>
+        <QUARTIER>DANSAERT</QUARTIER>
+        <STATCODE>21004A20-</STATCODE>
+        <STATNMNL>BEURS-NOORDWEST</STATNMNL>
+        <STATNMFR>BOURSE-NORD-OUEST</STATNMFR>
+        <XCOORD>148498.44</XCOORD>
+        <YCOORD>170846.45</YCOORD>
+        <WGS84LAT>50.84801816986914</WGS84LAT>
+        <WGS84LON>4.3474304989496275</WGS84LON>
+        <WQ_CODE>2</WQ_CODE>
+      </addresseAdres>
+      <statutstatuut>922</statutstatuut>
+      <!-- statutstatuut - Association sans but lucratif (ASBL) / Vereniging zonder winstoogmerk (VZW) -->
+      <LANGSTAT>FR-NL</LANGSTAT>
+      <ACCES />
+      <AANMELD />
+      <!-- offrLingTaalAnb - 739 / français / Frans -->
+      <offrLingTaalAnb>739</offrLingTaalAnb>
+      <!-- offrLingTaalAnb - 740 / néerlandais / Nederlands -->
+      <offrLingTaalAnb>740</offrLingTaalAnb>
+      <!-- natOffreHulpwijz - 733 / À domicile / Aan huis -->
+      <natOffreHulpwijz>733</natOffreHulpwijz>
+      <!-- natOffreHulpwijz - 736 / Sur place / Ter plaatse -->
+      <natOffreHulpwijz>736</natOffreHulpwijz>
+      <!-- natOffreHulpwijz - 737 / Téléphonique / Telefonisch -->
+      <natOffreHulpwijz>737</natOffreHulpwijz>
+      <!-- zoneActionWerkgebied - 268 / Région bruxelloise / Brussels Gewest -->
+      <zoneActionWerkgebied>268</zoneActionWerkgebied>
+      <!-- CATEG - 56 / Conseils en rénovation / Renovatieadvies -->
+      <CATEG>56</CATEG>
+      <!-- CATEG - 456 / Accès à l'énergie et gestion de son utilisation / Toegang tot energie en beheer van het energieverbruik -->
+      <CATEG>456</CATEG>
+    </organisation>
+    <organisation>
+      <id>9</id>
+      <FICHE>000009</FICHE>
+      <INFOR>09/01/17</INFOR>
+      <NMOFFNL>L'ACCUEIL FAMILIAL</NMOFFNL>
+      <NMOFFFR>L'ACCUEIL FAMILIAL</NMOFFFR>
+      <NMUSENL />
+      <NMUSEFR />
+      <NMSERVNL />
+      <NMSERVFR />
+      <TEL_NL>02/772.00.06</TEL_NL>
+      <TEL>02/772.00.06</TEL>
+      <FAX>02/772.56.28</FAX>
+      <EMAIL_NL>bruxelles@accueil-familial.be</EMAIL_NL>
+      <EMAIL>bruxelles@accueil-familial.be</EMAIL>
+      <HTTP_NL>http://www.accueil-familial.be/</HTTP_NL>
+      <HTTP>http://www.accueil-familial.be/</HTTP>
+      <HTTPNL2 />
+      <HTTP2 />
+      <URLNL />
+      <URLFR />
+      <ACTIVNL>
+        "Service de placement familial (SPF)" :
+        - Plaatsing van kinderen en jongeren in pleeggezinnen in het kader van de bijzondere jeugdzorg
+        - Selectie van pleeggezinnen
+        - Begeleiding van de geplaatste kinderen en jongeren
+        - Begeleiding van de pleeggezinnen bij hun educatieve taak, waarbij de dialoog met de natuurlijke ouders bewaard blijft
+      </ACTIVNL>
+      <ACTIVFR>
+        Service de placement familial (SPF) :
+        - Placement en famille d'accueil des enfants qui lui sont confiés dans le cadre de l'Aide à la jeunesse
+        - Sélection des familles d'accueil
+        - Guidance des enfants placés dans les familles d'accueil
+        - Guidance des familles d'accueil dans leur tâche éducative tout en gardant le dialogue avec la famille d'origine
+      </ACTIVFR>
+      <PUBLIEK>Kinderen en jongeren van 0 tot 18 jaar</PUBLIEK>
+      <BENEF>Jeunes de 0 à 18 ans</BENEF>
+      <PERMANNL>Van maandag tot vrijdag van 9 uur tot 17 uur</PERMANNL>
+      <PERMANFR>Du lundi au vendredi de 9h à 17h</PERMANFR>
+      <TIJDSCHR />
+      <REVUE />
+      <OPMERK>
+        - Gemandateerd door de 'Service d'Aide à la Jeunesse', de Jeugdrechtbank of de 'Service de Protection Judiciaire'
+        - Begeleiding van 585 kinderen en jongeren
+      </OPMERK>
+      <REMARQUE>
+        - Mandaté par le Service d'Aide à la Jeunesse, le Tribunal de la Jeunesse ou le Service de Protection Judiciaire
+        - Prise en charge de 585 jeunes
+      </REMARQUE>
+      <PM_RP>0409.393.052</PM_RP>
+      <DOEL>
+        - Organiser l'accueil et l'éducation, par des particuliers, d'enfants qui nécessitent une aide spécialisée en dehors de leur milieu de vie
+        - Organiser la sélection de particuliers pouvant accueil des jeunes
+        - Assurer la supervision ainsi que l'encadrement pédagogique et social des particuliers
+        - Travailler au maintien des relations personnelles entre l'enfant et sa famille sauf si l'instance de décision estime que ce n'est pas possible ou contraire à l'intérêt de l'enfant
+        - Mettre en oeuvre des programmes d'aide en vue de la réinsertion des enfants dans leur milieu de vie d'origine, à l'issue de leur séjour en famille d'accueil ou s'il échet toute solution alternative dans l'intérêt du jeune
+        - Apporter, dans le respect des règles en vigueur, les informations nécessaires et utiles à l'accueil du jeune et à la compréhension de sa situation
+      </DOEL>
+      <BUT>
+        - Organiser l'accueil et l'éducation, par des particuliers, d'enfants qui nécessitent une aide spécialisée en dehors de leur milieu de vie
+        - Organiser la sélection de particuliers pouvant accueil des jeunes
+        - Assurer la supervision ainsi que l'encadrement pédagogique et social des particuliers
+        - Travailler au maintien des relations personnelles entre l'enfant et sa famille sauf si l'instance de décision estime que ce n'est pas possible ou contraire à l'intérêt de l'enfant
+        - Mettre en oeuvre des programmes d'aide en vue de la réinsertion des enfants dans leur milieu de vie d'origine, à l'issue de leur séjour en famille d'accueil ou s'il échet toute solution alternative dans l'intérêt du jeune
+        - Apporter, dans le respect des règles en vigueur, les informations nécessaires et utiles à l'accueil du jeune et à la compréhension de sa situation
+      </BUT>
+      <PUBLIBS>http://www.ejustice.just.fgov.be/cgi_tsv/tsv_rech.pl?language=nl&amp;btw=0409393052&amp;liste=Liste</PUBLIBS>
+      <PUBLIMB>http://www.ejustice.just.fgov.be/cgi_tsv/tsv_rech.pl?language=fr&amp;btw=0409393052&amp;liste=Liste</PUBLIMB>
+      <BRUSOFR>https://social.brussels/organisation/9</BRUSOFR>
+      <BRUSONL>https://sociaal.brussels/organisation/9</BRUSONL>
+      <ERKAND />
+      <AGRAUTR />
+      <OLDNAMNL />
+      <OLDNAMFR />
+      <CREE />
+      <DEEL />
+      <ANTENNE />
+      <MOTHER />
+      <FAX_NL>02/772.56.28</FAX_NL>
+      <INT_SOC />
+      <addresseAdres>
+        <ADRESNL>Paul Hymanslaan</ADRESNL>
+        <ADRESFR>Avenue Paul Hymans</ADRESFR>
+        <ADNUM>87</ADNUM>
+        <BNUM>1</BNUM>
+        <POSTNL>1200 SINT-LAMBRECHTS-WOLUWE</POSTNL>
+        <POSTFR>1200 WOLUWE-SAINT-LAMBERT</POSTFR>
+        <ZIP>1200</ZIP>
+        <GEMEENTE>SINT-LAMBRECHTS-WOLUWE</GEMEENTE>
+        <COMMUNE>WOLUWE-SAINT-LAMBERT</COMMUNE>
+        <ADOPM />
+        <ADREM />
+        <WIJK>ROODEBEEK - STERREBEELDEN</WIJK>
+        <QUARTIER>ROODEBEEK - CONSTELLATIONS </QUARTIER>
+        <STATCODE>21018A43-</STATCODE>
+        <STATNMNL>ROODEBEEK</STATNMNL>
+        <STATNMFR>ROODEBEEK</STATNMFR>
+        <XCOORD>154254.41</XCOORD>
+        <YCOORD>170717.07</YCOORD>
+        <WGS84LAT>50.8468410070002</WGS84LAT>
+        <WGS84LON>4.429162214374323</WGS84LON>
+        <WQ_CODE>90</WQ_CODE>
+      </addresseAdres>
+      <statutstatuut>922</statutstatuut>
+      <!-- statutstatuut - Association sans but lucratif (ASBL) / Vereniging zonder winstoogmerk (VZW) -->
+      <LANGSTAT>FR</LANGSTAT>
+      <ACCES>Par téléphone</ACCES>
+      <ACCES>Par e-mail</ACCES>
+      <AANMELD>Telefonisch</AANMELD>
+      <AANMELD>Per e-mail</AANMELD>
+      <!-- offrLingTaalAnb - 739 / français / Frans -->
+      <offrLingTaalAnb>739</offrLingTaalAnb>
+      <!-- natOffreHulpwijz - 736 / Sur place / Ter plaatse -->
+      <natOffreHulpwijz>736</natOffreHulpwijz>
+      <!-- natOffreHulpwijz - 733 / A domicile / Aan huis -->
+      <natOffreHulpwijz>733</natOffreHulpwijz>
+      <!-- agrementErken - 789 / Service de placement familial - Communauté française / Service de placement familial - Franse Gemeenschap -->
+      <agrementErken>789</agrementErken>
+      <!-- zoneActionWerkgebied - 268 / Région bruxelloise / Brussels Gewest -->
+      <zoneActionWerkgebied>268</zoneActionWerkgebied>
+      <!-- CATEG - 260 / Aide via le secteur de l'aide à la jeunesse en Communauté française (petite enfance) / Hulpverlening via de bijzondere jeugdzorg in de Franse Gemeenschap (jonge kinderen) -->
+      <CATEG>260</CATEG>
+      <!-- CATEG - 122 / Services d'intervention et d'accompagnement en accueil familial (SIAAF) / Services d'intervention et d'accompagnement en accueil familial (SIAAF) -->
+      <CATEG>122</CATEG>
+    </organisation>
+    <organisation>
+      <id>10</id>
+      <FICHE>000010</FICHE>
+      <INFOR>06/09/16</INFOR>
+      <NMOFFNL>ACCUEIL MONTFORT</NMOFFNL>
+      <NMOFFFR>ACCUEIL MONTFORT</NMOFFFR>
+      <NMUSENL />
+      <NMUSEFR />
+      <NMSERVNL />
+      <NMSERVFR />
+      <TEL_NL>02/426.87.12</TEL_NL>
+      <TEL_NL>02/424.17.53 (sociale dienst)</TEL_NL>
+      <TEL>02/426.87.12</TEL>
+      <TEL>02/424.17.53 (service social)</TEL>
+      <FAX>02/424.18.01</FAX>
+      <EMAIL_NL>accueil@amontfort.be</EMAIL_NL>
+      <EMAIL>accueil@amontfort.be</EMAIL>
+      <HTTP_NL>http://www.amontfort.be</HTTP_NL>
+      <HTTP>http://www.amontfort.be</HTTP>
+      <HTTPNL2 />
+      <HTTP2 />
+      <URLNL />
+      <URLFR />
+      <ACTIVNL>
+        - Onthaalhuis
+        - Tweedehandskleren
+      </ACTIVNL>
+      <ACTIVFR>
+        - Maison d'accueil
+        - Vestiaire
+      </ACTIVFR>
+      <PUBLIEK>Alleenstaande vrouwen tussen 18 en 50 jaar oud</PUBLIEK>
+      <BENEF>Femmes seules entre 18 et 50 ans</BENEF>
+      <PERMANNL>Van maandag tot vrijdag van 9 uur tot 16 uur</PERMANNL>
+      <PERMANFR>Du lundi au vendredi de 9h à 16h</PERMANFR>
+      <TIJDSCHR />
+      <REVUE />
+      <OPMERK />
+      <REMARQUE />
+      <PM_RP>0431.124.715</PM_RP>
+      <DOEL>
+        L'association a pour but et objet, la gestion d'une maison d'accueil et d'hébergement, subsidiée par la COCOF, destinée à accueillir et héberger 34 femmes, de 18 à 50 ans, qui se trouvent sans logement pour des raisons financières, sociales, familiales et/ou psychologiques et qui sont désireuses de -
+        (re)construire, petit à petit, un projet afin de (re)devenir actrices de leur vie
+        A cet effet, le soutien, le développement de toute activité pourra être développé dans le but d'aider l'objet principal (souper, brocant, tombola...) afin de combler les charges non subsidiées
+      </DOEL>
+      <BUT>
+        L'association a pour but et objet, la gestion d'une maison d'accueil et d'hébergement, subsidiée par la COCOF, destinée à accueillir et héberger 34 femmes, de 18 à 50 ans, qui se trouvent sans logement pour des raisons financières, sociales, familiales et/ou psychologiques et qui sont désireuses de -
+        (re)construire, petit à petit, un projet afin de (re)devenir actrices de leur vie
+        A cet effet, le soutien, le développement de toute activité pourra être développé dans le but d'aider l'objet principal (souper, brocant, tombola...) afin de combler les charges non subsidiées
+      </BUT>
+      <PUBLIBS>http://www.ejustice.just.fgov.be/cgi_tsv/tsv_rech.pl?language=nl&amp;btw=0431124715&amp;liste=Liste</PUBLIBS>
+      <PUBLIMB>http://www.ejustice.just.fgov.be/cgi_tsv/tsv_rech.pl?language=fr&amp;btw=0431124715&amp;liste=Liste</PUBLIMB>
+      <BRUSOFR>https://social.brussels/organisation/10</BRUSOFR>
+      <BRUSONL>https://sociaal.brussels/organisation/10</BRUSONL>
+      <ERKAND />
+      <AGRAUTR />
+      <OLDNAMNL />
+      <OLDNAMFR />
+      <CREE />
+      <DEEL />
+      <ANTENNE />
+      <MOTHER>011495</MOTHER>
+      <FAX_NL>02/424.18.01</FAX_NL>
+      <INT_SOC />
+      <addresseAdres>
+        <ADRESNL>Sint-Pieterskerkstraat</ADRESNL>
+        <ADRESFR>Rue de l'Eglise Saint-Pierre</ADRESFR>
+        <ADNUM>12-18</ADNUM>
+        <BNUM />
+        <POSTNL>1090 JETTE</POSTNL>
+        <POSTFR>1090 JETTE</POSTFR>
+        <ZIP>1090</ZIP>
+        <GEMEENTE>JETTE</GEMEENTE>
+        <COMMUNE>JETTE</COMMUNE>
+        <ADOPM />
+        <ADREM />
+        <WIJK>JETTE CENTRUM</WIJK>
+        <QUARTIER>JETTE CENTRE</QUARTIER>
+        <STATCODE>21010A00-</STATCODE>
+        <STATNMNL>CENTRUM</STATNMNL>
+        <STATNMFR>CENTRE</STATNMFR>
+        <XCOORD>146795.281</XCOORD>
+        <YCOORD>174440.85</YCOORD>
+        <WGS84LAT>50.880323159866265</WGS84LAT>
+        <WGS84LON>4.323215271815602</WGS84LON>
+        <WQ_CODE>72</WQ_CODE>
+      </addresseAdres>
+      <statutstatuut>922</statutstatuut>
+      <!-- statutstatuut - Association sans but lucratif (ASBL) / Vereniging zonder winstoogmerk (VZW) -->
+      <LANGSTAT>FR</LANGSTAT>
+      <ACCES>Par téléphone</ACCES>
+      <AANMELD>Telefonisch</AANMELD>
+      <!-- offrLingTaalAnb - 739 / français / Frans -->
+      <offrLingTaalAnb>739</offrLingTaalAnb>
+      <!-- natOffreHulpwijz - 735 / Résidentiel / Residentieel -->
+      <natOffreHulpwijz>735</natOffreHulpwijz>
+      <!-- agrementErken - 678 / Maison d'accueil - COCOF / Maison d'accueil - COCOF -->
+      <agrementErken>678</agrementErken>
+      <!-- zoneActionWerkgebied - 268 / Région bruxelloise / Brussels Gewest -->
+      <zoneActionWerkgebied>268</zoneActionWerkgebied>
+      <!-- zoneActionWerkgebied - 264 / Belgique / België -->
+      <zoneActionWerkgebied>264</zoneActionWerkgebied>
+      <!-- CATEG - 7 / Maisons d'accueil pour femmes avec ou sans enfants / Onthaaltehuizen voor vrouwen met of zonder kinderen -->
+      <CATEG>7</CATEG>
+      <!-- CATEG - 455 / Vestiaires sociaux / Tweedehandskleren -->
+      <CATEG>455</CATEG>
+      <!-- CATEG - 337 / Hébergement des victimes de violences entre partenaires / Opvang van slachtoffers van partnergeweld -->
+      <CATEG>337</CATEG>
+      <!-- CATEG - 17 / Vêtements pour sans-abri / Kleren voor thuislozen -->
+      <CATEG>17</CATEG>
+    </organisation>
+    <organisation>
+      <id>19</id>
+      <FICHE>000019</FICHE>
+      <INFOR>09/05/17</INFOR>
+      <NMOFFNL>SOCIALE ACTIE VAN SINT-LAMBRECHTS-WOLUWE</NMOFFNL>
+      <NMOFFFR>ACTION SOCIALE DE WOLUWE-SAINT-LAMBERT</NMOFFFR>
+      <NMUSENL>GEMEENTE SINT-LAMBRECHTS-WOLUWE - CEL THUISHULP VOOR SENIOREN</NMUSENL>
+      <NMUSEFR>COMMUNE WOLUWE-SAINT-LAMBERT - CELLULE AIDE AU MAINTIEN À DOMICILE DES SENIORS</NMUSEFR>
+      <NMSERVNL>GEMEENTE SINT-LAMBRECHTS-WOLUWE - ALZHEIMERPLATFORM</NMSERVNL>
+      <NMSERVFR>COMMUNE WOLUWE-SAINT-LAMBERT - PLATE-FORME ALZHEIMER</NMSERVFR>
+      <TEL_NL>02/774.35.43</TEL_NL>
+      <TEL_NL>02/761.28.78 (Alzheimerplatform)</TEL_NL>
+      <TEL>02/774.35.43</TEL>
+      <TEL>02/761.28.78 (Plate-forme Alzheimer)</TEL>
+      <FAX />
+      <EMAIL_NL>fase.cmd@woluwe1200.be</EMAIL_NL>
+      <EMAIL>fase.cmd@woluwe1200.be</EMAIL>
+      <HTTP_NL>http://www.woluwe1200.be</HTTP_NL>
+      <HTTP>http://www.woluwe1200.be</HTTP>
+      <HTTPNL2 />
+      <HTTP2 />
+      <URLNL />
+      <URLFR />
+      <ACTIVNL>- Huishoudhulp&lt;br&gt;- Poetshulp&lt;br&gt;- Warme maaltijden aan huis&lt;br&gt;- Verpleging aan huis&lt;br&gt;- Coördinatie tussen ziekenhuis en thuiszorg: de nodige zorg plannen bij een ontslag uit het ziekenhuis, contacten tijdens de ziekenhuisopname, inschakelen van hulp- en zorgverlening na de ziekenhuisopname&lt;br&gt;- Personenalarmsysteem&lt;br&gt;- Vervoerdienst: vervoer naar het restaurant en de activiteiten voor senioren&lt;br&gt;- Boodschappen (voeding en geneesmiddelen)&lt;br&gt;- Kleine herstellingswerken in de woning&lt;br&gt;- Pedicure en kapper aan huis&lt;br&gt;- Gymlessen door de vzw Gymsana, cursussen valpreventie voor senioren, gymnastiek aangepast voor mensen met Parkinson&lt;br&gt;- 'Lectuur op elke leeftijd': vervoer van huis naar de bibliotheek, levering van boeken aan huis&lt;br&gt;- ALZHEIMERPLATFORM: wekelijkse sociale permanenties, lessen zitgymnastiek en geheugenstimulatie (georganiseerd door de vzw Gymsana), gezellige ontmoetingsmomenten voor zieken en/of hun mantelzorger om het isolement te doorbreken en het sociale contact te bevorderen, ateliers kunsttherapie en kookateliers (in samenwerking met de vzw Alzheimer Belgique)&lt;br&gt;- Coördineren van het Centrum Malou, het Paviljoen Roodebeek, het restaurant voor senioren en van de occasionele opvang voor kinderen&lt;br&gt;- Organisatie van conferenties&lt;br&gt;</ACTIVNL>
+      <ACTIVFR>- Aides ménagères&lt;br&gt;- Repas chauds à domicile&lt;br&gt;- Soins infirmiers à domicile&lt;br&gt;- Liaison entre hôpital et domicile : planifier les aides nécessaires à un retour d'hospitalisation dès avant celle-ci, contacts pendant l'hospitalisation, mise en place des aides post-hospitalisation&lt;br&gt;- Télévigilance&lt;br&gt;- Transport : transport vers le restaurant et les activités pour seniors&lt;br&gt;- Courses (alimentation et médicaments)&lt;br&gt;- Petit entretien de logement - dépannage&lt;br&gt;- Pédicure et coiffure à domicile&lt;br&gt;- Cours de gymnastique par l'asbl Gymsana, cours de prévention des chutes pour seniors et cours de gymnastique particulièrement adapté pour les personnes atteintes de la maladie de Parkinson&lt;br&gt;- "Lecture à tout âge" : navette domicile - bibliothèque, livraison à domicile de livres&lt;br&gt;- PLATE-FORME ALZHEIMER : permanence sociale hebdomadaire, séances de gymnastique assise et de stimulation de la mémoire (organisées par l'asbl Gymsana), rencontres conviviales pour les personnes malades et/ou leur aidant proche afin de rompre l'isolement et favoriser les contacts sociaux &lt;br&gt;- Coordination du Centre Malou, du pavillon Roodebeek, du restaurant des seniors et d'une halte-accueil&lt;br&gt;- Organisation de conférences&lt;br&gt;</ACTIVFR>
+      <PUBLIEK>Bewoners van de gemeente van 60 jaar en meer</PUBLIEK>
+      <BENEF>Habitants de la commune âgés de 60 ans et plus</BENEF>
+      <PERMANNL>Van maandag tot vrijdag van 8 uur tot 12.30 uur en van 13.30 uur tot 17 uur</PERMANNL>
+      <PERMANFR>Du lundi au vendredi de 8h à 12h30 et de 13h30 à 17h</PERMANFR>
+      <TIJDSCHR>AIDE AU MAINTIEN A DOMICILE</TIJDSCHR>
+      <REVUE>AIDE AU MAINTIEN A DOMICILE</REVUE>
+      <OPMERK>De activiteiten van het Alzheimerplatform verlopen in de gemeentezaal, Siriusgaarde 17</OPMERK>
+      <REMARQUE>Les activités de la Plate-forme Alzheimer s'organisent dans la salle communale Clos cirius 17</REMARQUE>
+      <PM_RP>0421.447.776</PM_RP>
+      <DOEL>De vereniging heeft tot doel aan de inwoners van de gemeente Sint-Lambrechts-Woluwe, morele en materiele hulp bieden en dit in alle gevallen waar deze hulp zou nodig blijken. Ten dien einde, zal ze allerhande activiteiten mogen organiseren en tot stand brengen, meer bepaald maaltijden leveren aan de personen van de derde leeftijd en hun bijstand verlenen door gezinshelpsters, de realisatie van sociale initiatieven op zich nemen, groeperingen welke hetzelfde doel nastreven helpen of bijdragen tot de oprichting van zulke groeperingen</DOEL>
+      <BUT>L'association a pour but de procurer aux habitants de la commune de Woluwe-Saint-Lambert, une aide morale et matérielle et ce, dans tous les domaines où cette aide s'avérera nécessaire. A cette fin, elle pourra mettre sur pied et créer des activités ménagères, assumer la réalisation d'initiatives de tout ordre, notamment les repas aux personnes du 3ème âge et leur dépannage par des aides ménagères, assumer la réalisation d'initiatives sociales, aider des groupements poursuivant un but similaire au sien ou concourir à la création de tels groupements</BUT>
+      <PUBLIBS>http://www.ejustice.just.fgov.be/cgi_tsv/tsv_rech.pl?language=nl&amp;btw=0421447776&amp;liste=Liste</PUBLIBS>
+      <PUBLIMB>http://www.ejustice.just.fgov.be/cgi_tsv/tsv_rech.pl?language=fr&amp;btw=0421447776&amp;liste=Liste</PUBLIMB>
+      <BRUSOFR>https://social.brussels/organisation/19</BRUSOFR>
+      <BRUSONL>https://sociaal.brussels/organisation/19</BRUSONL>
+      <ERKAND />
+      <AGRAUTR />
+      <OLDNAMNL />
+      <OLDNAMFR />
+      <CREE>008910</CREE>
+      <DEEL />
+      <ANTENNE />
+      <MOTHER>003511, 011025, 002758</MOTHER>
+      <FAX_NL />
+      <INT_SOC />
+      <addresseAdres>
+        <ADRESNL>Tombergplein</ADRESNL>
+        <ADRESFR>Place du Tomberg</ADRESFR>
+        <ADNUM>6a</ADNUM>
+        <BNUM />
+        <POSTNL>1200 SINT-LAMBRECHTS-WOLUWE</POSTNL>
+        <POSTFR>1200 WOLUWE-SAINT-LAMBERT</POSTFR>
+        <ZIP>1200</ZIP>
+        <GEMEENTE>SINT-LAMBRECHTS-WOLUWE</GEMEENTE>
+        <COMMUNE>WOLUWE-SAINT-LAMBERT</COMMUNE>
+        <ADOPM />
+        <ADREM />
+        <WIJK>ROODEBEEK - STERREBEELDEN</WIJK>
+        <QUARTIER>ROODEBEEK - CONSTELLATIONS </QUARTIER>
+        <STATCODE>21018A00-</STATCODE>
+        <STATNMNL>TOMBERG</STATNMNL>
+        <STATNMFR>TOMBERG</STATNMFR>
+        <XCOORD>154113.24</XCOORD>
+        <YCOORD>170331.85</YCOORD>
+        <WGS84LAT>50.8433790938937</WGS84LAT>
+        <WGS84LON>4.427153335881067</WGS84LON>
+        <WQ_CODE>90</WQ_CODE>
+      </addresseAdres>
+      <statutstatuut>922</statutstatuut>
+      <!-- statutstatuut - Association sans but lucratif (ASBL) / Vereniging zonder winstoogmerk (VZW) -->
+      <LANGSTAT>FR-NL</LANGSTAT>
+      <ACCES />
+      <AANMELD />
+      <!-- offrLingTaalAnb - 739 / français / Frans -->
+      <offrLingTaalAnb>739</offrLingTaalAnb>
+      <!-- offrLingTaalAnb - 740 / néerlandais / Nederlands -->
+      <offrLingTaalAnb>740</offrLingTaalAnb>
+      <!-- natOffreHulpwijz - 733 / A domicile / Aan huis -->
+      <natOffreHulpwijz>733</natOffreHulpwijz>
+      <!-- natOffreHulpwijz - 736 / Sur place / Ter plaatse -->
+      <natOffreHulpwijz>736</natOffreHulpwijz>
+      <!-- natOffreHulpwijz - 737 / Téléphonique / Telefonisch -->
+      <natOffreHulpwijz>737</natOffreHulpwijz>
+      <!-- zoneActionWerkgebied - 474 / Woluwe-Saint-Lambert / Sint-Lambrechts-Woluwe -->
+      <zoneActionWerkgebied>474</zoneActionWerkgebied>
+      <!-- CATEG - 38 / Télévigilance / Personenalarm -->
+      <CATEG>38</CATEG>
+      <!-- CATEG - 47 / Troubles neuropsychologiques liés à la vieillesse / Ouderdomsziekten -->
+      <CATEG>47</CATEG>
+      <!-- CATEG - 35 / Aide aux tâches quotidiennes / Hulp bij de dagelijkse taken -->
+      <CATEG>35</CATEG>
+      <!-- CATEG - 42 / Livraison de repas à domicile / Levering van maaltijden aan huis -->
+      <CATEG>42</CATEG>
+      <!-- CATEG - 62 / Aide aux tâches ménagères / Hulp bij de huishoudelijke taken -->
+      <CATEG>62</CATEG>
+      <!-- CATEG - 603 / Coiffure à domicile / Haarzorg aan huis -->
+      <CATEG>603</CATEG>
+      <!-- CATEG - 25 / Information concernant les aides et les soins à domicile / Informatie over thuiszorg -->
+      <CATEG>25</CATEG>
+      <!-- CATEG - 5 / Aide aux petits travaux / Klusjesdiensten -->
+      <CATEG>5</CATEG>
+      <!-- CATEG - 108 / Sport pour seniors / Sport voor ouderen -->
+      <CATEG>108</CATEG>
+      <!-- CATEG - 605 / Pédicure à domicile / Pedicure aan huis -->
+      <CATEG>605</CATEG>
+      <!-- CATEG - 346 / Soins infirmiers à domicile / Thuisverpleging -->
+      <CATEG>346</CATEG>
+      <!-- CATEG - 32 / Transport pour raisons sociales / Vervoer om sociale redenen -->
+      <CATEG>32</CATEG>
+    </organisation>
+  </organisationList>
+  <LangStatList>
+    <LangStat>
+      <id>730</id>
+      <value i18n="fr">FR</value>
+      <value i18n="nl">FR</value>
+    </LangStat>
+    <LangStat>
+      <id>731</id>
+      <value i18n="fr">FR-NL</value>
+      <value i18n="nl">FR-NL</value>
+    </LangStat>
+    <LangStat>
+      <id>732</id>
+      <value i18n="fr">NL</value>
+      <value i18n="nl">NL</value>
+    </LangStat>
+    <LangStat>
+      <id>1606</id>
+      <value i18n="fr" />
+      <value i18n="nl" />
+    </LangStat>
+  </LangStatList>
+  <natOffreHulpwijzList>
+    <natOffreHulpwijz>
+      <id>733</id>
+      <value i18n="fr">À domicile</value>
+      <value i18n="nl">Aan huis</value>
+    </natOffreHulpwijz>
+    <natOffreHulpwijz>
+      <id>734</id>
+      <value i18n="fr">Online</value>
+      <value i18n="nl">Online</value>
+    </natOffreHulpwijz>
+    <natOffreHulpwijz>
+      <id>735</id>
+      <value i18n="fr">Résidentiel</value>
+      <value i18n="nl">Residentieel</value>
+    </natOffreHulpwijz>
+    <natOffreHulpwijz>
+      <id>736</id>
+      <value i18n="fr">Sur place</value>
+      <value i18n="nl">Ter plaatse</value>
+    </natOffreHulpwijz>
+    <natOffreHulpwijz>
+      <id>737</id>
+      <value i18n="fr">Téléphonique</value>
+      <value i18n="nl">Telefonisch</value>
+    </natOffreHulpwijz>
+    <natOffreHulpwijz>
+      <id>738</id>
+      <value i18n="fr">Travail de rue</value>
+      <value i18n="nl">Straathoekwerk</value>
+    </natOffreHulpwijz>
+  </natOffreHulpwijzList>
+  <offrLingTaalList>
+    <offrLingTaal>
+      <id>739</id>
+      <value i18n="fr">français</value>
+      <value i18n="nl">Frans</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>740</id>
+      <value i18n="fr">néerlandais</value>
+      <value i18n="nl">Nederlands</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>741</id>
+      <value i18n="fr">afar</value>
+      <value i18n="nl">Afar</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>742</id>
+      <value i18n="fr">albanais</value>
+      <value i18n="nl">Albanees</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>743</id>
+      <value i18n="fr">allemand</value>
+      <value i18n="nl">Duits</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>744</id>
+      <value i18n="fr">amharique </value>
+      <value i18n="nl">Amhaars</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>745</id>
+      <value i18n="fr">anglais</value>
+      <value i18n="nl">Engels</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>746</id>
+      <value i18n="fr">arabe (standard moderne)</value>
+      <value i18n="nl">Arabisch (modern standaard)</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>747</id>
+      <value i18n="fr">arabe (maghrébin)</value>
+      <value i18n="nl">Arabisch (Maghrebijns)</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>748</id>
+      <value i18n="fr">araméen</value>
+      <value i18n="nl">Aramees</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>749</id>
+      <value i18n="fr">arménien</value>
+      <value i18n="nl">Armeens</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>750</id>
+      <value i18n="fr">azéri</value>
+      <value i18n="nl">Azeri</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>751</id>
+      <value i18n="fr">bambara</value>
+      <value i18n="nl">Bambara</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>752</id>
+      <value i18n="fr">bengali</value>
+      <value i18n="nl">Bengaals</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>753</id>
+      <value i18n="fr">biélorusse</value>
+      <value i18n="nl">Wit-Russisch</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>754</id>
+      <value i18n="fr">bosniaque </value>
+      <value i18n="nl">Bosnisch </value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>755</id>
+      <value i18n="fr">bulgare </value>
+      <value i18n="nl">Bulgaars </value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>756</id>
+      <value i18n="fr">cachemiri</value>
+      <value i18n="nl">Kasjmiri</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>757</id>
+      <value i18n="fr">cantonais</value>
+      <value i18n="nl">Kantonees</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>758</id>
+      <value i18n="fr">catalan</value>
+      <value i18n="nl">Catalaans</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>759</id>
+      <value i18n="fr">cingalais</value>
+      <value i18n="nl">Singalees</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>760</id>
+      <value i18n="fr">coréen </value>
+      <value i18n="nl">Koreaans</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>761</id>
+      <value i18n="fr">croate </value>
+      <value i18n="nl">Kroatisch</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>762</id>
+      <value i18n="fr">danois</value>
+      <value i18n="nl">Deens</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>763</id>
+      <value i18n="fr">dari </value>
+      <value i18n="nl">Dari </value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>764</id>
+      <value i18n="fr">dioula</value>
+      <value i18n="nl">Dioula</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>765</id>
+      <value i18n="fr">espagnol</value>
+      <value i18n="nl">Spaans</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>766</id>
+      <value i18n="fr">ewe</value>
+      <value i18n="nl">Ewe</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>767</id>
+      <value i18n="fr">finnois</value>
+      <value i18n="nl">Fins</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>768</id>
+      <value i18n="fr">fon-gbe</value>
+      <value i18n="nl">Fon</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>769</id>
+      <value i18n="fr">géorgien</value>
+      <value i18n="nl">Georgisch</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>770</id>
+      <value i18n="fr">grec</value>
+      <value i18n="nl">Grieks</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>771</id>
+      <value i18n="fr">gujarati</value>
+      <value i18n="nl">Gujarati</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>772</id>
+      <value i18n="fr">hakka</value>
+      <value i18n="nl">Hakka</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>773</id>
+      <value i18n="fr">haoussa</value>
+      <value i18n="nl">Hausa</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>774</id>
+      <value i18n="fr">hassanya</value>
+      <value i18n="nl">Hassaniya</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>775</id>
+      <value i18n="fr">hébreu</value>
+      <value i18n="nl">Hebreeuws</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>776</id>
+      <value i18n="fr">hindi</value>
+      <value i18n="nl">Hindi</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>777</id>
+      <value i18n="fr">hongrois</value>
+      <value i18n="nl">Hongaars</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>778</id>
+      <value i18n="fr">igbo</value>
+      <value i18n="nl">Igbo</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>779</id>
+      <value i18n="fr">indonésien</value>
+      <value i18n="nl">Indonesisch</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>780</id>
+      <value i18n="fr">italien</value>
+      <value i18n="nl">Italiaans</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>781</id>
+      <value i18n="fr">japonais</value>
+      <value i18n="nl">Japans</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>782</id>
+      <value i18n="fr">kabyle</value>
+      <value i18n="nl">Kabylisch</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>783</id>
+      <value i18n="fr">kazakh</value>
+      <value i18n="nl">Kazachs</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>784</id>
+      <value i18n="fr">khmer</value>
+      <value i18n="nl">Khmer</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>785</id>
+      <value i18n="fr">kirghiz</value>
+      <value i18n="nl">Kirgizisch</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>786</id>
+      <value i18n="fr">kikongo</value>
+      <value i18n="nl">Kikongo </value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>787</id>
+      <value i18n="fr">kinyarwanda </value>
+      <value i18n="nl">Kinyarwanda</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>788</id>
+      <value i18n="fr">kirundi</value>
+      <value i18n="nl">Kirundi</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>789</id>
+      <value i18n="fr">kiyaka </value>
+      <value i18n="nl">Kiyaka </value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>790</id>
+      <value i18n="fr">krio</value>
+      <value i18n="nl">Krio</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>791</id>
+      <value i18n="fr">kurde</value>
+      <value i18n="nl">Koerdisch</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>792</id>
+      <value i18n="fr">langue des signes de Belgique francophone (LSFB)</value>
+      <value i18n="nl">langue des signes de Belgique francophone (LSFB)</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>793</id>
+      <value i18n="fr">lao</value>
+      <value i18n="nl">Lao</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>794</id>
+      <value i18n="fr">letton</value>
+      <value i18n="nl">Lets</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>795</id>
+      <value i18n="fr">lingala</value>
+      <value i18n="nl">Lingala </value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>796</id>
+      <value i18n="fr">lituanien </value>
+      <value i18n="nl">Litouws</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>797</id>
+      <value i18n="fr">macédonien </value>
+      <value i18n="nl">Macedonisch </value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>798</id>
+      <value i18n="fr">malayalam</value>
+      <value i18n="nl">Malayalam</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>799</id>
+      <value i18n="fr">malinké </value>
+      <value i18n="nl">Malinké </value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>800</id>
+      <value i18n="fr">mandarin</value>
+      <value i18n="nl">Mandarijn</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>801</id>
+      <value i18n="fr">mongol</value>
+      <value i18n="nl">Mongools</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>802</id>
+      <value i18n="fr">monténégrin</value>
+      <value i18n="nl">Montenegrijns</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>803</id>
+      <value i18n="fr">moré</value>
+      <value i18n="nl">More</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>804</id>
+      <value i18n="fr">népalais</value>
+      <value i18n="nl">Nepalees</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>805</id>
+      <value i18n="fr">norvégien</value>
+      <value i18n="nl">Noors</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>806</id>
+      <value i18n="fr">oromo</value>
+      <value i18n="nl">Oromo </value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>807</id>
+      <value i18n="fr">ouïgour </value>
+      <value i18n="nl">Oeigoers</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>808</id>
+      <value i18n="fr">ourdou</value>
+      <value i18n="nl">Urdu  </value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>809</id>
+      <value i18n="fr">ouzbek</value>
+      <value i18n="nl">Oezbeeks</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>810</id>
+      <value i18n="fr">pashto</value>
+      <value i18n="nl">Pasjtoe </value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>811</id>
+      <value i18n="fr">pendjabi</value>
+      <value i18n="nl">Punjabi</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>812</id>
+      <value i18n="fr">persan</value>
+      <value i18n="nl">Perzisch </value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>813</id>
+      <value i18n="fr">peul</value>
+      <value i18n="nl">Peul </value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>814</id>
+      <value i18n="fr">philippin</value>
+      <value i18n="nl">Filipijns</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>815</id>
+      <value i18n="fr">polonais </value>
+      <value i18n="nl">Pools </value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>816</id>
+      <value i18n="fr">portugais </value>
+      <value i18n="nl">Portugees </value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>817</id>
+      <value i18n="fr">rifain</value>
+      <value i18n="nl">Riffijns</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>818</id>
+      <value i18n="fr">rom </value>
+      <value i18n="nl">Rom</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>819</id>
+      <value i18n="fr">roumain</value>
+      <value i18n="nl">Roemeens</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>820</id>
+      <value i18n="fr">russe </value>
+      <value i18n="nl">Russisch </value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>821</id>
+      <value i18n="fr">serbe</value>
+      <value i18n="nl">Servisch</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>822</id>
+      <value i18n="fr">slovaque </value>
+      <value i18n="nl">Slowaaks </value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>823</id>
+      <value i18n="fr">slovène</value>
+      <value i18n="nl">Sloveens</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>824</id>
+      <value i18n="fr">somali </value>
+      <value i18n="nl">Somalisch</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>825</id>
+      <value i18n="fr">soussou</value>
+      <value i18n="nl">Soussou </value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>826</id>
+      <value i18n="fr">suédois </value>
+      <value i18n="nl">Zweeds</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>827</id>
+      <value i18n="fr">swahili </value>
+      <value i18n="nl">Swahili </value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>828</id>
+      <value i18n="fr">tagalog</value>
+      <value i18n="nl">Tagalog</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>829</id>
+      <value i18n="fr">tamil</value>
+      <value i18n="nl">Tamil</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>830</id>
+      <value i18n="fr">tchèque </value>
+      <value i18n="nl">Tsjechisch</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>831</id>
+      <value i18n="fr">tchétchène</value>
+      <value i18n="nl">Tsjetsjeens</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>832</id>
+      <value i18n="fr">tetela</value>
+      <value i18n="nl">Tetela</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>833</id>
+      <value i18n="fr">thaï</value>
+      <value i18n="nl">Thai</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>834</id>
+      <value i18n="fr">tibétain</value>
+      <value i18n="nl">Tibetaans</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>835</id>
+      <value i18n="fr">tigrigna</value>
+      <value i18n="nl">Tigrinya</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>836</id>
+      <value i18n="fr">tshiluba</value>
+      <value i18n="nl">Tshiluba</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>837</id>
+      <value i18n="fr">tswana</value>
+      <value i18n="nl">Tswana</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>838</id>
+      <value i18n="fr">turc </value>
+      <value i18n="nl">Turks</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>839</id>
+      <value i18n="fr">turkmène</value>
+      <value i18n="nl">Turkmeens</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>840</id>
+      <value i18n="fr">twi</value>
+      <value i18n="nl">Twi </value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>841</id>
+      <value i18n="fr">ukrainien  </value>
+      <value i18n="nl">Oekraïens</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>842</id>
+      <value i18n="fr">vietnamien</value>
+      <value i18n="nl">Vietnamees</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>843</id>
+      <value i18n="fr">Vlaamse Gebarentaal (VGT)</value>
+      <value i18n="nl">Vlaamse Gebarentaal (VGT)</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>844</id>
+      <value i18n="fr">wolof</value>
+      <value i18n="nl">Wolof</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>845</id>
+      <value i18n="fr">yiddish</value>
+      <value i18n="nl">Jiddisch</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>846</id>
+      <value i18n="fr">zarma</value>
+      <value i18n="nl">Zarma</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>847</id>
+      <value i18n="fr">-service faisant appel à un service d'interprétariat social</value>
+      <value i18n="nl">-Dienst die een beroep doet op sociaal tolkdiensten </value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>848</id>
+      <value i18n="fr">-service faisant appel à un service de médiation interculturelle</value>
+      <value i18n="nl">-Dienst die een beroep doet op interculturele bemiddelaars</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>1168</id>
+      <value i18n="fr">domari</value>
+      <value i18n="nl">Domari</value>
+    </offrLingTaal>
+    <offrLingTaal>
+      <id>1169</id>
+      <value i18n="fr">tadjik</value>
+      <value i18n="nl">Tadzjieks</value>
+    </offrLingTaal>
+  </offrLingTaalList>
+  <StatutStatuutList>
+    <StatutStatuut>
+      <id>919</id>
+      <value i18n="fr">Association Chapitre XII (L.O. CPAS)</value>
+      <value i18n="nl">Vereniging Hoofdstuk XII (OCMW-wet)</value>
+    </StatutStatuut>
+    <StatutStatuut>
+      <id>920</id>
+      <value i18n="fr">Association de fait (AF)</value>
+      <value i18n="nl">Feitelijke vereniging (FV)</value>
+    </StatutStatuut>
+    <StatutStatuut>
+      <id>921</id>
+      <value i18n="fr">Association internationale (AI)</value>
+      <value i18n="nl">Internationale vereniging (IV)</value>
+    </StatutStatuut>
+    <StatutStatuut>
+      <id>922</id>
+      <value i18n="fr">Association sans but lucratif (ASBL)</value>
+      <value i18n="nl">Vereniging zonder winstoogmerk (VZW)</value>
+    </StatutStatuut>
+    <StatutStatuut>
+      <id>923</id>
+      <value i18n="fr">Fondation d'utilité publique (FUP)</value>
+      <value i18n="nl">Stichting van openbaar nut (SON)</value>
+    </StatutStatuut>
+    <StatutStatuut>
+      <id>924</id>
+      <value i18n="fr">Fondation privée (FP)</value>
+      <value i18n="nl">Private stichting (PS)</value>
+    </StatutStatuut>
+    <StatutStatuut>
+      <id>925</id>
+      <value i18n="fr">Mutualité</value>
+      <value i18n="nl">Ziekenfonds</value>
+    </StatutStatuut>
+    <StatutStatuut>
+      <id>926</id>
+      <value i18n="fr">Personne physique</value>
+      <value i18n="nl">Natuurlijk persoon</value>
+    </StatutStatuut>
+    <StatutStatuut>
+      <id>927</id>
+      <value i18n="fr">Personne morale de droit public</value>
+      <value i18n="nl">Publiekrechtelijk rechtspersoon</value>
+    </StatutStatuut>
+    <StatutStatuut>
+      <id>928</id>
+      <value i18n="fr">Service public - COCOF</value>
+      <value i18n="nl">Openbare instelling - COCOF</value>
+    </StatutStatuut>
+    <StatutStatuut>
+      <id>929</id>
+      <value i18n="fr">Service public - COCOM</value>
+      <value i18n="nl">Openbare instelling - GGC</value>
+    </StatutStatuut>
+    <StatutStatuut>
+      <id>930</id>
+      <value i18n="fr">Service public - Communauté française</value>
+      <value i18n="nl">Openbare instelling - Franse Gemeenschap</value>
+    </StatutStatuut>
+    <StatutStatuut>
+      <id>931</id>
+      <value i18n="fr">Service public - Commune</value>
+      <value i18n="nl">Openbare dienst - Gemeente</value>
+    </StatutStatuut>
+    <StatutStatuut>
+      <id>932</id>
+      <value i18n="fr">Service public - CPAS</value>
+      <value i18n="nl">Openbare dienst - OCMW</value>
+    </StatutStatuut>
+    <StatutStatuut>
+      <id>933</id>
+      <value i18n="fr">Service public - Fédéral</value>
+      <value i18n="nl">Openbare instelling - Federaal</value>
+    </StatutStatuut>
+    <StatutStatuut>
+      <id>934</id>
+      <value i18n="fr">Service public - Interfédéral</value>
+      <value i18n="nl">Openbare instelling - Interfederaal</value>
+    </StatutStatuut>
+    <StatutStatuut>
+      <id>935</id>
+      <value i18n="fr">Service public - Région bruxelloise</value>
+      <value i18n="nl">Openbare instelling - Brussels Gewest</value>
+    </StatutStatuut>
+    <StatutStatuut>
+      <id>936</id>
+      <value i18n="fr">Service public - VGC</value>
+      <value i18n="nl">Openbare instelling - VGC</value>
+    </StatutStatuut>
+    <StatutStatuut>
+      <id>937</id>
+      <value i18n="fr">Service public - Vlaamse Gemeenschap</value>
+      <value i18n="nl">Openbare instelling - Vlaamse Gemeenschap</value>
+    </StatutStatuut>
+    <StatutStatuut>
+      <id>938</id>
+      <value i18n="fr">Société à finalité sociale (SFS)</value>
+      <value i18n="nl">Vennootschap met een sociaal oogmerk (VSO)</value>
+    </StatutStatuut>
+    <StatutStatuut>
+      <id>939</id>
+      <value i18n="fr">Société anonyme (SA)</value>
+      <value i18n="nl">Naamloze vennootschap (NV)</value>
+    </StatutStatuut>
+    <StatutStatuut>
+      <id>940</id>
+      <value i18n="fr">Société coopérative à responsabilité limitée (SCRL)</value>
+      <value i18n="nl">Coöperatieve vennootschap met beperkte aansprakelijkheid (CVBA)</value>
+    </StatutStatuut>
+    <StatutStatuut>
+      <id>941</id>
+      <value i18n="fr">Société privée à responsabilité limitée (SPRL)</value>
+      <value i18n="nl">Besloten vennootschap met beperkte aansprakelijkheid (BVBA)</value>
+    </StatutStatuut>
+    <StatutStatuut>
+      <id>942</id>
+      <value i18n="fr">Société coopérative à responsabilité illimitée (SCRI)</value>
+      <value i18n="nl">Coöperatieve vennootschap met onbeperkte aansprakelijkheid (CVOA)</value>
+    </StatutStatuut>
+    <StatutStatuut>
+      <id>943</id>
+      <value i18n="fr">Syndicat</value>
+      <value i18n="nl">Vakbond</value>
+    </StatutStatuut>
+  </StatutStatuutList>
+  <zoneActionWerkgebiedList>
+    <zoneActionWerkgebied>
+      <id>264</id>
+      <value i18n="fr">Belgique</value>
+      <value i18n="nl">België</value>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>265</id>
+      <value i18n="fr">Bruxelles-Halle-Vilvoorde</value>
+      <value i18n="nl">Brussel-Halle-Vilvoorde</value>
+      <parent>264</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>266</id>
+      <value i18n="fr">Flandre</value>
+      <value i18n="nl">Vlaanderen</value>
+      <parent>264</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>267</id>
+      <value i18n="fr">Brabant flamand</value>
+      <value i18n="nl">Vlaams-Brabant</value>
+      <parent>266</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>268</id>
+      <value i18n="fr">Région bruxelloise</value>
+      <value i18n="nl">Brussels Gewest</value>
+      <parent>264</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>269</id>
+      <value i18n="fr">Anderlecht</value>
+      <value i18n="nl">Anderlecht</value>
+      <parent>268</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>270</id>
+      <value i18n="fr">Anderlecht Centre - Wayez</value>
+      <value i18n="nl">Anderlecht Centrum - Wayez</value>
+      <parent>269</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>271</id>
+      <value i18n="fr">Bizet - Roue - Ceria</value>
+      <value i18n="nl">Bizet - Rad - Coovi</value>
+      <parent>269</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>272</id>
+      <value i18n="fr">Bon Air</value>
+      <value i18n="nl">Goede Lucht</value>
+      <parent>269</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>273</id>
+      <value i18n="fr">Buffon</value>
+      <value i18n="nl">Buffon</value>
+      <parent>269</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>274</id>
+      <value i18n="fr">Cureghem Bara</value>
+      <value i18n="nl">Kuregem Bara</value>
+      <parent>269</parent>
+      <parent>419</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>275</id>
+      <value i18n="fr">Cureghem Rosée</value>
+      <value i18n="nl">Kuregem Dauw</value>
+      <parent>269</parent>
+      <parent>406</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>276</id>
+      <value i18n="fr">Cureghem Vétérinaire</value>
+      <value i18n="nl">Kuregem Veeartsenij</value>
+      <parent>269</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>277</id>
+      <value i18n="fr">Industrie Birmingham</value>
+      <value i18n="nl">Industrie Birmingham</value>
+      <parent>269</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>278</id>
+      <value i18n="fr">Industrie Sud</value>
+      <value i18n="nl">Industrie Zuid</value>
+      <parent>269</parent>
+      <parent>360</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>279</id>
+      <value i18n="fr">Machtens</value>
+      <value i18n="nl">Machtens</value>
+      <parent>269</parent>
+      <parent>406</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>280</id>
+      <value i18n="fr">Moortebeek - Peterbos</value>
+      <value i18n="nl">Moortebeek - Peterbos</value>
+      <parent>269</parent>
+      <parent>406</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>281</id>
+      <value i18n="fr">Neerpede</value>
+      <value i18n="nl">Neerpede</value>
+      <parent>269</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>282</id>
+      <value i18n="fr">Parc Astrid</value>
+      <value i18n="nl">Astridpark</value>
+      <parent>269</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>283</id>
+      <value i18n="fr">Parc des Étangs</value>
+      <value i18n="nl">Vijverspark</value>
+      <parent>269</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>284</id>
+      <value i18n="fr">Parc Forestier</value>
+      <value i18n="nl">Bospark</value>
+      <parent>269</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>285</id>
+      <value i18n="fr">Scherdemael</value>
+      <value i18n="nl">Scherdemaal</value>
+      <parent>269</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>286</id>
+      <value i18n="fr">Scheut</value>
+      <value i18n="nl">Scheut</value>
+      <parent>269</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>287</id>
+      <value i18n="fr">Veeweyde - Aurore</value>
+      <value i18n="nl">Veeweide - Aurore</value>
+      <parent>269</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>288</id>
+      <value i18n="fr">Vogelenzang - Erasme</value>
+      <value i18n="nl">Vogelenzang - Erasmus</value>
+      <parent>269</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>289</id>
+      <value i18n="fr">Auderghem</value>
+      <value i18n="nl">Oudergem</value>
+      <parent>268</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>290</id>
+      <value i18n="fr">Auderghem Centre</value>
+      <value i18n="nl">Oudergem Centrum</value>
+      <parent>289</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>291</id>
+      <value i18n="fr">Chant d'Oiseau</value>
+      <value i18n="nl">Vogelzang</value>
+      <parent>289</parent>
+      <parent>483</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>292</id>
+      <value i18n="fr">Chaussée de Wavre - Saint-Julien</value>
+      <value i18n="nl">Waverse Steenweg - Sint-Julliaan</value>
+      <parent>289</parent>
+      <parent>344</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>293</id>
+      <value i18n="fr">Delta</value>
+      <value i18n="nl">Delta</value>
+      <parent>289</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>294</id>
+      <value i18n="fr">Forêt de Soignes</value>
+      <value i18n="nl">Zoniënwoud</value>
+      <parent>289</parent>
+      <parent>450</parent>
+      <parent>467</parent>
+      <parent>483</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>295</id>
+      <value i18n="fr">Parc de la Woluwe</value>
+      <value i18n="nl">Park van Woluwe</value>
+      <parent>289</parent>
+      <parent>483</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>296</id>
+      <value i18n="fr">Putdaal</value>
+      <value i18n="nl">Putdaal</value>
+      <parent>289</parent>
+      <parent>483</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>297</id>
+      <value i18n="fr">Transvaal</value>
+      <value i18n="nl">Transvaal</value>
+      <parent>289</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>298</id>
+      <value i18n="fr">Trois Tilleuls</value>
+      <value i18n="nl">Drie Linden</value>
+      <parent>289</parent>
+      <parent>467</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>299</id>
+      <value i18n="fr">Watermael Centre</value>
+      <value i18n="nl">Watermaal Centrum</value>
+      <parent>289</parent>
+      <parent>467</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>300</id>
+      <value i18n="fr">Berchem-Sainte-Agathe</value>
+      <value i18n="nl">Sint-Agatha-Berchem</value>
+      <parent>268</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>301</id>
+      <value i18n="fr">Berchem-Sainte-Agathe Centre</value>
+      <value i18n="nl">Sint-Agatha-Berchem Centrum</value>
+      <parent>300</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>302</id>
+      <value i18n="fr">Hôpital Français</value>
+      <value i18n="nl">Frans Hospitaal</value>
+      <parent>300</parent>
+      <parent>401</parent>
+      <parent>406</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>303</id>
+      <value i18n="fr">Korenbeek</value>
+      <value i18n="nl">Korenbeek</value>
+      <parent>300</parent>
+      <parent>406</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>304</id>
+      <value i18n="fr">Potaarde</value>
+      <value i18n="nl">Potaarde</value>
+      <parent>300</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>305</id>
+      <value i18n="fr">Bruxelles - Centre</value>
+      <value i18n="nl">Brussel - Centrum</value>
+      <parent>511</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>306</id>
+      <value i18n="fr">Anneessens</value>
+      <value i18n="nl">Anneessens</value>
+      <parent>305</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>307</id>
+      <value i18n="fr">Béguinage - Dixmude</value>
+      <value i18n="nl">Begijnhof - Diksmuide</value>
+      <parent>305</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>308</id>
+      <value i18n="fr">Bois de la Cambre</value>
+      <value i18n="nl">Ter Kamerenbos</value>
+      <parent>305</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>309</id>
+      <value i18n="fr">Boondael</value>
+      <value i18n="nl">Boondaal</value>
+      <parent>305</parent>
+      <parent>378</parent>
+      <parent>467</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>310</id>
+      <value i18n="fr">Brugmann - Lepoutre</value>
+      <value i18n="nl">Brugmann - Lepoutre</value>
+      <parent>305</parent>
+      <parent>360</parent>
+      <parent>378</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>311</id>
+      <value i18n="fr">Châtelain</value>
+      <value i18n="nl">Kastelein</value>
+      <parent>305</parent>
+      <parent>378</parent>
+      <parent>419</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>312</id>
+      <value i18n="fr">Cinquantenaire</value>
+      <value i18n="nl">Jubelpark</value>
+      <parent>305</parent>
+      <parent>344</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>313</id>
+      <value i18n="fr">Dansaert</value>
+      <value i18n="nl">Dansaert</value>
+      <parent>305</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>314</id>
+      <value i18n="fr">Dries</value>
+      <value i18n="nl">Dries</value>
+      <parent>305</parent>
+      <parent>378</parent>
+      <parent>467</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>315</id>
+      <value i18n="fr">Étangs d'Ixelles</value>
+      <value i18n="nl">Vijvers van Elsene</value>
+      <parent>305</parent>
+      <parent>378</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>316</id>
+      <value i18n="fr">Fort Jaco</value>
+      <value i18n="nl">Fort Jaco</value>
+      <parent>305</parent>
+      <parent>450</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>317</id>
+      <value i18n="fr">Grand Place</value>
+      <value i18n="nl">Grote Markt</value>
+      <parent>305</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>318</id>
+      <value i18n="fr">Industrie Nord</value>
+      <value i18n="nl">Industrie Nord</value>
+      <parent>305</parent>
+      <parent>352</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>319</id>
+      <value i18n="fr">Industrie Otan</value>
+      <value i18n="nl">Industrie Nato</value>
+      <parent>305</parent>
+      <parent>352</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>320</id>
+      <value i18n="fr">Louise - Longue Haie</value>
+      <value i18n="nl">Louiza - Langehaag</value>
+      <parent>305</parent>
+      <parent>378</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>321</id>
+      <value i18n="fr">Marolles</value>
+      <value i18n="nl">Marollen</value>
+      <parent>305</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>322</id>
+      <value i18n="fr">Martyrs</value>
+      <value i18n="nl">Martelaars</value>
+      <parent>305</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>323</id>
+      <value i18n="fr">Notre-Dame Aux Neiges</value>
+      <value i18n="nl">Onze Lieve Vrouw Ter Sneeuw</value>
+      <parent>305</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>324</id>
+      <value i18n="fr">Parc Léopold</value>
+      <value i18n="nl">Leopoldpark</value>
+      <parent>305</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>325</id>
+      <value i18n="fr">Porte Tervueren</value>
+      <value i18n="nl">Tervurense Poort</value>
+      <parent>305</parent>
+      <parent>344</parent>
+      <parent>434</parent>
+      <parent>474</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>326</id>
+      <value i18n="fr">Quartier Européen</value>
+      <value i18n="nl">Europawijk</value>
+      <parent>305</parent>
+      <parent>378</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>327</id>
+      <value i18n="fr">Quartier Maritime</value>
+      <value i18n="nl">Havenwijk</value>
+      <parent>305</parent>
+      <parent>406</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>328</id>
+      <value i18n="fr">Quartier Nord</value>
+      <value i18n="nl">Noordwijk</value>
+      <parent>305</parent>
+      <parent>428</parent>
+      <parent>434</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>329</id>
+      <value i18n="fr">Quartier Royal</value>
+      <value i18n="nl">Koningswijk</value>
+      <parent>305</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>330</id>
+      <value i18n="fr">Sablon</value>
+      <value i18n="nl">Zavel</value>
+      <parent>305</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>331</id>
+      <value i18n="fr">Squares</value>
+      <value i18n="nl">Squares</value>
+      <parent>305</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>332</id>
+      <value i18n="fr">Stalingrad</value>
+      <value i18n="nl">Stalingrad</value>
+      <parent>305</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>333</id>
+      <value i18n="fr">Bruxelles - Haren</value>
+      <value i18n="nl">Brussel - Haren</value>
+      <parent>511</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>334</id>
+      <value i18n="fr">Quartier Haren</value>
+      <value i18n="nl">Harenwijk</value>
+      <parent>333</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>335</id>
+      <value i18n="fr">Bruxelles - Laeken</value>
+      <value i18n="nl">Brussel - Laken</value>
+      <parent>511</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>336</id>
+      <value i18n="fr">Domaine Royal Laeken</value>
+      <value i18n="nl">Koninklijk Domein Laken</value>
+      <parent>335</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>337</id>
+      <value i18n="fr">Heysel</value>
+      <value i18n="nl">Heizel</value>
+      <parent>335</parent>
+      <parent>392</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>338</id>
+      <value i18n="fr">Houba</value>
+      <value i18n="nl">Houba</value>
+      <parent>335</parent>
+      <parent>392</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>339</id>
+      <value i18n="fr">Mutsaard</value>
+      <value i18n="nl">Mutsaard</value>
+      <parent>335</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>340</id>
+      <value i18n="fr">Vieux Laeken Est</value>
+      <value i18n="nl">Oud Laken Oost</value>
+      <parent>335</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>341</id>
+      <value i18n="fr">Vieux Laeken Ouest</value>
+      <value i18n="nl">Oud Laken West</value>
+      <parent>335</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>342</id>
+      <value i18n="fr">Bruxelles - Neder-Over-Heembeek</value>
+      <value i18n="nl">Brussel - Neder-Over-Heembeek</value>
+      <parent>511</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>343</id>
+      <value i18n="fr">Heembeek</value>
+      <value i18n="nl">Heembeek</value>
+      <parent>342</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>344</id>
+      <value i18n="fr">Etterbeek</value>
+      <value i18n="nl">Etterbeek</value>
+      <parent>268</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>345</id>
+      <value i18n="fr">Chasse</value>
+      <value i18n="nl">Jacht</value>
+      <parent>344</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>348</id>
+      <value i18n="fr">Jourdan</value>
+      <value i18n="nl">Jourdan</value>
+      <parent>344</parent>
+      <parent>378</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>350</id>
+      <value i18n="fr">Saint-Michel</value>
+      <value i18n="nl">Sint-Michiel</value>
+      <parent>344</parent>
+      <parent>483</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>351</id>
+      <value i18n="fr">Saint-Pierre</value>
+      <value i18n="nl">Sint-Pieter</value>
+      <parent>344</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>352</id>
+      <value i18n="fr">Evere</value>
+      <value i18n="nl">Evere</value>
+      <parent>268</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>353</id>
+      <value i18n="fr">Avenue Léopold III</value>
+      <value i18n="nl">Leopold III Laan</value>
+      <parent>352</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>354</id>
+      <value i18n="fr">Cimetière de Bruxelles</value>
+      <value i18n="nl">Kerkhof Brussel</value>
+      <parent>352</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>355</id>
+      <value i18n="fr">Conscience</value>
+      <value i18n="nl">Conscience</value>
+      <parent>352</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>358</id>
+      <value i18n="fr">Paduwa</value>
+      <value i18n="nl">Paduwa</value>
+      <parent>352</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>359</id>
+      <value i18n="fr">Paix</value>
+      <value i18n="nl">Vrede</value>
+      <parent>352</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>360</id>
+      <value i18n="fr">Forest</value>
+      <value i18n="nl">Vorst</value>
+      <parent>268</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>361</id>
+      <value i18n="fr">Altitude 100</value>
+      <value i18n="nl">Hoogte 100</value>
+      <parent>360</parent>
+      <parent>450</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>362</id>
+      <value i18n="fr">Bas Forest</value>
+      <value i18n="nl">Laag Vorst</value>
+      <parent>360</parent>
+      <parent>419</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>364</id>
+      <value i18n="fr">Haut Saint-Gilles</value>
+      <value i18n="nl">Hoog Sint-Gillis</value>
+      <parent>360</parent>
+      <parent>419</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>366</id>
+      <value i18n="fr">Molière - Longchamp</value>
+      <value i18n="nl">Molière - Longchamp</value>
+      <parent>360</parent>
+      <parent>450</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>367</id>
+      <value i18n="fr">Parc Duden - Parc de Forest</value>
+      <value i18n="nl">Dudenpark - Park van Vorst</value>
+      <parent>360</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>368</id>
+      <value i18n="fr">Saint-Denis - Neerstalle</value>
+      <value i18n="nl">Sint-Denijs - Neerstalle</value>
+      <parent>360</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>369</id>
+      <value i18n="fr">Van Volxem - Van Haelen</value>
+      <value i18n="nl">Van Volxem - Van Haelen</value>
+      <parent>360</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>370</id>
+      <value i18n="fr">Vossegat - Roosendaal</value>
+      <value i18n="nl">Vossegat - Roosendaal</value>
+      <parent>360</parent>
+      <parent>450</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>371</id>
+      <value i18n="fr">Ganshoren</value>
+      <value i18n="nl">Ganshoren</value>
+      <parent>268</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>372</id>
+      <value i18n="fr">Basilique</value>
+      <value i18n="nl">Basiliek</value>
+      <parent>371</parent>
+      <parent>392</parent>
+      <parent>401</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>373</id>
+      <value i18n="fr">Bois du Laarbeek - Poelbos</value>
+      <value i18n="nl">Laarbeekbos - Poelbos</value>
+      <parent>371</parent>
+      <parent>392</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>374</id>
+      <value i18n="fr">Ganshoren Centre</value>
+      <value i18n="nl">Ganshoren Centrum</value>
+      <parent>371</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>375</id>
+      <value i18n="fr">Jette Centre</value>
+      <value i18n="nl">Jette Centrum</value>
+      <parent>371</parent>
+      <parent>392</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>376</id>
+      <value i18n="fr">Parc Elisabeth</value>
+      <value i18n="nl">Elisabethpark</value>
+      <parent>371</parent>
+      <parent>401</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>377</id>
+      <value i18n="fr">Villas de Ganshoren</value>
+      <value i18n="nl">Villa's van Ganshoren</value>
+      <parent>371</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>378</id>
+      <value i18n="fr">Ixelles</value>
+      <value i18n="nl">Elsene</value>
+      <parent>268</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>382</id>
+      <value i18n="fr">Cimetière d'Ixelles</value>
+      <value i18n="nl">Kerkhof Elsene</value>
+      <parent>378</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>385</id>
+      <value i18n="fr">Flagey - Malibran</value>
+      <value i18n="nl">Flagey - Malibran</value>
+      <parent>378</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>386</id>
+      <value i18n="fr">Hôpital Etterbeek - Ixelles</value>
+      <value i18n="nl">Hospitaal Etterbeek - Elsene</value>
+      <parent>378</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>389</id>
+      <value i18n="fr">Matonge</value>
+      <value i18n="nl">Matonge</value>
+      <parent>378</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>391</id>
+      <value i18n="fr">Université</value>
+      <value i18n="nl">Universiteitswijk</value>
+      <parent>378</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>392</id>
+      <value i18n="fr">Jette</value>
+      <value i18n="nl">Jette</value>
+      <parent>268</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>395</id>
+      <value i18n="fr">Heymbosch - Az Jette</value>
+      <value i18n="nl">Heymbosch - AZ Jette</value>
+      <parent>392</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>399</id>
+      <value i18n="fr">Parc Baudouin - Dielegembos</value>
+      <value i18n="nl">Boudewijnpark - Dielegembos</value>
+      <parent>392</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>400</id>
+      <value i18n="fr">Woeste</value>
+      <value i18n="nl">Woeste</value>
+      <parent>392</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>401</id>
+      <value i18n="fr">Koekelberg</value>
+      <value i18n="nl">Koekelberg</value>
+      <parent>268</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>405</id>
+      <value i18n="fr">Quartier Koekelberg</value>
+      <value i18n="nl">Koekelbergwijk</value>
+      <parent>401</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>406</id>
+      <value i18n="fr">Molenbeek-Saint-Jean</value>
+      <value i18n="nl">Sint-Jans-Molenbeek</value>
+      <parent>268</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>408</id>
+      <value i18n="fr">Duchesse</value>
+      <value i18n="nl">Hertogin</value>
+      <parent>406</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>409</id>
+      <value i18n="fr">Gare de l'Ouest</value>
+      <value i18n="nl">Weststation</value>
+      <parent>406</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>411</id>
+      <value i18n="fr">Karreveld</value>
+      <value i18n="nl">Karreveld</value>
+      <parent>406</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>414</id>
+      <value i18n="fr">Molenbeek Historique</value>
+      <value i18n="nl">Historisch Molenbeek</value>
+      <parent>406</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>416</id>
+      <value i18n="fr">Parc Marie-José</value>
+      <value i18n="nl">Marie-Josépark</value>
+      <parent>406</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>418</id>
+      <value i18n="fr">Scheutbos</value>
+      <value i18n="nl">Scheutbos</value>
+      <parent>406</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>419</id>
+      <value i18n="fr">Saint-Gilles</value>
+      <value i18n="nl">Sint-Gillis</value>
+      <parent>268</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>421</id>
+      <value i18n="fr">Berckmans - Hôtel des Monnaies</value>
+      <value i18n="nl">Berckmans - Munthof</value>
+      <parent>419</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>422</id>
+      <value i18n="fr">Bosnie</value>
+      <value i18n="nl">Bosnië</value>
+      <parent>419</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>425</id>
+      <value i18n="fr">Gare du Midi</value>
+      <value i18n="nl">Zuidstation</value>
+      <parent>419</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>427</id>
+      <value i18n="fr">Porte de Hal</value>
+      <value i18n="nl">Hallepoort</value>
+      <parent>419</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>428</id>
+      <value i18n="fr">Saint-Josse-Ten-Noode</value>
+      <value i18n="nl">Sint-Joost-ten-Node</value>
+      <parent>268</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>429</id>
+      <value i18n="fr">Botanique</value>
+      <value i18n="nl">Kruidtuin</value>
+      <parent>428</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>430</id>
+      <value i18n="fr">Chaussée de Haecht</value>
+      <value i18n="nl">Haachtsesteenweg</value>
+      <parent>428</parent>
+      <parent>434</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>431</id>
+      <value i18n="fr">Quartier Brabant</value>
+      <value i18n="nl">Brabantwijk</value>
+      <parent>428</parent>
+      <parent>434</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>433</id>
+      <value i18n="fr">Saint-Josse Centre</value>
+      <value i18n="nl">Sint-Joost Centrum</value>
+      <parent>428</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>434</id>
+      <value i18n="fr">Schaerbeek</value>
+      <value i18n="nl">Schaarbeek</value>
+      <parent>268</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>436</id>
+      <value i18n="fr">Collignon</value>
+      <value i18n="nl">Collignon</value>
+      <parent>434</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>437</id>
+      <value i18n="fr">Dailly</value>
+      <value i18n="nl">Dailly</value>
+      <parent>434</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>438</id>
+      <value i18n="fr">Gare de Schaerbeek</value>
+      <value i18n="nl">Schaarbeek Station</value>
+      <parent>434</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>439</id>
+      <value i18n="fr">Gare Josaphat</value>
+      <value i18n="nl">Josaphat Station</value>
+      <parent>434</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>440</id>
+      <value i18n="fr">Georges Henri</value>
+      <value i18n="nl">Georges Henri</value>
+      <parent>434</parent>
+      <parent>474</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>441</id>
+      <value i18n="fr">Helmet</value>
+      <value i18n="nl">Helmet</value>
+      <parent>434</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>442</id>
+      <value i18n="fr">Josaphat</value>
+      <value i18n="nl">Josaphat</value>
+      <parent>434</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>443</id>
+      <value i18n="fr">Parc Josaphat</value>
+      <value i18n="nl">Josaphatpark</value>
+      <parent>434</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>444</id>
+      <value i18n="fr">Plasky</value>
+      <value i18n="nl">Plasky</value>
+      <parent>434</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>448</id>
+      <value i18n="fr">Reyers</value>
+      <value i18n="nl">Reyers</value>
+      <parent>434</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>449</id>
+      <value i18n="fr">Terdelt</value>
+      <value i18n="nl">Terdelt</value>
+      <parent>434</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>450</id>
+      <value i18n="fr">Uccle</value>
+      <value i18n="nl">Ukkel</value>
+      <parent>268</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>452</id>
+      <value i18n="fr">Churchill</value>
+      <value i18n="nl">Churchill</value>
+      <parent>450</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>453</id>
+      <value i18n="fr">Cimetière Saint-Gilles</value>
+      <value i18n="nl">Kerkhof Sint-Gillis</value>
+      <parent>450</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>454</id>
+      <value i18n="fr">Dieweg</value>
+      <value i18n="nl">Dieweg</value>
+      <parent>450</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>457</id>
+      <value i18n="fr">Globe</value>
+      <value i18n="nl">Globe</value>
+      <parent>450</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>458</id>
+      <value i18n="fr">Kalevoet - Moensberg</value>
+      <value i18n="nl">Kalevoet - Moensberg</value>
+      <parent>450</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>459</id>
+      <value i18n="fr">Kriekenput - Homborch - Verrewinkel</value>
+      <value i18n="nl">Kriekenput - Homborch - Verrewinkel</value>
+      <parent>450</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>461</id>
+      <value i18n="fr">Montjoie - Langeveld</value>
+      <value i18n="nl">Montjoie - Langeveld</value>
+      <parent>450</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>462</id>
+      <value i18n="fr">Observatoire</value>
+      <value i18n="nl">Observatorium</value>
+      <parent>450</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>463</id>
+      <value i18n="fr">Parc Wolvendael</value>
+      <value i18n="nl">Wolvendaelpark</value>
+      <parent>450</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>464</id>
+      <value i18n="fr">Saint-Job Kauwberg</value>
+      <value i18n="nl">Sint-Job Kauwberg</value>
+      <parent>450</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>465</id>
+      <value i18n="fr">Vivier d'Oie</value>
+      <value i18n="nl">Diesdelle</value>
+      <parent>450</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>467</id>
+      <value i18n="fr">Watermael-Boitsfort</value>
+      <value i18n="nl">Watermaal-Bosvoorde</value>
+      <parent>268</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>468</id>
+      <value i18n="fr">Boitsfort Centre</value>
+      <value i18n="nl">Bosvoorde Centrum</value>
+      <parent>467</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>474</id>
+      <value i18n="fr">Woluwe-Saint-Lambert</value>
+      <value i18n="nl">Sint-Lambrechts-Woluwe</value>
+      <parent>268</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>475</id>
+      <value i18n="fr">Boulevard de la Woluwe</value>
+      <value i18n="nl">Woluwelaan</value>
+      <parent>474</parent>
+      <parent>483</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>477</id>
+      <value i18n="fr">Gribaumont</value>
+      <value i18n="nl">Gribaumont</value>
+      <parent>474</parent>
+      <parent>483</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>478</id>
+      <value i18n="fr">Kapelleveld</value>
+      <value i18n="nl">Kapelleveld</value>
+      <parent>474</parent>
+      <parent>483</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>480</id>
+      <value i18n="fr">Roodebeek - Constellations</value>
+      <value i18n="nl">Roodebeek - Sterrebeelden</value>
+      <parent>474</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>481</id>
+      <value i18n="fr">Stockel</value>
+      <value i18n="nl">Stokkel</value>
+      <parent>474</parent>
+      <parent>483</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>482</id>
+      <value i18n="fr">Val d'Or</value>
+      <value i18n="nl">Gulledelle</value>
+      <parent>474</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>483</id>
+      <value i18n="fr">Woluwe-Saint-Pierre</value>
+      <value i18n="nl">Sint-Pieters-Woluwe</value>
+      <parent>268</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>492</id>
+      <value i18n="fr">Saint-Paul</value>
+      <value i18n="nl">Sint-Paulus</value>
+      <parent>483</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>493</id>
+      <value i18n="fr">Sainte-Alix - Joli Bois</value>
+      <value i18n="nl">Sinte-Aleidis - Mooibos</value>
+      <parent>483</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>495</id>
+      <value i18n="fr">Wallonie</value>
+      <value i18n="nl">Wallonië</value>
+      <parent>264</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>496</id>
+      <value i18n="fr">Brabant wallon</value>
+      <value i18n="nl">Waals-Brabant</value>
+      <parent>495</parent>
+    </zoneActionWerkgebied>
+    <zoneActionWerkgebied>
+      <id>511</id>
+      <value i18n="fr">Bruxelles</value>
+      <value i18n="nl">Brussel</value>
+      <parent>268</parent>
+    </zoneActionWerkgebied>
+  </zoneActionWerkgebiedList>
+  <pouvoirAgreantErkenningList>
+    <pouvoirAgreantErkenning>
+      <id>497</id>
+      <value i18n="fr">AUTORITÉ FÉDÉRALE</value>
+      <value i18n="nl">FEDERALE OVERHEID</value>
+    </pouvoirAgreantErkenning>
+    <pouvoirAgreantErkenning>
+      <id>498</id>
+      <value i18n="fr">COMMISSION COMMUNAUTAIRE COMMUNE - COCOM</value>
+      <value i18n="nl">GEMEENSCHAPPELIJKE GEMEENSCHAPSCOMMISSIE - GGC</value>
+    </pouvoirAgreantErkenning>
+    <pouvoirAgreantErkenning>
+      <id>499</id>
+      <value i18n="fr">COMMISSION COMMUNAUTAIRE FRANÇAISE - COCOF</value>
+      <value i18n="nl">COMMISSION COMMUNAUTAIRE FRANÇAISE - COCOF</value>
+    </pouvoirAgreantErkenning>
+    <pouvoirAgreantErkenning>
+      <id>501</id>
+      <value i18n="fr">COMMUNAUTÉ FLAMANDE</value>
+      <value i18n="nl">VLAAMSE GEMEENSCHAP</value>
+    </pouvoirAgreantErkenning>
+    <pouvoirAgreantErkenning>
+      <id>502</id>
+      <value i18n="fr">COMMUNAUTÉ FRANÇAISE</value>
+      <value i18n="nl">FRANSE GEMEENSCHAP</value>
+    </pouvoirAgreantErkenning>
+    <pouvoirAgreantErkenning>
+      <id>503</id>
+      <value i18n="fr">KIND EN GEZIN</value>
+      <value i18n="nl">KIND EN GEZIN</value>
+    </pouvoirAgreantErkenning>
+    <pouvoirAgreantErkenning>
+      <id>504</id>
+      <value i18n="fr">OFFICE DE LA NAISSANCE ET DE L'ENFANCE - ONE</value>
+      <value i18n="nl">OFFICE DE LA NAISSANCE ET DE L'ENFANCE - ONE</value>
+    </pouvoirAgreantErkenning>
+    <pouvoirAgreantErkenning>
+      <id>505</id>
+      <value i18n="fr">PERSONNES HANDICAPÉES AUTONOMIE RECHERCHÉE - PHARE</value>
+      <value i18n="nl">PERSONNES HANDICAPÉES AUTONOMIE RECHERCHÉE - PHARE</value>
+    </pouvoirAgreantErkenning>
+    <pouvoirAgreantErkenning>
+      <id>506</id>
+      <value i18n="fr">RÉGION DE BRUXELLES-CAPITALE</value>
+      <value i18n="nl">BRUSSELS HOOFDSTEDELIJK GEWEST</value>
+    </pouvoirAgreantErkenning>
+    <pouvoirAgreantErkenning>
+      <id>507</id>
+      <value i18n="fr">SOCIÉTÉ DU LOGEMENT DE LA RÉGION DE BRUXELLES-CAPITALE - SLRB</value>
+      <value i18n="nl">BRUSSELSE GEWESTELIJKE HUISVESTINGSMAATSCHAPPIJ - BGHM</value>
+    </pouvoirAgreantErkenning>
+    <pouvoirAgreantErkenning>
+      <id>508</id>
+      <value i18n="fr">VLAAMS AGENTSCHAP VOOR PERSONEN MET EEN HANDICAP - VAPH</value>
+      <value i18n="nl">VLAAMS AGENTSCHAP VOOR PERSONEN MET EEN HANDICAP - VAPH</value>
+    </pouvoirAgreantErkenning>
+    <pouvoirAgreantErkenning>
+      <id>509</id>
+      <value i18n="fr">VLAAMSE DIENST VOOR ARBEIDSBEMIDDELING EN BEROEPSOPLEIDING - VDAB</value>
+      <value i18n="nl">VLAAMSE DIENST VOOR ARBEIDSBEMIDDELING EN BEROEPSOPLEIDING - VDAB</value>
+    </pouvoirAgreantErkenning>
+    <pouvoirAgreantErkenning>
+      <id>510</id>
+      <value i18n="fr">VLAAMSE GEMEENSCHAPSCOMMISSIE - VGC</value>
+      <value i18n="nl">VLAAMSE GEMEENSCHAPSCOMMISSIE - VGC</value>
+    </pouvoirAgreantErkenning>
+  </pouvoirAgreantErkenningList>
+  <agrementErkenList>
+    <agrementErken>
+      <id>629</id>
+      <value i18n="fr">Agence locale pour l'emploi (ALE) - Région de Bruxelles-Capitale</value>
+      <value i18n="nl">Plaatselijk werkgelegenheidsagentschap (PWA) - Brussels Hoofdstedelijk Gewest</value>
+      <pouvoirAgreantErkenning>506</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>630</id>
+      <value i18n="fr">Association d'institutions et de services psychiatriques - Autorité fédérale</value>
+      <value i18n="nl">Samenwerkingsverband van psychiatrische instellingen en diensten - Federale Overheid</value>
+      <pouvoirAgreantErkenning>497</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>631</id>
+      <value i18n="fr">Centre d'accueil spécialisé dans la traite des êtres humains - Autorité fédérale</value>
+      <value i18n="nl">Opvangcentrum gespecialiseerd inzake mensenhandel - Federale Overheid</value>
+      <pouvoirAgreantErkenning>497</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>632</id>
+      <value i18n="fr">Espace public numérique (EPN) - Autorité fédérale</value>
+      <value i18n="nl">Openbare computerruimte (OCR) - Federale Overheid</value>
+      <pouvoirAgreantErkenning>497</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>633</id>
+      <value i18n="fr">Organisation d'aide juridique - Autorité fédérale</value>
+      <value i18n="nl">Organisatie voor juridische bijstand - Federale Overheid</value>
+      <pouvoirAgreantErkenning>497</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>635</id>
+      <value i18n="fr">Service de médiation réparatrice - Autorité fédérale</value>
+      <value i18n="nl">Dienst voor herstelbemiddeling - Federale Overheid</value>
+      <pouvoirAgreantErkenning>497</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>637</id>
+      <value i18n="fr">Centre d'aide sociale urgente - COCOM</value>
+      <value i18n="nl">Centrum voor dringende maatschappelijke hulpverlening - GGC</value>
+      <pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>638</id>
+      <value i18n="fr">Centre d'hébergement de nuit inconditionnel - COCOM</value>
+      <value i18n="nl">Centrum voor onvoorwaardelijke nachtopvang - GGC</value>
+      <pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>639</id>
+      <value i18n="fr">Centre d'hébergement pour personnes handicapées - COCOM</value>
+      <value i18n="nl">Verblijfcentrum voor gehandicapte personen - GGC</value>
+      <pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>640</id>
+      <value i18n="fr">Centre de coordination pour le dépistage du cancer du sein - COCOM</value>
+      <value i18n="nl">Coördinatiecentrum van de borstkankerscreening - GGC</value>
+      <pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>641</id>
+      <value i18n="fr">Centre de jour - COCOM</value>
+      <value i18n="nl">Dagcentrum - GGC</value>
+      <pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>642</id>
+      <value i18n="fr">Centre de planning familial - COCOM</value>
+      <value i18n="nl">Centrum voor gezinsplanning - GGC</value>
+      <pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>643</id>
+      <value i18n="fr">Centre de soins de jour - COCOM</value>
+      <value i18n="nl">Centrum voor dagverzorging - GGC</value>
+      <pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>644</id>
+      <value i18n="fr">Centre offrant un premier accueil social - COCOM</value>
+      <value i18n="nl">Centrum dat voor de eerste sociale opvang zorgt - GGC</value>
+      <pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>645</id>
+      <value i18n="fr">Court séjour - COCOM</value>
+      <value i18n="nl">Kortverblijf - GGC</value>
+      <pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>646</id>
+      <value i18n="fr">En basculement vers la COCOM</value>
+      <value i18n="nl">Verschuiving naar de GGC</value>
+      <pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>647</id>
+      <value i18n="fr">Habitation pour personnes âgées - COCOM</value>
+      <value i18n="nl">Woning voor ouderen - GGC</value>
+      <pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>648</id>
+      <value i18n="fr">Hôpital aigu - COCOM</value>
+      <value i18n="nl">Acuut ziekenhuis - GGC</value>
+      <pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>649</id>
+      <value i18n="fr">Hôpital chronique - COCOM</value>
+      <value i18n="nl">Chronisch ziekenhuis - GGC</value>
+      <pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>650</id>
+      <value i18n="fr">Hôpital psychiatrique - COCOM</value>
+      <value i18n="nl">Psychiatrisch ziekenhuis - GGC</value>
+      <pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>651</id>
+      <value i18n="fr">Initiative d'habitation protégée - COCOM</value>
+      <value i18n="nl">Initiatief van beschut wonen - GGC</value>
+      <pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>652</id>
+      <value i18n="fr">Maison d'accueil - COCOM</value>
+      <value i18n="nl">Onthaaltehuis - GGC</value>
+      <pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>653</id>
+      <value i18n="fr">Maison de repos - COCOM</value>
+      <value i18n="nl">Rusthuis - GGC</value>
+      <pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>654</id>
+      <value i18n="fr">Maison de repos et de soins (MRS) - COCOM</value>
+      <value i18n="nl">Rust- en verzorgingstehuis (RVT) - GGC</value>
+      <pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>655</id>
+      <value i18n="fr">Maison de soins psychiatriques (MSP) - COCOM</value>
+      <value i18n="nl">Psychiatrisch verzorgingstehuis (PVT) - GGC</value>
+      <pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>656</id>
+      <value i18n="fr">Plateforme de concertation pour la santé mentale - COCOM</value>
+      <value i18n="nl">Overlegplatform geestelijke gezondheidszorg - GGC</value>
+      <pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>657</id>
+      <value i18n="fr">Résidence-services - COCOM</value>
+      <value i18n="nl">Service-residentie - GGC</value>
+      <pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>658</id>
+      <value i18n="fr">Service d'aide à domicile - COCOM</value>
+      <value i18n="nl">Dienst voor thuiszorg - GGC</value>
+      <pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>659</id>
+      <value i18n="fr">Service d'aide aux actes de la vie journalière (AVJ) - COCOM</value>
+      <value i18n="nl">Dienst hulpverlening bij activiteiten in het dagelijks leven (ADL) - GGC</value>
+      <pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>660</id>
+      <value i18n="fr">Service d'aide sociale aux justiciables - COCOM</value>
+      <value i18n="nl">Dienst voor justitieel welzijnswerk - GGC</value>
+      <pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>661</id>
+      <value i18n="fr">Service d'habitat accompagné/handicap - COCOM</value>
+      <value i18n="nl">Dienst voor begeleid wonen/handicap - GGC</value>
+      <pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>662</id>
+      <value i18n="fr">Service d'habitat accompagné/sans-abri - COCOM</value>
+      <value i18n="nl">Dienst voor begeleid wonen/thuislozen - GGC</value>
+      <pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>663</id>
+      <value i18n="fr">Service de médiation de dettes - COCOM</value>
+      <value i18n="nl">Dienst voor schuldbemiddeling - GGC</value>
+      <pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>664</id>
+      <value i18n="fr">Service de santé mentale - COCOM</value>
+      <value i18n="nl">Dienst voor geestelijke gezondheidszorg - GGC</value>
+      <pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>665</id>
+      <value i18n="fr">Service de soins à domicile - COCOM</value>
+      <value i18n="nl">Dienst voor thuisverzorging - GGC</value>
+      <pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>666</id>
+      <value i18n="fr">Service intégré de soins à domicile - COCOM</value>
+      <value i18n="nl">Geïntegreerde dienst voor thuiszorg - GGC</value>
+      <pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>667</id>
+      <value i18n="fr">Service accompagnant des personnes vivant dans la rue - COCOM</value>
+      <value i18n="nl">Dienst voor de begeleiding van personen die op straat leven - GGC</value>
+      <pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>668</id>
+      <value i18n="fr">Bureau d'accueil pour primo-arrivants - COCOF</value>
+      <value i18n="nl">Bureau d'accueil pour primo-arrivants - COCOF</value>
+      <pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>669</id>
+      <value i18n="fr">Centre d'accueil téléphonique - COCOF</value>
+      <value i18n="nl">Centre d'accueil téléphonique - COCOF</value>
+      <pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>670</id>
+      <value i18n="fr">Centre d'action sociale globale (CASG) - COCOF</value>
+      <value i18n="nl">Centre d'action sociale globale (CASG) - COCOF</value>
+      <pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>671</id>
+      <value i18n="fr">Centre de coordination de soins et services à domicile - COCOF</value>
+      <value i18n="nl">Centre de coordination de soins et services à domicile - COCOF</value>
+      <pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>672</id>
+      <value i18n="fr">Centre de planning familial - COCOF</value>
+      <value i18n="nl">Centre de planning familial - COCOF</value>
+      <pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>674</id>
+      <value i18n="fr">En transfert vers la COCOF</value>
+      <value i18n="nl">Overheveling naar de COCOF</value>
+      <pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>675</id>
+      <value i18n="fr">Hôpital psychiatrique - COCOF</value>
+      <value i18n="nl">Hôpital psychiatrique - COCOF</value>
+      <pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>676</id>
+      <value i18n="fr">Initiative d'habitations protégées (IHP) - COCOF</value>
+      <value i18n="nl">Initiative d'habitations protégées (IHP) - COCOF</value>
+      <pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>677</id>
+      <value i18n="fr">Maison communautaire - COCOF</value>
+      <value i18n="nl">Maison communautaire - COCOF</value>
+      <pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>678</id>
+      <value i18n="fr">Maison d'accueil - COCOF</value>
+      <value i18n="nl">Maison d'accueil - COCOF</value>
+      <pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>679</id>
+      <value i18n="fr">Maison médicale - COCOF</value>
+      <value i18n="nl">Maison médicale - COCOF</value>
+      <pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>685</id>
+      <value i18n="fr">Organisme de coordination ou de représentation - COCOF</value>
+      <value i18n="nl">Organisme de coordination ou de représentation - COCOF</value>
+      <pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>686</id>
+      <value i18n="fr">Organisme intersectoriel de coordination - COCOF</value>
+      <value i18n="nl">Organisme intersectoriel de coordination - COCOF</value>
+      <pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>687</id>
+      <value i18n="fr">Projet communal de cohésion sociale - COCOF</value>
+      <value i18n="nl">Projet communal de cohésion sociale - COCOF</value>
+      <pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>688</id>
+      <value i18n="fr">Projet régional de cohésion sociale - COCOF</value>
+      <value i18n="nl">Projet régional de cohésion sociale - COCOF</value>
+      <pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>689</id>
+      <value i18n="fr">Réseau - COCOF</value>
+      <value i18n="nl">Réseau - COCOF</value>
+      <pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>690</id>
+      <value i18n="fr">Résidence-services - COCOF</value>
+      <value i18n="nl">Résidence-services - COCOF</value>
+      <pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>691</id>
+      <value i18n="fr">Service actif en matière de toxicomanies - COCOF</value>
+      <value i18n="nl">Service actif en matière de toxicomanies - COCOF</value>
+      <pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>692</id>
+      <value i18n="fr">Service d'accueil de jour - COCOF</value>
+      <value i18n="nl">Service d'accueil de jour - COCOF</value>
+      <pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>693</id>
+      <value i18n="fr">Service d'aide à domicile - COCOF</value>
+      <value i18n="nl">Service d'aide à domicile - COCOF</value>
+      <pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>694</id>
+      <value i18n="fr">Service d'aide aux personnes âgées maltraitées - COCOF</value>
+      <value i18n="nl">Service d'aide aux personnes âgées maltraitées - COCOF</value>
+      <pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>695</id>
+      <value i18n="fr">Service de médiation de dettes - COCOF</value>
+      <value i18n="nl">Service de médiation de dettes - COCOF</value>
+      <pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>696</id>
+      <value i18n="fr">Service de santé mentale - COCOF</value>
+      <value i18n="nl">Service de santé mentale - COCOF</value>
+      <pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>697</id>
+      <value i18n="fr">Service de soins palliatifs et continués - COCOF</value>
+      <value i18n="nl">Service de soins palliatifs et continués - COCOF</value>
+      <pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>698</id>
+      <value i18n="fr">Service de télévigilance - COCOF</value>
+      <value i18n="nl">Service de télévigilance - COCOF</value>
+      <pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>699</id>
+      <value i18n="fr">Adviesbureau in de sociale economie - Communauté flamande</value>
+      <value i18n="nl">Adviesbureau in de sociale economie - Vlaamse Gemeenschap</value>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>702</id>
+      <value i18n="fr">Centrum voor de begeleiding en behandeling van daders van seksueel misbruik - Communauté flamande</value>
+      <value i18n="nl">Centrum voor de begeleiding en behandeling van daders van seksueel misbruik - Vlaamse Gemeenschap</value>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>703</id>
+      <value i18n="fr">Centrum voor algemeen welzijnswerk (CAW) - Communauté flamande</value>
+      <value i18n="nl">Centrum voor algemeen welzijnswerk (CAW) - Vlaamse Gemeenschap</value>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>704</id>
+      <value i18n="fr">Centrum voor basiseducatie - Communauté flamande</value>
+      <value i18n="nl">Centrum voor basiseducatie - Vlaamse Gemeenschap</value>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>705</id>
+      <value i18n="fr">Centrum voor deeltijdse vorming - Communauté flamande</value>
+      <value i18n="nl">Centrum voor deeltijdse vorming - Vlaamse Gemeenschap</value>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>707</id>
+      <value i18n="fr">Centrum voor geestelijke gezondheidszorg - Communauté flamande</value>
+      <value i18n="nl">Centrum voor geestelijke gezondheidszorg - Vlaamse Gemeenschap</value>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>708</id>
+      <value i18n="fr">Centrum voor herstelverblijf - Communauté flamande</value>
+      <value i18n="nl">Centrum voor herstelverblijf - Vlaamse Gemeenschap</value>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>709</id>
+      <value i18n="fr">Centrum voor integrale gezinszorg - Communauté flamande</value>
+      <value i18n="nl">Centrum voor integrale gezinszorg - Vlaamse Gemeenschap</value>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>710</id>
+      <value i18n="fr">Centrum voor justitieel welzijnswerk - Communauté flamande</value>
+      <value i18n="nl">Centrum voor justitieel welzijnswerk - Vlaamse Gemeenschap</value>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>711</id>
+      <value i18n="fr">Centrum voor kortverblijf - Communauté flamande</value>
+      <value i18n="nl">Centrum voor kortverblijf - Vlaamse Gemeenschap</value>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>712</id>
+      <value i18n="fr">Centrum voor leerlingenbegeleiding - Communauté flamande</value>
+      <value i18n="nl">Centrum voor leerlingenbegeleiding - Vlaamse Gemeenschap</value>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>713</id>
+      <value i18n="fr">Centrum voor menselijke erfelijkheid - Communauté flamande</value>
+      <value i18n="nl">Centrum voor menselijke erfelijkheid - Vlaamse Gemeenschap</value>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>714</id>
+      <value i18n="fr">Centrum voor teleonthaal - Communauté flamande</value>
+      <value i18n="nl">Centrum voor teleonthaal - Vlaamse Gemeenschap</value>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>715</id>
+      <value i18n="fr">Dagverzorgingscentrum - Communauté flamande</value>
+      <value i18n="nl">Dagverzorgingscentrum - Vlaamse Gemeenschap</value>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>716</id>
+      <value i18n="fr">Dagverzorgingscentrum voor palliatieve verzorging - Communauté flamande</value>
+      <value i18n="nl">Dagverzorgingscentrum voor palliatieve verzorging - Vlaamse Gemeenschap</value>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>717</id>
+      <value i18n="fr">Dienst maatschappelijk werk van het ziekenfonds - Communauté flamande</value>
+      <value i18n="nl">Dienst maatschappelijk werk van het ziekenfonds - Vlaamse Gemeenschap</value>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>718</id>
+      <value i18n="fr">Dienst voor aangepast vervoer - Communauté flamande</value>
+      <value i18n="nl">Dienst voor aangepast vervoer - Vlaamse Gemeenschap</value>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>719</id>
+      <value i18n="fr">Dienst voor crisishulp aan huis - Communauté flamande</value>
+      <value i18n="nl">Dienst voor crisishulp aan huis - Vlaamse Gemeenschap</value>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>720</id>
+      <value i18n="fr">Dienst voor gezinszorg en aanvullende thuiszorg - Communauté flamande</value>
+      <value i18n="nl">Dienst voor gezinszorg en aanvullende thuiszorg - Vlaamse Gemeenschap</value>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>721</id>
+      <value i18n="fr">Dienst voor herstelgerichte en constructieve afhandeling - Communauté flamande</value>
+      <value i18n="nl">Dienst voor herstelgerichte en constructieve afhandeling - Vlaamse Gemeenschap</value>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>722</id>
+      <value i18n="fr">Dienst voor oppashulp - Communauté flamande</value>
+      <value i18n="nl">Dienst voor oppashulp - Vlaamse Gemeenschap</value>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>723</id>
+      <value i18n="fr">Dienst voor pleegzorg - Communauté flamande</value>
+      <value i18n="nl">Dienst voor pleegzorg - Vlaamse Gemeenschap</value>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>724</id>
+      <value i18n="fr">Dienst voor schuldbemiddeling - Communauté flamande</value>
+      <value i18n="nl">Dienst voor schuldbemiddeling - Vlaamse Gemeenschap</value>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>725</id>
+      <value i18n="fr">Dienst voor slachtofferhulp - Communauté flamande</value>
+      <value i18n="nl">Dienst voor slachtofferhulp - Vlaamse Gemeenschap</value>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>726</id>
+      <value i18n="fr">Geïntegreerde dienst voor thuisverzorging - Communauté flamande</value>
+      <value i18n="nl">Geïntegreerde dienst voor thuisverzorging - Vlaamse Gemeenschap</value>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>727</id>
+      <value i18n="fr">Gemeenschapsinstelling - Communauté flamande</value>
+      <value i18n="nl">Gemeenschapsinstelling - Vlaamse Gemeenschap</value>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>728</id>
+      <value i18n="fr">Gespecialiseerde bibliotheekvoorziening - Communauté flamande</value>
+      <value i18n="nl">Gespecialiseerde bibliotheekvoorziening - Vlaamse Gemeenschap</value>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>729</id>
+      <value i18n="fr">Groep van assistentiewoningen - Communauté flamande</value>
+      <value i18n="nl">Groep van assistentiewoningen - Vlaamse Gemeenschap</value>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>730</id>
+      <value i18n="fr">Indicatiesteller zorgverzekering - Communauté flamande</value>
+      <value i18n="nl">Indicatiesteller zorgverzekering - Vlaamse Gemeenschap</value>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>731</id>
+      <value i18n="fr">Initiatief beschut wonen - Communauté flamande</value>
+      <value i18n="nl">Initiatief beschut wonen - Vlaamse Gemeenschap</value>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>732</id>
+      <value i18n="fr">Initiatief lokale diensteneconomie - Communauté flamande</value>
+      <value i18n="nl">Initiatief lokale diensteneconomie - Vlaamse Gemeenschap</value>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>733</id>
+      <value i18n="fr">Instelling voor maatschappelijk opbouwwerk - Communauté flamande</value>
+      <value i18n="nl">Instelling voor maatschappelijk opbouwwerk - Vlaamse Gemeenschap</value>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>734</id>
+      <value i18n="fr">Jeugdadviesorgaan - Communauté flamande</value>
+      <value i18n="nl">Jeugdadviesorgaan - Vlaamse Gemeenschap</value>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>735</id>
+      <value i18n="fr">Lokaal dienstencentrum - Communauté flamande</value>
+      <value i18n="nl">Lokaal dienstencentrum - Vlaamse Gemeenschap</value>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>736</id>
+      <value i18n="fr">Lokaal integratiecentrum - Communauté flamande</value>
+      <value i18n="nl">Lokaal integratiecentrum - Vlaamse Gemeenschap</value>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>737</id>
+      <value i18n="fr">Lokaal steunpunt - Communauté flamande</value>
+      <value i18n="nl">Lokaal steunpunt - Vlaamse Gemeenschap</value>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>739</id>
+      <value i18n="fr">Onthaalbureau voor inburgering - Communauté flamande</value>
+      <value i18n="nl">Onthaalbureau voor inburgering - Vlaamse Gemeenschap</value>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>740</id>
+      <value i18n="fr">Opleidingscentrum voor polyvalente verzorgenden - Communauté flamande</value>
+      <value i18n="nl">Opleidingscentrum voor polyvalente verzorgenden - Vlaamse Gemeenschap</value>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>741</id>
+      <value i18n="fr">Opvang- oriëntatie- en observatiecentrum - Communauté flamande</value>
+      <value i18n="nl">Opvang- oriëntatie- en observatiecentrum - Vlaamse Gemeenschap</value>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>742</id>
+      <value i18n="fr">Organisatie met terreinwerking voor de zorg voor nabestaanden na zelfdoding - Communauté flamande</value>
+      <value i18n="nl">Organisatie met terreinwerking voor de zorg voor nabestaanden na zelfdoding - Vlaamse Gemeenschap</value>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>743</id>
+      <value i18n="fr">Organisatie met terreinwerking voor suïcidepreventie door telezorg - Communauté flamande</value>
+      <value i18n="nl">Organisatie met terreinwerking voor suïcidepreventie door telezorg  - Vlaamse Gemeenschap</value>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>744</id>
+      <value i18n="fr">Organisatie met terreinwerking voor de integrale zorg voor suïcidepogers - Communauté flamande</value>
+      <value i18n="nl">Organisatie met terreinwerking voor de integrale zorg voor suïcidepogers - Vlaamse Gemeenschap</value>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>745</id>
+      <value i18n="fr">Organisatie voor bijzondere jeugdzorg - Communauté flamande</value>
+      <value i18n="nl">Organisatie voor bijzondere jeugdzorg - Vlaamse Gemeenschap</value>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>746</id>
+      <value i18n="fr">Palliatief netwerk - Communauté flamande</value>
+      <value i18n="nl">Palliatief netwerk - Vlaamse Gemeenschap</value>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>747</id>
+      <value i18n="fr">Participatieorganisatie - Communauté flamande</value>
+      <value i18n="nl">Participatieorganisatie - Vlaamse Gemeenschap</value>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>748</id>
+      <value i18n="fr">Patiëntenorganisatie - Communauté flamande</value>
+      <value i18n="nl">Patiëntenorganisatie - Vlaamse Gemeenschap</value>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>749</id>
+      <value i18n="fr">Psychiatrisch ziekenhuis - Communauté flamande</value>
+      <value i18n="nl">Psychiatrisch ziekenhuis - Vlaamse Gemeenschap</value>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>750</id>
+      <value i18n="fr">Regionaal dienstencentrum - Communauté flamande</value>
+      <value i18n="nl">Regionaal dienstencentrum - Vlaamse Gemeenschap</value>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>751</id>
+      <value i18n="fr">Regionaal expertisecentrum dementie - Communauté flamande</value>
+      <value i18n="nl">Regionaal expertisecentrum dementie - Vlaamse Gemeenschap</value>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>752</id>
+      <value i18n="fr">Regionaal integratiecentrum - Communauté flamande</value>
+      <value i18n="nl">Regionaal integratiecentrum - Vlaamse Gemeenschap</value>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>753</id>
+      <value i18n="fr">Rust- en verzorgingstehuis (RVT) - Communauté flamande</value>
+      <value i18n="nl">Rust- en verzorgingstehuis (RVT) - Vlaamse Gemeenschap</value>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>755</id>
+      <value i18n="fr">Samenwerkingsverband inzake palliatieve zorg - Communauté flamande</value>
+      <value i18n="nl">Samenwerkingsverband inzake palliatieve zorg - Vlaamse Gemeenschap</value>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>756</id>
+      <value i18n="fr">Samenwerkingsverband opvoedingsondersteuning - Communauté flamande</value>
+      <value i18n="nl">Samenwerkingsverband opvoedingsondersteuning - Vlaamse Gemeenschap</value>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>757</id>
+      <value i18n="fr">Samenwerkingsverband van verenigingen waar armen het woord nemen - Communauté flamande</value>
+      <value i18n="nl">Samenwerkingsverband van verenigingen waar armen het woord nemen - Vlaamse Gemeenschap</value>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>758</id>
+      <value i18n="fr">Sociale kredietvennootschap - Communauté flamande</value>
+      <value i18n="nl">Sociale kredietvennootschap - Vlaamse Gemeenschap</value>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>759</id>
+      <value i18n="fr">Steunpunt jeugd - Communauté flamande</value>
+      <value i18n="nl">Steunpunt jeugd - Vlaamse Gemeenschap</value>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>760</id>
+      <value i18n="fr">Steunpunt nazorg adoptie  - Communauté flamande</value>
+      <value i18n="nl">Steunpunt nazorg adoptie  - Vlaamse Gemeenschap</value>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>761</id>
+      <value i18n="fr">Universitair ziekenhuis - Communauté flamande</value>
+      <value i18n="nl">Universitair ziekenhuis - Vlaamse Gemeenschap</value>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>762</id>
+      <value i18n="fr">Vereniging van gebruikers en mantelzorgers - Communauté flamande</value>
+      <value i18n="nl">Vereniging van gebruikers en mantelzorgers - Vlaamse Gemeenschap</value>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>763</id>
+      <value i18n="fr">Vereniging waar armen het woord nemen - Communauté flamande</value>
+      <value i18n="nl">Vereniging waar armen het woord nemen - Vlaamse Gemeenschap</value>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>764</id>
+      <value i18n="fr">Vlaams expertisecentrum migratie en integratie - Communauté flamande</value>
+      <value i18n="nl">Vlaams expertisecentrum migratie en integratie - Vlaamse Gemeenschap</value>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>765</id>
+      <value i18n="fr">Vlaamse ouderenraad - Communauté flamande</value>
+      <value i18n="nl">Vlaamse ouderenraad - Vlaamse Gemeenschap</value>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>766</id>
+      <value i18n="fr">Woonzorgcentrum (WZC) - Communauté flamande</value>
+      <value i18n="nl">Woonzorgcentrum (WZC) - Vlaamse Gemeenschap</value>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>767</id>
+      <value i18n="fr">Zorgkas - Communauté flamande</value>
+      <value i18n="nl">Zorgkas - Vlaamse Gemeenschap</value>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>768</id>
+      <value i18n="fr">Centre d'accueil d'urgence (CAU) - Communauté française</value>
+      <value i18n="nl">Centre d'accueil d'urgence (CAU) - Franse Gemeenschap</value>
+      <pouvoirAgreantErkenning>502</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>769</id>
+      <value i18n="fr">Centre d'accueil spécialisé (CAS) - Communauté française</value>
+      <value i18n="nl">Centre d'accueil spécialisé (CAS) - Franse Gemeenschap</value>
+      <pouvoirAgreantErkenning>502</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>770</id>
+      <value i18n="fr">Centre d'information des jeunes - Communauté française</value>
+      <value i18n="nl">Centre d'information des jeunes - Franse Gemeenschap</value>
+      <pouvoirAgreantErkenning>502</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>771</id>
+      <value i18n="fr">Centre d'observation et d'orientation (COO) - Communauté française</value>
+      <value i18n="nl">Centre d'observation et d'orientation (COO) - Franse Gemeenschap</value>
+      <pouvoirAgreantErkenning>502</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>772</id>
+      <value i18n="fr">Centre d'orientation éducative (COE) - Communauté française</value>
+      <value i18n="nl">Centre d'orientation éducative (COE) - Franse Gemeenschap</value>
+      <pouvoirAgreantErkenning>502</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>774</id>
+      <value i18n="fr">Coordination régionale d'écoles de devoirs - Communauté française</value>
+      <value i18n="nl">Coordination régionale d'écoles de devoirs - Franse Gemeenschap</value>
+      <pouvoirAgreantErkenning>502</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>775</id>
+      <value i18n="fr">Espace-rencontres - Communauté française</value>
+      <value i18n="nl">Espace-rencontres - Franse Gemeenschap</value>
+      <pouvoirAgreantErkenning>502</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>776</id>
+      <value i18n="fr">Hôpital universitaire - Communauté française</value>
+      <value i18n="nl">Hôpital universitaire - Franse Gemeenschap</value>
+      <pouvoirAgreantErkenning>502</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>777</id>
+      <value i18n="fr">Maison de jeunes - Communauté française</value>
+      <value i18n="nl">Maison de jeunes - Franse Gemeenschap</value>
+      <pouvoirAgreantErkenning>502</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>778</id>
+      <value i18n="fr">Organisme d'adoption - Communauté française</value>
+      <value i18n="nl">Organisme d'adoption - Franse Gemeenschap</value>
+      <pouvoirAgreantErkenning>502</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>779</id>
+      <value i18n="fr">Service de formation de l'aide à la jeunesse - Communauté française</value>
+      <value i18n="nl">Service de formation de l'aide à la jeunesse - Franse Gemeenschap</value>
+      <pouvoirAgreantErkenning>502</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>780</id>
+      <value i18n="fr">Projet pédagogique particulier (PPP) - Communauté française</value>
+      <value i18n="nl">Projet pédagogique particulier (PPP) - Franse Gemeenschap</value>
+      <pouvoirAgreantErkenning>502</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>781</id>
+      <value i18n="fr">Service d'accrochage scolaire - Communauté française</value>
+      <value i18n="nl">Service d'accrochage scolaire - Franse Gemeenschap</value>
+      <pouvoirAgreantErkenning>502</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>782</id>
+      <value i18n="fr">Service d'accueil et d'aide éducative (SAAE) - Communauté française</value>
+      <value i18n="nl">Service d'accueil et d'aide éducative (SAAE) - Franse Gemeenschap</value>
+      <pouvoirAgreantErkenning>502</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>783</id>
+      <value i18n="fr">Service d'accueil téléphonique des enfants - Communauté française</value>
+      <value i18n="nl">Service d'accueil téléphonique des enfants - Franse Gemeenschap</value>
+      <pouvoirAgreantErkenning>502</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>784</id>
+      <value i18n="fr">Service d'actions restauratrices et éducatives - Communauté française</value>
+      <value i18n="nl">Service d'actions restauratrices et éducatives - Franse Gemeenschap</value>
+      <pouvoirAgreantErkenning>502</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>785</id>
+      <value i18n="fr">Service d'aide en milieu ouvert (AMO) - Communauté française</value>
+      <value i18n="nl">Service d'aide en milieu ouvert (AMO) - Franse Gemeenschap</value>
+      <pouvoirAgreantErkenning>502</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>786</id>
+      <value i18n="fr">Service d'aide et d'intervention éducative (SAIE) - Communauté française</value>
+      <value i18n="nl">Service d'aide et d'intervention éducative (SAIE) - Franse Gemeenschap</value>
+      <pouvoirAgreantErkenning>502</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>787</id>
+      <value i18n="fr">Service d'aide sociale aux détenus - Communauté française</value>
+      <value i18n="nl">Service d'aide sociale aux détenus - Franse Gemeenschap</value>
+      <pouvoirAgreantErkenning>502</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>788</id>
+      <value i18n="fr">Service d'aide sociale aux justiciables - Communauté française</value>
+      <value i18n="nl">Service d'aide sociale aux justiciables - Franse Gemeenschap</value>
+      <pouvoirAgreantErkenning>502</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>789</id>
+      <value i18n="fr">Service de placement familial - Communauté française</value>
+      <value i18n="nl">Service de placement familial - Franse Gemeenschap</value>
+      <pouvoirAgreantErkenning>502</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>790</id>
+      <value i18n="fr">Service de promotion de la santé à l'école - Communauté française</value>
+      <value i18n="nl">Service de promotion de la santé à l'école - Franse Gemeenschap</value>
+      <pouvoirAgreantErkenning>502</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>791</id>
+      <value i18n="fr">Service de protutelle - Communauté française</value>
+      <value i18n="nl">Service de protutelle - Franse Gemeenschap</value>
+      <pouvoirAgreantErkenning>502</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>792</id>
+      <value i18n="fr">Binnenlandse adoptiedienst - Kind en Gezin</value>
+      <value i18n="nl">Binnenlandse adoptiedienst - Kind en Gezin</value>
+      <pouvoirAgreantErkenning>503</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>793</id>
+      <value i18n="fr">Buitenlandse adoptiedienst - Kind en Gezin</value>
+      <value i18n="nl">Buitenlandse adoptiedienst - Kind en Gezin</value>
+      <pouvoirAgreantErkenning>503</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>794</id>
+      <value i18n="fr">Centrum inclusieve kinderopvang - Kind en Gezin</value>
+      <value i18n="nl">Centrum inclusieve kinderopvang - Kind en Gezin</value>
+      <pouvoirAgreantErkenning>503</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>795</id>
+      <value i18n="fr">Centrum voor kinderzorg en gezinsondersteuning - Kind en Gezin</value>
+      <value i18n="nl">Centrum voor kinderzorg en gezinsondersteuning - Kind en Gezin</value>
+      <pouvoirAgreantErkenning>503</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>796</id>
+      <value i18n="fr">Consultatiebureau - Kind en Gezin</value>
+      <value i18n="nl">Consultatiebureau - Kind en Gezin</value>
+      <pouvoirAgreantErkenning>503</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>797</id>
+      <value i18n="fr">Dienst voor maatschappelijk onderzoek interlandelijke adoptie - Kind en Gezin</value>
+      <value i18n="nl">Dienst voor maatschappelijk onderzoek interlandelijke adoptie - Kind en Gezin</value>
+      <pouvoirAgreantErkenning>503</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>798</id>
+      <value i18n="fr">Expertisecentrum voor kraamzorg - Kind en Gezin</value>
+      <value i18n="nl">Expertisecentrum voor kraamzorg - Kind en Gezin</value>
+      <pouvoirAgreantErkenning>503</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>799</id>
+      <value i18n="fr">Groepsopvang - Kind en Gezin</value>
+      <value i18n="nl">Groepsopvang - Kind en Gezin</value>
+      <pouvoirAgreantErkenning>503</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>800</id>
+      <value i18n="fr">INLOOP-team - Kind en Gezin</value>
+      <value i18n="nl">INLOOP-team - Kind en Gezin</value>
+      <pouvoirAgreantErkenning>503</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>801</id>
+      <value i18n="fr">Organisator gezinsopvang - Kind en Gezin</value>
+      <value i18n="nl">Organisator gezinsopvang - Kind en Gezin</value>
+      <pouvoirAgreantErkenning>503</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>802</id>
+      <value i18n="fr">Prenataal steunpunt - Kind en Gezin</value>
+      <value i18n="nl">Prenataal steunpunt - Kind en Gezin</value>
+      <pouvoirAgreantErkenning>503</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>803</id>
+      <value i18n="fr">Trefgroep - Kind en Gezin</value>
+      <value i18n="nl">Trefgroep - Kind en Gezin</value>
+      <pouvoirAgreantErkenning>503</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>804</id>
+      <value i18n="fr">Vertrouwenscentrum kindermishandeling - Kind en Gezin</value>
+      <value i18n="nl">Vertrouwenscentrum kindermishandeling - Kind en Gezin</value>
+      <pouvoirAgreantErkenning>503</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>805</id>
+      <value i18n="fr">Voorbereidingscentrum - Kind en Gezin</value>
+      <value i18n="nl">Voorbereidingscentrum - Kind en Gezin</value>
+      <pouvoirAgreantErkenning>503</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>806</id>
+      <value i18n="fr">Consultation pour enfants - ONE</value>
+      <value i18n="nl">Consultation pour enfants - ONE</value>
+      <pouvoirAgreantErkenning>504</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>807</id>
+      <value i18n="fr">Consultation prénatale - ONE</value>
+      <value i18n="nl">Consultation prénatale - ONE</value>
+      <pouvoirAgreantErkenning>504</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>808</id>
+      <value i18n="fr">Crèche - ONE</value>
+      <value i18n="nl">Crèche - ONE</value>
+      <pouvoirAgreantErkenning>504</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>809</id>
+      <value i18n="fr">Crèche parentale - ONE</value>
+      <value i18n="nl">Crèche parentale - ONE</value>
+      <pouvoirAgreantErkenning>504</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>810</id>
+      <value i18n="fr">École de devoirs (EDD) - ONE</value>
+      <value i18n="nl">École de devoirs (EDD) - ONE</value>
+      <pouvoirAgreantErkenning>504</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>811</id>
+      <value i18n="fr">Équipe SOS Enfants - ONE</value>
+      <value i18n="nl">Équipe SOS Enfants - ONE</value>
+      <pouvoirAgreantErkenning>504</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>812</id>
+      <value i18n="fr">Maison communale d'accueil de l'enfance (MCAE) - ONE</value>
+      <value i18n="nl">Maison communale d'accueil de l'enfance (MCAE) - ONE</value>
+      <pouvoirAgreantErkenning>504</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>813</id>
+      <value i18n="fr">Maison d'enfants - ONE</value>
+      <value i18n="nl">Maison d'enfants - ONE</value>
+      <pouvoirAgreantErkenning>504</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>814</id>
+      <value i18n="fr">Prégardiennat - ONE</value>
+      <value i18n="nl">Prégardiennat - ONE</value>
+      <pouvoirAgreantErkenning>504</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>815</id>
+      <value i18n="fr">Service d'accueil spécialisé de la petite enfance (SASPE) - ONE</value>
+      <value i18n="nl">Service d'accueil spécialisé de la petite enfance (SASPE) - ONE</value>
+      <pouvoirAgreantErkenning>504</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>816</id>
+      <value i18n="fr">Service d'accueillant(e)s d'enfants conventionné(e)s - ONE</value>
+      <value i18n="nl">Service d'accueillant(e)s d'enfants conventionné(e)s - ONE</value>
+      <pouvoirAgreantErkenning>504</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>817</id>
+      <value i18n="fr">Centre d'hébergement pour adultes - PHARE</value>
+      <value i18n="nl">Centre d'hébergement pour adultes - PHARE</value>
+      <pouvoirAgreantErkenning>505</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>818</id>
+      <value i18n="fr">Centre d'hébergement pour enfants - PHARE</value>
+      <value i18n="nl">Centre d'hébergement pour enfants - PHARE</value>
+      <pouvoirAgreantErkenning>505</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>819</id>
+      <value i18n="fr">Centre d'orientation spécialisée - PHARE</value>
+      <value i18n="nl">Centre d'orientation spécialisée - PHARE</value>
+      <pouvoirAgreantErkenning>505</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>820</id>
+      <value i18n="fr">Centre de jour pour adultes - PHARE</value>
+      <value i18n="nl">Centre de jour pour adultes - PHARE</value>
+      <pouvoirAgreantErkenning>505</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>821</id>
+      <value i18n="fr">Centre de jour pour enfants non scolarisés - PHARE</value>
+      <value i18n="nl">Centre de jour pour enfants non scolarisés - PHARE</value>
+      <pouvoirAgreantErkenning>505</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>822</id>
+      <value i18n="fr">Centre de jour pour enfants scolarisés - PHARE</value>
+      <value i18n="nl">Centre de jour pour enfants scolarisés - PHARE</value>
+      <pouvoirAgreantErkenning>505</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>823</id>
+      <value i18n="fr">Entreprise de travail adapté (ETA) - PHARE</value>
+      <value i18n="nl">Entreprise de travail adapté (ETA) - PHARE</value>
+      <pouvoirAgreantErkenning>505</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>824</id>
+      <value i18n="fr">Service d'accompagnement - PHARE</value>
+      <value i18n="nl">Service d'accompagnement - PHARE</value>
+      <pouvoirAgreantErkenning>505</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>825</id>
+      <value i18n="fr">Service d'accompagnement pédagogique - PHARE</value>
+      <value i18n="nl">Service d'accompagnement pédagogique - PHARE</value>
+      <pouvoirAgreantErkenning>505</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>826</id>
+      <value i18n="fr">Service d'interprétation pour sourds - PHARE</value>
+      <value i18n="nl">Service d'interprétation pour sourds - PHARE</value>
+      <pouvoirAgreantErkenning>505</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>827</id>
+      <value i18n="fr">Service spécialisé dans l'accessibilité de l'espace social - PHARE</value>
+      <value i18n="nl">Service spécialisé dans l'accessibilité de l'espace social - PHARE</value>
+      <pouvoirAgreantErkenning>505</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>828</id>
+      <value i18n="fr">Agence immobilière sociale (AIS) - Région de Bruxelles-Capitale</value>
+      <value i18n="nl">Sociaal verhuurkantoor (SVK) - Brussels Hoofdstedelijk Gewest</value>
+      <pouvoirAgreantErkenning>506</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>829</id>
+      <value i18n="fr">Association œuvrant à l'insertion par le logement - Région de Bruxelles-Capitale</value>
+      <value i18n="nl">Vereniging voor integratie via huisvesting - Brussels Hoofdstedelijk Gewest</value>
+      <pouvoirAgreantErkenning>506</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>830</id>
+      <value i18n="fr">Initiative locale de développement de l'emploi (ILDE) - Région de Bruxelles-Capitale</value>
+      <value i18n="nl">Plaatselijk initiatief voor ontwikkeling van werkgelegenheid (PIOW) - Brussels Hoofdstedelijk Gewest</value>
+      <pouvoirAgreantErkenning>506</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>831</id>
+      <value i18n="fr">Lokale werkwinkel - Région de Bruxelles-Capitale</value>
+      <value i18n="nl">Lokale werkwinkel - Brussels Hoofdstedelijk Gewest</value>
+      <pouvoirAgreantErkenning>506</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>832</id>
+      <value i18n="fr">Mission locale pour l'emploi - Région de Bruxelles-Capitale</value>
+      <value i18n="nl">Mission locale pour l'emploi - Brussels Hoofdstedelijk Gewest</value>
+      <pouvoirAgreantErkenning>506</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>833</id>
+      <value i18n="fr">Programme de développement local intégré en rénovation urbaine - Région de Bruxelles-Capitale</value>
+      <value i18n="nl">Programma op het vlak van geïntegreerde stadsrenovatie - Brussels Hoofdstedelijk Gewest</value>
+      <pouvoirAgreantErkenning>506</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>834</id>
+      <value i18n="fr">Société de crédit social - Région de Bruxelles-Capitale</value>
+      <value i18n="nl">Instelling voor sociaal krediet - Brussels Hoofdstedelijk Gewest</value>
+      <pouvoirAgreantErkenning>506</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>835</id>
+      <value i18n="fr">Société immobilière de service public (SISP) - SLRB</value>
+      <value i18n="nl">Openbare vastgoedmaatschappij (OVM) - BGHM</value>
+      <pouvoirAgreantErkenning>507</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>836</id>
+      <value i18n="fr">Bijstandsorganisatie - VAPH</value>
+      <value i18n="nl">Bijstandsorganisatie - VAPH</value>
+      <pouvoirAgreantErkenning>508</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>837</id>
+      <value i18n="fr">Centrum voor functionele revalidatie - VAPH</value>
+      <value i18n="nl">Centrum voor functionele revalidatie - VAPH</value>
+      <pouvoirAgreantErkenning>508</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>838</id>
+      <value i18n="fr">Centrum voor ontwikkelingsstoornissen - VAPH</value>
+      <value i18n="nl">Centrum voor ontwikkelingsstoornissen - VAPH</value>
+      <pouvoirAgreantErkenning>508</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>839</id>
+      <value i18n="fr">Dienst inclusieve ondersteuning (DIO) - VAPH</value>
+      <value i18n="nl">Dienst inclusieve ondersteuning (DIO) - VAPH</value>
+      <pouvoirAgreantErkenning>508</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>840</id>
+      <value i18n="fr">Dienst ondersteuningsplan (DOP) - VAPH</value>
+      <value i18n="nl">Dienst ondersteuningsplan (DOP) - VAPH</value>
+      <pouvoirAgreantErkenning>508</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>842</id>
+      <value i18n="fr">Flexibel aanbod meerderjarigen - VAPH</value>
+      <value i18n="nl">Flexibel aanbod meerderjarigen - VAPH</value>
+      <pouvoirAgreantErkenning>508</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>844</id>
+      <value i18n="fr">Multifunctioneel centrum minderjarigen (MFC) - VAPH</value>
+      <value i18n="nl">Multifunctioneel centrum minderjarigen (MFC) - VAPH</value>
+      <pouvoirAgreantErkenning>508</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>845</id>
+      <value i18n="fr">Organisatie voor vrijetijdszorg - VAPH</value>
+      <value i18n="nl">Organisatie voor vrijetijdszorg - VAPH</value>
+      <pouvoirAgreantErkenning>508</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>846</id>
+      <value i18n="fr">Rechtstreeks toegankelijke hulp (RTH) - VAPH</value>
+      <value i18n="nl">Rechtstreeks toegankelijke hulp (RTH) - VAPH</value>
+      <pouvoirAgreantErkenning>508</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>849</id>
+      <value i18n="fr">Gespecialiseerde arbeidsonderzoeksdienst - VDAB</value>
+      <value i18n="nl">Gespecialiseerde arbeidsonderzoeksdienst - VDAB</value>
+      <pouvoirAgreantErkenning>509</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>850</id>
+      <value i18n="fr">Gespecialiseerde opleidings- begeleidings- en bemiddelingsdienst (GOB) - VDAB</value>
+      <value i18n="nl">Gespecialiseerde opleidings- begeleidings- en bemiddelingsdienst (GOB) - VDAB</value>
+      <pouvoirAgreantErkenning>509</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>851</id>
+      <value i18n="fr">Gespecialiseerde trajectbepalings- en begeleidingsdienst - VDAB</value>
+      <value i18n="nl">Gespecialiseerde trajectbepalings- en begeleidingsdienst - VDAB</value>
+      <pouvoirAgreantErkenning>509</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>852</id>
+      <value i18n="fr">Allochtone zelforganisatie - VGC</value>
+      <value i18n="nl">Allochtone zelforganisatie - VGC</value>
+      <pouvoirAgreantErkenning>510</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>853</id>
+      <value i18n="fr">Gemeenschapscentrum - VGC</value>
+      <value i18n="nl">Gemeenschapscentrum - VGC</value>
+      <pouvoirAgreantErkenning>510</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>854</id>
+      <value i18n="fr">Jeugdcentrum - VGC</value>
+      <value i18n="nl">Jeugdcentrum - VGC</value>
+      <pouvoirAgreantErkenning>510</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>855</id>
+      <value i18n="fr">Jeugdhuis - VGC</value>
+      <value i18n="nl">Jeugdhuis - VGC</value>
+      <pouvoirAgreantErkenning>510</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>857</id>
+      <value i18n="fr">Werking met maatschappelijk kwetsbare kinderen en jongeren (WMKJ) - VGC</value>
+      <value i18n="nl">Werking met maatschappelijk kwetsbare kinderen en jongeren (WMKJ) - VGC</value>
+      <pouvoirAgreantErkenning>510</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>858</id>
+      <value i18n="fr">Multidisciplinair team - Communauté flamande</value>
+      <value i18n="nl">Multidisciplinair team - Vlaamse Gemeenschap</value>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>859</id>
+      <value i18n="fr">Beschutte werkplaats - Communauté flamande</value>
+      <value i18n="nl">Beschutte werkplaats - Vlaamse Gemeenschap</value>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>860</id>
+      <value i18n="fr">Association en matière de soins palliatifs - COCOM</value>
+      <value i18n="nl">Samenwerkingsverband inzake palliatieve zorg - GGC</value>
+      <pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>861</id>
+      <value i18n="fr">Centrum voor expertise inzake preventieve gezondheidszorg - Communauté flamande</value>
+      <value i18n="nl">Centrum voor expertise inzake preventieve gezondheidszorg - Vlaamse Gemeenschap</value>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>862</id>
+      <value i18n="fr">Centre d'accueil de jour pour personnes âgées - COCOM</value>
+      <value i18n="nl">Centrum voor dagopvang voor bejaarden - GGC</value>
+      <pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>863</id>
+      <value i18n="fr">Organisme d'insertion socioprofessionnelle (mission locale) - COCOF</value>
+      <value i18n="nl">Organisme d'insertion socioprofessionnelle (mission locale) - COCOF</value>
+      <pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>864</id>
+      <value i18n="fr">Organisme d'insertion socioprofessionnelle - OISP (atelier de formation par le travail - AFT) - COCOF</value>
+      <value i18n="nl">Organisme d'insertion socioprofessionnelle - OISP (atelier de formation par le travail - AFT) - COCOF</value>
+      <pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>865</id>
+      <value i18n="fr">Organisme d'insertion socioprofessionnelle (autre opérateur de formation) - COCOF</value>
+      <value i18n="nl">Organisme d'insertion socioprofessionnelle (autre opérateur de formation) - COCOF</value>
+      <pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>866</id>
+      <value i18n="fr">Lokale dienst voor buurtgerichte opvang - Kind en Gezin</value>
+      <value i18n="nl">Lokale dienst voor buurtgerichte opvang - Kind en Gezin</value>
+      <pouvoirAgreantErkenning>503</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>867</id>
+      <value i18n="fr">Dienst voor thuisverpleging - Communauté flamande</value>
+      <value i18n="nl">Dienst voor thuisverpleging - Vlaamse Gemeenschap</value>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>868</id>
+      <value i18n="fr">Multidisciplinair team - VAPH</value>
+      <value i18n="nl">Multidisciplinair team - VAPH</value>
+      <pouvoirAgreantErkenning>508</pouvoirAgreantErkenning>
+    </agrementErken>
+    <agrementErken>
+      <id>869</id>
+      <value i18n="fr">Synchroon internetonderwijs - Communauté flamande</value>
+      <value i18n="nl">Synchroon internetonderwijs - Vlaamse Gemeenschap</value>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+  </agrementErkenList>
+</updateRequest>
