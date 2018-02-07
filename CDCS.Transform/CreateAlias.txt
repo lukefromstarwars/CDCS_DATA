@@ -1,0 +1,3 @@
+Set-Alias am Add-Migration
+Set-Alias ud Update-Database
+Set-Alias rmig Remove-Migration

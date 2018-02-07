@@ -105,15 +105,8 @@
                 <xs:complexType>
                   <xs:sequence>
                     <xs:element minOccurs="0" name="id" type="xs:unsignedShort" />
-                    <xs:element minOccurs="0" maxOccurs="unbounded" name="value">
-                      <xs:complexType>
-                        <xs:simpleContent>
-                          <xs:extension base="xs:string">
-                            <xs:attribute name="i18n" type="xs:string" use="optional" />
-                          </xs:extension>
-                        </xs:simpleContent>
-                      </xs:complexType>
-                    </xs:element>
+                    <xs:element minOccurs="0" name="fr" type="xs:string" />
+                    <xs:element minOccurs="0" name="nl" type="xs:string" />
                   </xs:sequence>
                 </xs:complexType>
               </xs:element>
@@ -127,15 +120,8 @@
                 <xs:complexType>
                   <xs:sequence>
                     <xs:element minOccurs="0" name="id" type="xs:unsignedShort" />
-                    <xs:element minOccurs="0" maxOccurs="unbounded" name="value">
-                      <xs:complexType>
-                        <xs:simpleContent>
-                          <xs:extension base="xs:string">
-                            <xs:attribute name="i18n" type="xs:string" use="optional" />
-                          </xs:extension>
-                        </xs:simpleContent>
-                      </xs:complexType>
-                    </xs:element>
+                    <xs:element minOccurs="0" name="fr" type="xs:string" />
+                    <xs:element minOccurs="0" name="nl" type="xs:string" />
                   </xs:sequence>
                 </xs:complexType>
               </xs:element>
@@ -149,15 +135,8 @@
                 <xs:complexType>
                   <xs:sequence>
                     <xs:element minOccurs="0" name="id" type="xs:unsignedShort" />
-                    <xs:element minOccurs="0" maxOccurs="unbounded" name="value">
-                      <xs:complexType>
-                        <xs:simpleContent>
-                          <xs:extension base="xs:string">
-                            <xs:attribute name="i18n" type="xs:string" use="optional" />
-                          </xs:extension>
-                        </xs:simpleContent>
-                      </xs:complexType>
-                    </xs:element>
+                    <xs:element minOccurs="0" name="fr" type="xs:string" />
+                    <xs:element minOccurs="0" name="nl" type="xs:string" />
                   </xs:sequence>
                 </xs:complexType>
               </xs:element>
@@ -171,15 +150,8 @@
                 <xs:complexType>
                   <xs:sequence>
                     <xs:element minOccurs="0" name="id" type="xs:unsignedShort" />
-                    <xs:element minOccurs="0" maxOccurs="unbounded" name="value">
-                      <xs:complexType>
-                        <xs:simpleContent>
-                          <xs:extension base="xs:string">
-                            <xs:attribute name="i18n" type="xs:string" use="optional" />
-                          </xs:extension>
-                        </xs:simpleContent>
-                      </xs:complexType>
-                    </xs:element>
+                    <xs:element minOccurs="0" name="fr" type="xs:string" />
+                    <xs:element minOccurs="0" name="nl" type="xs:string" />
                   </xs:sequence>
                 </xs:complexType>
               </xs:element>
@@ -193,15 +165,8 @@
                 <xs:complexType>
                   <xs:sequence>
                     <xs:element minOccurs="0" name="id" type="xs:unsignedShort" />
-                    <xs:element minOccurs="0" maxOccurs="unbounded" name="value">
-                      <xs:complexType>
-                        <xs:simpleContent>
-                          <xs:extension base="xs:string">
-                            <xs:attribute name="i18n" type="xs:string" use="optional" />
-                          </xs:extension>
-                        </xs:simpleContent>
-                      </xs:complexType>
-                    </xs:element>
+                    <xs:element minOccurs="0" name="fr" type="xs:string" />
+                    <xs:element minOccurs="0" name="nl" type="xs:string" />
                     <xs:element minOccurs="0" maxOccurs="unbounded" name="parent" type="xs:unsignedShort" />
                   </xs:sequence>
                 </xs:complexType>
@@ -216,15 +181,8 @@
                 <xs:complexType>
                   <xs:sequence>
                     <xs:element minOccurs="0" name="id" type="xs:unsignedShort" />
-                    <xs:element minOccurs="0" maxOccurs="unbounded" name="value">
-                      <xs:complexType>
-                        <xs:simpleContent>
-                          <xs:extension base="xs:string">
-                            <xs:attribute name="i18n" type="xs:string" use="optional" />
-                          </xs:extension>
-                        </xs:simpleContent>
-                      </xs:complexType>
-                    </xs:element>
+                    <xs:element minOccurs="0" name="fr" type="xs:string" />
+                    <xs:element minOccurs="0" name="nl" type="xs:string" />
                   </xs:sequence>
                 </xs:complexType>
               </xs:element>
@@ -238,15 +196,8 @@
                 <xs:complexType>
                   <xs:sequence>
                     <xs:element minOccurs="0" name="id" type="xs:unsignedShort" />
-                    <xs:element minOccurs="0" maxOccurs="unbounded" name="value">
-                      <xs:complexType>
-                        <xs:simpleContent>
-                          <xs:extension base="xs:string">
-                            <xs:attribute name="i18n" type="xs:string" use="optional" />
-                          </xs:extension>
-                        </xs:simpleContent>
-                      </xs:complexType>
-                    </xs:element>
+                    <xs:element minOccurs="0" name="fr" type="xs:string" />
+                    <xs:element minOccurs="0" name="nl" type="xs:string" />
                     <xs:element minOccurs="0" name="pouvoirAgreantErkenning" type="xs:unsignedShort" />
                   </xs:sequence>
                 </xs:complexType>

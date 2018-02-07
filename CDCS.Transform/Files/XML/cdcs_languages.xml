@@ -2,22 +2,22 @@
 <languages>
   <LangStat>
 				<id>730</id>
-				<value i18n="fr">FR</value>
-				<value i18n="nl">FR</value>
+				<fr>FR</fr>
+				<nl>FR</nl>
 			</LangStat>
   <LangStat>
 				<id>731</id>
-				<value i18n="fr">FR-NL</value>
-				<value i18n="nl">FR-NL</value>
+				<fr>FR-NL</fr>
+				<nl>FR-NL</nl>
 			</LangStat>
   <LangStat>
 				<id>732</id>
-				<value i18n="fr">NL</value>
-				<value i18n="nl">NL</value>
+				<fr>NL</fr>
+				<nl>NL</nl>
 			</LangStat>
   <LangStat>
 				<id>1606</id>
-				<value i18n="fr" />
-				<value i18n="nl" />
+				<fr />
+				<nl />
 			</LangStat>
 </languages>

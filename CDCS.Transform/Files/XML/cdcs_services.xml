@@ -2,32 +2,32 @@
 <services>
   <natOffreHulpwijz>
 				<id>733</id>
-				<value i18n="fr">À domicile</value>
-				<value i18n="nl">Aan huis</value>
+				<fr>À domicile</fr>
+				<nl>Aan huis</nl>
 			</natOffreHulpwijz>
   <natOffreHulpwijz>
 				<id>734</id>
-				<value i18n="fr">Online</value>
-				<value i18n="nl">Online</value>
+				<fr>Online</fr>
+				<nl>Online</nl>
 			</natOffreHulpwijz>
   <natOffreHulpwijz>
 				<id>735</id>
-				<value i18n="fr">Résidentiel</value>
-				<value i18n="nl">Residentieel</value>
+				<fr>Résidentiel</fr>
+				<nl>Residentieel</nl>
 			</natOffreHulpwijz>
   <natOffreHulpwijz>
 				<id>736</id>
-				<value i18n="fr">Sur place</value>
-				<value i18n="nl">Ter plaatse</value>
+				<fr>Sur place</fr>
+				<nl>Ter plaatse</nl>
 			</natOffreHulpwijz>
   <natOffreHulpwijz>
 				<id>737</id>
-				<value i18n="fr">Téléphonique</value>
-				<value i18n="nl">Telefonisch</value>
+				<fr>Téléphonique</fr>
+				<nl>Telefonisch</nl>
 			</natOffreHulpwijz>
   <natOffreHulpwijz>
 				<id>738</id>
-				<value i18n="fr">Travail de rue</value>
-				<value i18n="nl">Straathoekwerk</value>
+				<fr>Travail de rue</fr>
+				<nl>Straathoekwerk</nl>
 			</natOffreHulpwijz>
 </services>
