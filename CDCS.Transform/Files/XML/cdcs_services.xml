@@ -1,33 +1,33 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <services>
   <natOffreHulpwijz>
-				<id>733</id>
-				<fr>À domicile</fr>
-				<nl>Aan huis</nl>
-			</natOffreHulpwijz>
+      <id>733</id>
+      <fr>À domicile</fr>
+      <nl>Aan huis</nl>
+    </natOffreHulpwijz>
   <natOffreHulpwijz>
-				<id>734</id>
-				<fr>Online</fr>
-				<nl>Online</nl>
-			</natOffreHulpwijz>
+      <id>734</id>
+      <fr>Online</fr>
+      <nl>Online</nl>
+    </natOffreHulpwijz>
   <natOffreHulpwijz>
-				<id>735</id>
-				<fr>Résidentiel</fr>
-				<nl>Residentieel</nl>
-			</natOffreHulpwijz>
+      <id>735</id>
+      <fr>Résidentiel</fr>
+      <nl>Residentieel</nl>
+    </natOffreHulpwijz>
   <natOffreHulpwijz>
-				<id>736</id>
-				<fr>Sur place</fr>
-				<nl>Ter plaatse</nl>
-			</natOffreHulpwijz>
+      <id>736</id>
+      <fr>Sur place</fr>
+      <nl>Ter plaatse</nl>
+    </natOffreHulpwijz>
   <natOffreHulpwijz>
-				<id>737</id>
-				<fr>Téléphonique</fr>
-				<nl>Telefonisch</nl>
-			</natOffreHulpwijz>
+      <id>737</id>
+      <fr>Téléphonique</fr>
+      <nl>Telefonisch</nl>
+    </natOffreHulpwijz>
   <natOffreHulpwijz>
-				<id>738</id>
-				<fr>Travail de rue</fr>
-				<nl>Straathoekwerk</nl>
-			</natOffreHulpwijz>
+      <id>738</id>
+      <fr>Travail de rue</fr>
+      <nl>Straathoekwerk</nl>
+    </natOffreHulpwijz>
 </services>

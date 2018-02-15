@@ -1,1335 +1,1335 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <agreements>
   <agrementErken>
-				<id>629</id>
-				<fr>Agence locale pour l'emploi (ALE) - Région de Bruxelles-Capitale</fr>
-				<nl>Plaatselijk werkgelegenheidsagentschap (PWA) - Brussels Hoofdstedelijk Gewest</nl>
-				<pouvoirAgreantErkenning>506</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>630</id>
-				<fr>Association d'institutions et de services psychiatriques - Autorité fédérale</fr>
-				<nl>Samenwerkingsverband van psychiatrische instellingen en diensten - Federale Overheid</nl>
-				<pouvoirAgreantErkenning>497</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>631</id>
-				<fr>Centre d'accueil spécialisé dans la traite des êtres humains - Autorité fédérale</fr>
-				<nl>Opvangcentrum gespecialiseerd inzake mensenhandel - Federale Overheid</nl>
-				<pouvoirAgreantErkenning>497</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>632</id>
-				<fr>Espace public numérique (EPN) - Autorité fédérale</fr>
-				<nl>Openbare computerruimte (OCR) - Federale Overheid</nl>
-				<pouvoirAgreantErkenning>497</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>633</id>
-				<fr>Organisation d'aide juridique - Autorité fédérale</fr>
-				<nl>Organisatie voor juridische bijstand - Federale Overheid</nl>
-				<pouvoirAgreantErkenning>497</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>635</id>
-				<fr>Service de médiation réparatrice - Autorité fédérale</fr>
-				<nl>Dienst voor herstelbemiddeling - Federale Overheid</nl>
-				<pouvoirAgreantErkenning>497</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>637</id>
-				<fr>Centre d'aide sociale urgente - COCOM</fr>
-				<nl>Centrum voor dringende maatschappelijke hulpverlening - GGC</nl>
-				<pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>638</id>
-				<fr>Centre d'hébergement de nuit inconditionnel - COCOM</fr>
-				<nl>Centrum voor onvoorwaardelijke nachtopvang - GGC</nl>
-				<pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>639</id>
-				<fr>Centre d'hébergement pour personnes handicapées - COCOM</fr>
-				<nl>Verblijfcentrum voor gehandicapte personen - GGC</nl>
-				<pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>640</id>
-				<fr>Centre de coordination pour le dépistage du cancer du sein - COCOM</fr>
-				<nl>Coördinatiecentrum van de borstkankerscreening - GGC</nl>
-				<pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>641</id>
-				<fr>Centre de jour - COCOM</fr>
-				<nl>Dagcentrum - GGC</nl>
-				<pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>642</id>
-				<fr>Centre de planning familial - COCOM</fr>
-				<nl>Centrum voor gezinsplanning - GGC</nl>
-				<pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>643</id>
-				<fr>Centre de soins de jour - COCOM</fr>
-				<nl>Centrum voor dagverzorging - GGC</nl>
-				<pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>644</id>
-				<fr>Centre offrant un premier accueil social - COCOM</fr>
-				<nl>Centrum dat voor de eerste sociale opvang zorgt - GGC</nl>
-				<pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>645</id>
-				<fr>Court séjour - COCOM</fr>
-				<nl>Kortverblijf - GGC</nl>
-				<pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>646</id>
-				<fr>En basculement vers la COCOM</fr>
-				<nl>Verschuiving naar de GGC</nl>
-				<pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>647</id>
-				<fr>Habitation pour personnes âgées - COCOM</fr>
-				<nl>Woning voor ouderen - GGC</nl>
-				<pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>648</id>
-				<fr>Hôpital aigu - COCOM</fr>
-				<nl>Acuut ziekenhuis - GGC</nl>
-				<pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>649</id>
-				<fr>Hôpital chronique - COCOM</fr>
-				<nl>Chronisch ziekenhuis - GGC</nl>
-				<pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>650</id>
-				<fr>Hôpital psychiatrique - COCOM</fr>
-				<nl>Psychiatrisch ziekenhuis - GGC</nl>
-				<pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>651</id>
-				<fr>Initiative d'habitation protégée - COCOM</fr>
-				<nl>Initiatief van beschut wonen - GGC</nl>
-				<pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>652</id>
-				<fr>Maison d'accueil - COCOM</fr>
-				<nl>Onthaaltehuis - GGC</nl>
-				<pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>653</id>
-				<fr>Maison de repos - COCOM</fr>
-				<nl>Rusthuis - GGC</nl>
-				<pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>654</id>
-				<fr>Maison de repos et de soins (MRS) - COCOM</fr>
-				<nl>Rust- en verzorgingstehuis (RVT) - GGC</nl>
-				<pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>655</id>
-				<fr>Maison de soins psychiatriques (MSP) - COCOM</fr>
-				<nl>Psychiatrisch verzorgingstehuis (PVT) - GGC</nl>
-				<pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>656</id>
-				<fr>Plateforme de concertation pour la santé mentale - COCOM</fr>
-				<nl>Overlegplatform geestelijke gezondheidszorg - GGC</nl>
-				<pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>657</id>
-				<fr>Résidence-services - COCOM</fr>
-				<nl>Service-residentie - GGC</nl>
-				<pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>658</id>
-				<fr>Service d'aide à domicile - COCOM</fr>
-				<nl>Dienst voor thuiszorg - GGC</nl>
-				<pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>659</id>
-				<fr>Service d'aide aux actes de la vie journalière (AVJ) - COCOM</fr>
-				<nl>Dienst hulpverlening bij activiteiten in het dagelijks leven (ADL) - GGC</nl>
-				<pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>660</id>
-				<fr>Service d'aide sociale aux justiciables - COCOM</fr>
-				<nl>Dienst voor justitieel welzijnswerk - GGC</nl>
-				<pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>661</id>
-				<fr>Service d'habitat accompagné/handicap - COCOM</fr>
-				<nl>Dienst voor begeleid wonen/handicap - GGC</nl>
-				<pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>662</id>
-				<fr>Service d'habitat accompagné/sans-abri - COCOM</fr>
-				<nl>Dienst voor begeleid wonen/thuislozen - GGC</nl>
-				<pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>663</id>
-				<fr>Service de médiation de dettes - COCOM</fr>
-				<nl>Dienst voor schuldbemiddeling - GGC</nl>
-				<pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>664</id>
-				<fr>Service de santé mentale - COCOM</fr>
-				<nl>Dienst voor geestelijke gezondheidszorg - GGC</nl>
-				<pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>665</id>
-				<fr>Service de soins à domicile - COCOM</fr>
-				<nl>Dienst voor thuisverzorging - GGC</nl>
-				<pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>666</id>
-				<fr>Service intégré de soins à domicile - COCOM</fr>
-				<nl>Geïntegreerde dienst voor thuiszorg - GGC</nl>
-				<pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>667</id>
-				<fr>Service accompagnant des personnes vivant dans la rue - COCOM</fr>
-				<nl>Dienst voor de begeleiding van personen die op straat leven - GGC</nl>
-				<pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>668</id>
-				<fr>Bureau d'accueil pour primo-arrivants - COCOF</fr>
-				<nl>Bureau d'accueil pour primo-arrivants - COCOF</nl>
-				<pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>669</id>
-				<fr>Centre d'accueil téléphonique - COCOF</fr>
-				<nl>Centre d'accueil téléphonique - COCOF</nl>
-				<pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>670</id>
-				<fr>Centre d'action sociale globale (CASG) - COCOF</fr>
-				<nl>Centre d'action sociale globale (CASG) - COCOF</nl>
-				<pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>671</id>
-				<fr>Centre de coordination de soins et services à domicile - COCOF</fr>
-				<nl>Centre de coordination de soins et services à domicile - COCOF</nl>
-				<pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>672</id>
-				<fr>Centre de planning familial - COCOF</fr>
-				<nl>Centre de planning familial - COCOF</nl>
-				<pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>674</id>
-				<fr>En transfert vers la COCOF</fr>
-				<nl>Overheveling naar de COCOF</nl>
-				<pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>675</id>
-				<fr>Hôpital psychiatrique - COCOF</fr>
-				<nl>Hôpital psychiatrique - COCOF</nl>
-				<pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>676</id>
-				<fr>Initiative d'habitations protégées (IHP) - COCOF</fr>
-				<nl>Initiative d'habitations protégées (IHP) - COCOF</nl>
-				<pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>677</id>
-				<fr>Maison communautaire - COCOF</fr>
-				<nl>Maison communautaire - COCOF</nl>
-				<pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>678</id>
-				<fr>Maison d'accueil - COCOF</fr>
-				<nl>Maison d'accueil - COCOF</nl>
-				<pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>679</id>
-				<fr>Maison médicale - COCOF</fr>
-				<nl>Maison médicale - COCOF</nl>
-				<pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>685</id>
-				<fr>Organisme de coordination ou de représentation - COCOF</fr>
-				<nl>Organisme de coordination ou de représentation - COCOF</nl>
-				<pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>686</id>
-				<fr>Organisme intersectoriel de coordination - COCOF</fr>
-				<nl>Organisme intersectoriel de coordination - COCOF</nl>
-				<pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>687</id>
-				<fr>Projet communal de cohésion sociale - COCOF</fr>
-				<nl>Projet communal de cohésion sociale - COCOF</nl>
-				<pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>688</id>
-				<fr>Projet régional de cohésion sociale - COCOF</fr>
-				<nl>Projet régional de cohésion sociale - COCOF</nl>
-				<pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>689</id>
-				<fr>Réseau - COCOF</fr>
-				<nl>Réseau - COCOF</nl>
-				<pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>690</id>
-				<fr>Résidence-services - COCOF</fr>
-				<nl>Résidence-services - COCOF</nl>
-				<pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>691</id>
-				<fr>Service actif en matière de toxicomanies - COCOF</fr>
-				<nl>Service actif en matière de toxicomanies - COCOF</nl>
-				<pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>692</id>
-				<fr>Service d'accueil de jour - COCOF</fr>
-				<nl>Service d'accueil de jour - COCOF</nl>
-				<pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>693</id>
-				<fr>Service d'aide à domicile - COCOF</fr>
-				<nl>Service d'aide à domicile - COCOF</nl>
-				<pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>694</id>
-				<fr>Service d'aide aux personnes âgées maltraitées - COCOF</fr>
-				<nl>Service d'aide aux personnes âgées maltraitées - COCOF</nl>
-				<pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>695</id>
-				<fr>Service de médiation de dettes - COCOF</fr>
-				<nl>Service de médiation de dettes - COCOF</nl>
-				<pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>696</id>
-				<fr>Service de santé mentale - COCOF</fr>
-				<nl>Service de santé mentale - COCOF</nl>
-				<pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>697</id>
-				<fr>Service de soins palliatifs et continués - COCOF</fr>
-				<nl>Service de soins palliatifs et continués - COCOF</nl>
-				<pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>698</id>
-				<fr>Service de télévigilance - COCOF</fr>
-				<nl>Service de télévigilance - COCOF</nl>
-				<pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>699</id>
-				<fr>Adviesbureau in de sociale economie - Communauté flamande</fr>
-				<nl>Adviesbureau in de sociale economie - Vlaamse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>702</id>
-				<fr>Centrum voor de begeleiding en behandeling van daders van seksueel misbruik - Communauté flamande</fr>
-				<nl>Centrum voor de begeleiding en behandeling van daders van seksueel misbruik - Vlaamse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>703</id>
-				<fr>Centrum voor algemeen welzijnswerk (CAW) - Communauté flamande</fr>
-				<nl>Centrum voor algemeen welzijnswerk (CAW) - Vlaamse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>704</id>
-				<fr>Centrum voor basiseducatie - Communauté flamande</fr>
-				<nl>Centrum voor basiseducatie - Vlaamse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>705</id>
-				<fr>Centrum voor deeltijdse vorming - Communauté flamande</fr>
-				<nl>Centrum voor deeltijdse vorming - Vlaamse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>707</id>
-				<fr>Centrum voor geestelijke gezondheidszorg - Communauté flamande</fr>
-				<nl>Centrum voor geestelijke gezondheidszorg - Vlaamse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>708</id>
-				<fr>Centrum voor herstelverblijf - Communauté flamande</fr>
-				<nl>Centrum voor herstelverblijf - Vlaamse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>709</id>
-				<fr>Centrum voor integrale gezinszorg - Communauté flamande</fr>
-				<nl>Centrum voor integrale gezinszorg - Vlaamse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>710</id>
-				<fr>Centrum voor justitieel welzijnswerk - Communauté flamande</fr>
-				<nl>Centrum voor justitieel welzijnswerk - Vlaamse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>711</id>
-				<fr>Centrum voor kortverblijf - Communauté flamande</fr>
-				<nl>Centrum voor kortverblijf - Vlaamse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>712</id>
-				<fr>Centrum voor leerlingenbegeleiding - Communauté flamande</fr>
-				<nl>Centrum voor leerlingenbegeleiding - Vlaamse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>713</id>
-				<fr>Centrum voor menselijke erfelijkheid - Communauté flamande</fr>
-				<nl>Centrum voor menselijke erfelijkheid - Vlaamse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>714</id>
-				<fr>Centrum voor teleonthaal - Communauté flamande</fr>
-				<nl>Centrum voor teleonthaal - Vlaamse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>715</id>
-				<fr>Dagverzorgingscentrum - Communauté flamande</fr>
-				<nl>Dagverzorgingscentrum - Vlaamse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>716</id>
-				<fr>Dagverzorgingscentrum voor palliatieve verzorging - Communauté flamande</fr>
-				<nl>Dagverzorgingscentrum voor palliatieve verzorging - Vlaamse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>717</id>
-				<fr>Dienst maatschappelijk werk van het ziekenfonds - Communauté flamande</fr>
-				<nl>Dienst maatschappelijk werk van het ziekenfonds - Vlaamse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>718</id>
-				<fr>Dienst voor aangepast vervoer - Communauté flamande</fr>
-				<nl>Dienst voor aangepast vervoer - Vlaamse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>719</id>
-				<fr>Dienst voor crisishulp aan huis - Communauté flamande</fr>
-				<nl>Dienst voor crisishulp aan huis - Vlaamse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>720</id>
-				<fr>Dienst voor gezinszorg en aanvullende thuiszorg - Communauté flamande</fr>
-				<nl>Dienst voor gezinszorg en aanvullende thuiszorg - Vlaamse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>721</id>
-				<fr>Dienst voor herstelgerichte en constructieve afhandeling - Communauté flamande</fr>
-				<nl>Dienst voor herstelgerichte en constructieve afhandeling - Vlaamse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>722</id>
-				<fr>Dienst voor oppashulp - Communauté flamande</fr>
-				<nl>Dienst voor oppashulp - Vlaamse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>723</id>
-				<fr>Dienst voor pleegzorg - Communauté flamande</fr>
-				<nl>Dienst voor pleegzorg - Vlaamse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>724</id>
-				<fr>Dienst voor schuldbemiddeling - Communauté flamande</fr>
-				<nl>Dienst voor schuldbemiddeling - Vlaamse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>725</id>
-				<fr>Dienst voor slachtofferhulp - Communauté flamande</fr>
-				<nl>Dienst voor slachtofferhulp - Vlaamse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>726</id>
-				<fr>Geïntegreerde dienst voor thuisverzorging - Communauté flamande</fr>
-				<nl>Geïntegreerde dienst voor thuisverzorging - Vlaamse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>727</id>
-				<fr>Gemeenschapsinstelling - Communauté flamande</fr>
-				<nl>Gemeenschapsinstelling - Vlaamse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>728</id>
-				<fr>Gespecialiseerde bibliotheekvoorziening - Communauté flamande</fr>
-				<nl>Gespecialiseerde bibliotheekvoorziening - Vlaamse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>729</id>
-				<fr>Groep van assistentiewoningen - Communauté flamande</fr>
-				<nl>Groep van assistentiewoningen - Vlaamse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>730</id>
-				<fr>Indicatiesteller zorgverzekering - Communauté flamande</fr>
-				<nl>Indicatiesteller zorgverzekering - Vlaamse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>731</id>
-				<fr>Initiatief beschut wonen - Communauté flamande</fr>
-				<nl>Initiatief beschut wonen - Vlaamse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>732</id>
-				<fr>Initiatief lokale diensteneconomie - Communauté flamande</fr>
-				<nl>Initiatief lokale diensteneconomie - Vlaamse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>733</id>
-				<fr>Instelling voor maatschappelijk opbouwwerk - Communauté flamande</fr>
-				<nl>Instelling voor maatschappelijk opbouwwerk - Vlaamse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>734</id>
-				<fr>Jeugdadviesorgaan - Communauté flamande</fr>
-				<nl>Jeugdadviesorgaan - Vlaamse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>735</id>
-				<fr>Lokaal dienstencentrum - Communauté flamande</fr>
-				<nl>Lokaal dienstencentrum - Vlaamse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>736</id>
-				<fr>Lokaal integratiecentrum - Communauté flamande</fr>
-				<nl>Lokaal integratiecentrum - Vlaamse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>737</id>
-				<fr>Lokaal steunpunt - Communauté flamande</fr>
-				<nl>Lokaal steunpunt - Vlaamse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>739</id>
-				<fr>Onthaalbureau voor inburgering - Communauté flamande</fr>
-				<nl>Onthaalbureau voor inburgering - Vlaamse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>740</id>
-				<fr>Opleidingscentrum voor polyvalente verzorgenden - Communauté flamande</fr>
-				<nl>Opleidingscentrum voor polyvalente verzorgenden - Vlaamse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>741</id>
-				<fr>Opvang- oriëntatie- en observatiecentrum - Communauté flamande</fr>
-				<nl>Opvang- oriëntatie- en observatiecentrum - Vlaamse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>742</id>
-				<fr>Organisatie met terreinwerking voor de zorg voor nabestaanden na zelfdoding - Communauté flamande</fr>
-				<nl>Organisatie met terreinwerking voor de zorg voor nabestaanden na zelfdoding - Vlaamse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>743</id>
-				<fr>Organisatie met terreinwerking voor suïcidepreventie door telezorg - Communauté flamande</fr>
-				<nl>Organisatie met terreinwerking voor suïcidepreventie door telezorg  - Vlaamse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>744</id>
-				<fr>Organisatie met terreinwerking voor de integrale zorg voor suïcidepogers - Communauté flamande</fr>
-				<nl>Organisatie met terreinwerking voor de integrale zorg voor suïcidepogers - Vlaamse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>745</id>
-				<fr>Organisatie voor bijzondere jeugdzorg - Communauté flamande</fr>
-				<nl>Organisatie voor bijzondere jeugdzorg - Vlaamse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>746</id>
-				<fr>Palliatief netwerk - Communauté flamande</fr>
-				<nl>Palliatief netwerk - Vlaamse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>747</id>
-				<fr>Participatieorganisatie - Communauté flamande</fr>
-				<nl>Participatieorganisatie - Vlaamse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>748</id>
-				<fr>Patiëntenorganisatie - Communauté flamande</fr>
-				<nl>Patiëntenorganisatie - Vlaamse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>749</id>
-				<fr>Psychiatrisch ziekenhuis - Communauté flamande</fr>
-				<nl>Psychiatrisch ziekenhuis - Vlaamse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>750</id>
-				<fr>Regionaal dienstencentrum - Communauté flamande</fr>
-				<nl>Regionaal dienstencentrum - Vlaamse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>751</id>
-				<fr>Regionaal expertisecentrum dementie - Communauté flamande</fr>
-				<nl>Regionaal expertisecentrum dementie - Vlaamse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>752</id>
-				<fr>Regionaal integratiecentrum - Communauté flamande</fr>
-				<nl>Regionaal integratiecentrum - Vlaamse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>753</id>
-				<fr>Rust- en verzorgingstehuis (RVT) - Communauté flamande</fr>
-				<nl>Rust- en verzorgingstehuis (RVT) - Vlaamse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>755</id>
-				<fr>Samenwerkingsverband inzake palliatieve zorg - Communauté flamande</fr>
-				<nl>Samenwerkingsverband inzake palliatieve zorg - Vlaamse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>756</id>
-				<fr>Samenwerkingsverband opvoedingsondersteuning - Communauté flamande</fr>
-				<nl>Samenwerkingsverband opvoedingsondersteuning - Vlaamse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>757</id>
-				<fr>Samenwerkingsverband van verenigingen waar armen het woord nemen - Communauté flamande</fr>
-				<nl>Samenwerkingsverband van verenigingen waar armen het woord nemen - Vlaamse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>758</id>
-				<fr>Sociale kredietvennootschap - Communauté flamande</fr>
-				<nl>Sociale kredietvennootschap - Vlaamse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>759</id>
-				<fr>Steunpunt jeugd - Communauté flamande</fr>
-				<nl>Steunpunt jeugd - Vlaamse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>760</id>
-				<fr>Steunpunt nazorg adoptie  - Communauté flamande</fr>
-				<nl>Steunpunt nazorg adoptie  - Vlaamse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>761</id>
-				<fr>Universitair ziekenhuis - Communauté flamande</fr>
-				<nl>Universitair ziekenhuis - Vlaamse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>762</id>
-				<fr>Vereniging van gebruikers en mantelzorgers - Communauté flamande</fr>
-				<nl>Vereniging van gebruikers en mantelzorgers - Vlaamse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>763</id>
-				<fr>Vereniging waar armen het woord nemen - Communauté flamande</fr>
-				<nl>Vereniging waar armen het woord nemen - Vlaamse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>764</id>
-				<fr>Vlaams expertisecentrum migratie en integratie - Communauté flamande</fr>
-				<nl>Vlaams expertisecentrum migratie en integratie - Vlaamse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>765</id>
-				<fr>Vlaamse ouderenraad - Communauté flamande</fr>
-				<nl>Vlaamse ouderenraad - Vlaamse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>766</id>
-				<fr>Woonzorgcentrum (WZC) - Communauté flamande</fr>
-				<nl>Woonzorgcentrum (WZC) - Vlaamse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>767</id>
-				<fr>Zorgkas - Communauté flamande</fr>
-				<nl>Zorgkas - Vlaamse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>768</id>
-				<fr>Centre d'accueil d'urgence (CAU) - Communauté française</fr>
-				<nl>Centre d'accueil d'urgence (CAU) - Franse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>502</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>769</id>
-				<fr>Centre d'accueil spécialisé (CAS) - Communauté française</fr>
-				<nl>Centre d'accueil spécialisé (CAS) - Franse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>502</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>770</id>
-				<fr>Centre d'information des jeunes - Communauté française</fr>
-				<nl>Centre d'information des jeunes - Franse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>502</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>771</id>
-				<fr>Centre d'observation et d'orientation (COO) - Communauté française</fr>
-				<nl>Centre d'observation et d'orientation (COO) - Franse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>502</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>772</id>
-				<fr>Centre d'orientation éducative (COE) - Communauté française</fr>
-				<nl>Centre d'orientation éducative (COE) - Franse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>502</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>774</id>
-				<fr>Coordination régionale d'écoles de devoirs - Communauté française</fr>
-				<nl>Coordination régionale d'écoles de devoirs - Franse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>502</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>775</id>
-				<fr>Espace-rencontres - Communauté française</fr>
-				<nl>Espace-rencontres - Franse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>502</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>776</id>
-				<fr>Hôpital universitaire - Communauté française</fr>
-				<nl>Hôpital universitaire - Franse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>502</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>777</id>
-				<fr>Maison de jeunes - Communauté française</fr>
-				<nl>Maison de jeunes - Franse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>502</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>778</id>
-				<fr>Organisme d'adoption - Communauté française</fr>
-				<nl>Organisme d'adoption - Franse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>502</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>779</id>
-				<fr>Service de formation de l'aide à la jeunesse - Communauté française</fr>
-				<nl>Service de formation de l'aide à la jeunesse - Franse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>502</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>780</id>
-				<fr>Projet pédagogique particulier (PPP) - Communauté française</fr>
-				<nl>Projet pédagogique particulier (PPP) - Franse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>502</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>781</id>
-				<fr>Service d'accrochage scolaire - Communauté française</fr>
-				<nl>Service d'accrochage scolaire - Franse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>502</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>782</id>
-				<fr>Service d'accueil et d'aide éducative (SAAE) - Communauté française</fr>
-				<nl>Service d'accueil et d'aide éducative (SAAE) - Franse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>502</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>783</id>
-				<fr>Service d'accueil téléphonique des enfants - Communauté française</fr>
-				<nl>Service d'accueil téléphonique des enfants - Franse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>502</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>784</id>
-				<fr>Service d'actions restauratrices et éducatives - Communauté française</fr>
-				<nl>Service d'actions restauratrices et éducatives - Franse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>502</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>785</id>
-				<fr>Service d'aide en milieu ouvert (AMO) - Communauté française</fr>
-				<nl>Service d'aide en milieu ouvert (AMO) - Franse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>502</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>786</id>
-				<fr>Service d'aide et d'intervention éducative (SAIE) - Communauté française</fr>
-				<nl>Service d'aide et d'intervention éducative (SAIE) - Franse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>502</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>787</id>
-				<fr>Service d'aide sociale aux détenus - Communauté française</fr>
-				<nl>Service d'aide sociale aux détenus - Franse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>502</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>788</id>
-				<fr>Service d'aide sociale aux justiciables - Communauté française</fr>
-				<nl>Service d'aide sociale aux justiciables - Franse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>502</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>789</id>
-				<fr>Service de placement familial - Communauté française</fr>
-				<nl>Service de placement familial - Franse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>502</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>790</id>
-				<fr>Service de promotion de la santé à l'école - Communauté française</fr>
-				<nl>Service de promotion de la santé à l'école - Franse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>502</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>791</id>
-				<fr>Service de protutelle - Communauté française</fr>
-				<nl>Service de protutelle - Franse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>502</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>792</id>
-				<fr>Binnenlandse adoptiedienst - Kind en Gezin</fr>
-				<nl>Binnenlandse adoptiedienst - Kind en Gezin</nl>
-				<pouvoirAgreantErkenning>503</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>793</id>
-				<fr>Buitenlandse adoptiedienst - Kind en Gezin</fr>
-				<nl>Buitenlandse adoptiedienst - Kind en Gezin</nl>
-				<pouvoirAgreantErkenning>503</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>794</id>
-				<fr>Centrum inclusieve kinderopvang - Kind en Gezin</fr>
-				<nl>Centrum inclusieve kinderopvang - Kind en Gezin</nl>
-				<pouvoirAgreantErkenning>503</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>795</id>
-				<fr>Centrum voor kinderzorg en gezinsondersteuning - Kind en Gezin</fr>
-				<nl>Centrum voor kinderzorg en gezinsondersteuning - Kind en Gezin</nl>
-				<pouvoirAgreantErkenning>503</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>796</id>
-				<fr>Consultatiebureau - Kind en Gezin</fr>
-				<nl>Consultatiebureau - Kind en Gezin</nl>
-				<pouvoirAgreantErkenning>503</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>797</id>
-				<fr>Dienst voor maatschappelijk onderzoek interlandelijke adoptie - Kind en Gezin</fr>
-				<nl>Dienst voor maatschappelijk onderzoek interlandelijke adoptie - Kind en Gezin</nl>
-				<pouvoirAgreantErkenning>503</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>798</id>
-				<fr>Expertisecentrum voor kraamzorg - Kind en Gezin</fr>
-				<nl>Expertisecentrum voor kraamzorg - Kind en Gezin</nl>
-				<pouvoirAgreantErkenning>503</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>799</id>
-				<fr>Groepsopvang - Kind en Gezin</fr>
-				<nl>Groepsopvang - Kind en Gezin</nl>
-				<pouvoirAgreantErkenning>503</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>800</id>
-				<fr>INLOOP-team - Kind en Gezin</fr>
-				<nl>INLOOP-team - Kind en Gezin</nl>
-				<pouvoirAgreantErkenning>503</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>801</id>
-				<fr>Organisator gezinsopvang - Kind en Gezin</fr>
-				<nl>Organisator gezinsopvang - Kind en Gezin</nl>
-				<pouvoirAgreantErkenning>503</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>802</id>
-				<fr>Prenataal steunpunt - Kind en Gezin</fr>
-				<nl>Prenataal steunpunt - Kind en Gezin</nl>
-				<pouvoirAgreantErkenning>503</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>803</id>
-				<fr>Trefgroep - Kind en Gezin</fr>
-				<nl>Trefgroep - Kind en Gezin</nl>
-				<pouvoirAgreantErkenning>503</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>804</id>
-				<fr>Vertrouwenscentrum kindermishandeling - Kind en Gezin</fr>
-				<nl>Vertrouwenscentrum kindermishandeling - Kind en Gezin</nl>
-				<pouvoirAgreantErkenning>503</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>805</id>
-				<fr>Voorbereidingscentrum - Kind en Gezin</fr>
-				<nl>Voorbereidingscentrum - Kind en Gezin</nl>
-				<pouvoirAgreantErkenning>503</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>806</id>
-				<fr>Consultation pour enfants - ONE</fr>
-				<nl>Consultation pour enfants - ONE</nl>
-				<pouvoirAgreantErkenning>504</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>807</id>
-				<fr>Consultation prénatale - ONE</fr>
-				<nl>Consultation prénatale - ONE</nl>
-				<pouvoirAgreantErkenning>504</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>808</id>
-				<fr>Crèche - ONE</fr>
-				<nl>Crèche - ONE</nl>
-				<pouvoirAgreantErkenning>504</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>809</id>
-				<fr>Crèche parentale - ONE</fr>
-				<nl>Crèche parentale - ONE</nl>
-				<pouvoirAgreantErkenning>504</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>810</id>
-				<fr>École de devoirs (EDD) - ONE</fr>
-				<nl>École de devoirs (EDD) - ONE</nl>
-				<pouvoirAgreantErkenning>504</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>811</id>
-				<fr>Équipe SOS Enfants - ONE</fr>
-				<nl>Équipe SOS Enfants - ONE</nl>
-				<pouvoirAgreantErkenning>504</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>812</id>
-				<fr>Maison communale d'accueil de l'enfance (MCAE) - ONE</fr>
-				<nl>Maison communale d'accueil de l'enfance (MCAE) - ONE</nl>
-				<pouvoirAgreantErkenning>504</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>813</id>
-				<fr>Maison d'enfants - ONE</fr>
-				<nl>Maison d'enfants - ONE</nl>
-				<pouvoirAgreantErkenning>504</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>814</id>
-				<fr>Prégardiennat - ONE</fr>
-				<nl>Prégardiennat - ONE</nl>
-				<pouvoirAgreantErkenning>504</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>815</id>
-				<fr>Service d'accueil spécialisé de la petite enfance (SASPE) - ONE</fr>
-				<nl>Service d'accueil spécialisé de la petite enfance (SASPE) - ONE</nl>
-				<pouvoirAgreantErkenning>504</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>816</id>
-				<fr>Service d'accueillant(e)s d'enfants conventionné(e)s - ONE</fr>
-				<nl>Service d'accueillant(e)s d'enfants conventionné(e)s - ONE</nl>
-				<pouvoirAgreantErkenning>504</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>817</id>
-				<fr>Centre d'hébergement pour adultes - PHARE</fr>
-				<nl>Centre d'hébergement pour adultes - PHARE</nl>
-				<pouvoirAgreantErkenning>505</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>818</id>
-				<fr>Centre d'hébergement pour enfants - PHARE</fr>
-				<nl>Centre d'hébergement pour enfants - PHARE</nl>
-				<pouvoirAgreantErkenning>505</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>819</id>
-				<fr>Centre d'orientation spécialisée - PHARE</fr>
-				<nl>Centre d'orientation spécialisée - PHARE</nl>
-				<pouvoirAgreantErkenning>505</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>820</id>
-				<fr>Centre de jour pour adultes - PHARE</fr>
-				<nl>Centre de jour pour adultes - PHARE</nl>
-				<pouvoirAgreantErkenning>505</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>821</id>
-				<fr>Centre de jour pour enfants non scolarisés - PHARE</fr>
-				<nl>Centre de jour pour enfants non scolarisés - PHARE</nl>
-				<pouvoirAgreantErkenning>505</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>822</id>
-				<fr>Centre de jour pour enfants scolarisés - PHARE</fr>
-				<nl>Centre de jour pour enfants scolarisés - PHARE</nl>
-				<pouvoirAgreantErkenning>505</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>823</id>
-				<fr>Entreprise de travail adapté (ETA) - PHARE</fr>
-				<nl>Entreprise de travail adapté (ETA) - PHARE</nl>
-				<pouvoirAgreantErkenning>505</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>824</id>
-				<fr>Service d'accompagnement - PHARE</fr>
-				<nl>Service d'accompagnement - PHARE</nl>
-				<pouvoirAgreantErkenning>505</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>825</id>
-				<fr>Service d'accompagnement pédagogique - PHARE</fr>
-				<nl>Service d'accompagnement pédagogique - PHARE</nl>
-				<pouvoirAgreantErkenning>505</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>826</id>
-				<fr>Service d'interprétation pour sourds - PHARE</fr>
-				<nl>Service d'interprétation pour sourds - PHARE</nl>
-				<pouvoirAgreantErkenning>505</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>827</id>
-				<fr>Service spécialisé dans l'accessibilité de l'espace social - PHARE</fr>
-				<nl>Service spécialisé dans l'accessibilité de l'espace social - PHARE</nl>
-				<pouvoirAgreantErkenning>505</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>828</id>
-				<fr>Agence immobilière sociale (AIS) - Région de Bruxelles-Capitale</fr>
-				<nl>Sociaal verhuurkantoor (SVK) - Brussels Hoofdstedelijk Gewest</nl>
-				<pouvoirAgreantErkenning>506</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>829</id>
-				<fr>Association œuvrant à l'insertion par le logement - Région de Bruxelles-Capitale</fr>
-				<nl>Vereniging voor integratie via huisvesting - Brussels Hoofdstedelijk Gewest</nl>
-				<pouvoirAgreantErkenning>506</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>830</id>
-				<fr>Initiative locale de développement de l'emploi (ILDE) - Région de Bruxelles-Capitale</fr>
-				<nl>Plaatselijk initiatief voor ontwikkeling van werkgelegenheid (PIOW) - Brussels Hoofdstedelijk Gewest</nl>
-				<pouvoirAgreantErkenning>506</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>831</id>
-				<fr>Lokale werkwinkel - Région de Bruxelles-Capitale</fr>
-				<nl>Lokale werkwinkel - Brussels Hoofdstedelijk Gewest</nl>
-				<pouvoirAgreantErkenning>506</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>832</id>
-				<fr>Mission locale pour l'emploi - Région de Bruxelles-Capitale</fr>
-				<nl>Mission locale pour l'emploi - Brussels Hoofdstedelijk Gewest</nl>
-				<pouvoirAgreantErkenning>506</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>833</id>
-				<fr>Programme de développement local intégré en rénovation urbaine - Région de Bruxelles-Capitale</fr>
-				<nl>Programma op het vlak van geïntegreerde stadsrenovatie - Brussels Hoofdstedelijk Gewest</nl>
-				<pouvoirAgreantErkenning>506</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>834</id>
-				<fr>Société de crédit social - Région de Bruxelles-Capitale</fr>
-				<nl>Instelling voor sociaal krediet - Brussels Hoofdstedelijk Gewest</nl>
-				<pouvoirAgreantErkenning>506</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>835</id>
-				<fr>Société immobilière de service public (SISP) - SLRB</fr>
-				<nl>Openbare vastgoedmaatschappij (OVM) - BGHM</nl>
-				<pouvoirAgreantErkenning>507</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>836</id>
-				<fr>Bijstandsorganisatie - VAPH</fr>
-				<nl>Bijstandsorganisatie - VAPH</nl>
-				<pouvoirAgreantErkenning>508</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>837</id>
-				<fr>Centrum voor functionele revalidatie - VAPH</fr>
-				<nl>Centrum voor functionele revalidatie - VAPH</nl>
-				<pouvoirAgreantErkenning>508</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>838</id>
-				<fr>Centrum voor ontwikkelingsstoornissen - VAPH</fr>
-				<nl>Centrum voor ontwikkelingsstoornissen - VAPH</nl>
-				<pouvoirAgreantErkenning>508</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>839</id>
-				<fr>Dienst inclusieve ondersteuning (DIO) - VAPH</fr>
-				<nl>Dienst inclusieve ondersteuning (DIO) - VAPH</nl>
-				<pouvoirAgreantErkenning>508</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>840</id>
-				<fr>Dienst ondersteuningsplan (DOP) - VAPH</fr>
-				<nl>Dienst ondersteuningsplan (DOP) - VAPH</nl>
-				<pouvoirAgreantErkenning>508</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>842</id>
-				<fr>Flexibel aanbod meerderjarigen - VAPH</fr>
-				<nl>Flexibel aanbod meerderjarigen - VAPH</nl>
-				<pouvoirAgreantErkenning>508</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>844</id>
-				<fr>Multifunctioneel centrum minderjarigen (MFC) - VAPH</fr>
-				<nl>Multifunctioneel centrum minderjarigen (MFC) - VAPH</nl>
-				<pouvoirAgreantErkenning>508</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>845</id>
-				<fr>Organisatie voor vrijetijdszorg - VAPH</fr>
-				<nl>Organisatie voor vrijetijdszorg - VAPH</nl>
-				<pouvoirAgreantErkenning>508</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>846</id>
-				<fr>Rechtstreeks toegankelijke hulp (RTH) - VAPH</fr>
-				<nl>Rechtstreeks toegankelijke hulp (RTH) - VAPH</nl>
-				<pouvoirAgreantErkenning>508</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>849</id>
-				<fr>Gespecialiseerde arbeidsonderzoeksdienst - VDAB</fr>
-				<nl>Gespecialiseerde arbeidsonderzoeksdienst - VDAB</nl>
-				<pouvoirAgreantErkenning>509</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>850</id>
-				<fr>Gespecialiseerde opleidings- begeleidings- en bemiddelingsdienst (GOB) - VDAB</fr>
-				<nl>Gespecialiseerde opleidings- begeleidings- en bemiddelingsdienst (GOB) - VDAB</nl>
-				<pouvoirAgreantErkenning>509</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>851</id>
-				<fr>Gespecialiseerde trajectbepalings- en begeleidingsdienst - VDAB</fr>
-				<nl>Gespecialiseerde trajectbepalings- en begeleidingsdienst - VDAB</nl>
-				<pouvoirAgreantErkenning>509</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>852</id>
-				<fr>Allochtone zelforganisatie - VGC</fr>
-				<nl>Allochtone zelforganisatie - VGC</nl>
-				<pouvoirAgreantErkenning>510</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>853</id>
-				<fr>Gemeenschapscentrum - VGC</fr>
-				<nl>Gemeenschapscentrum - VGC</nl>
-				<pouvoirAgreantErkenning>510</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>854</id>
-				<fr>Jeugdcentrum - VGC</fr>
-				<nl>Jeugdcentrum - VGC</nl>
-				<pouvoirAgreantErkenning>510</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>855</id>
-				<fr>Jeugdhuis - VGC</fr>
-				<nl>Jeugdhuis - VGC</nl>
-				<pouvoirAgreantErkenning>510</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>857</id>
-				<fr>Werking met maatschappelijk kwetsbare kinderen en jongeren (WMKJ) - VGC</fr>
-				<nl>Werking met maatschappelijk kwetsbare kinderen en jongeren (WMKJ) - VGC</nl>
-				<pouvoirAgreantErkenning>510</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>858</id>
-				<fr>Multidisciplinair team - Communauté flamande</fr>
-				<nl>Multidisciplinair team - Vlaamse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>859</id>
-				<fr>Beschutte werkplaats - Communauté flamande</fr>
-				<nl>Beschutte werkplaats - Vlaamse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>860</id>
-				<fr>Association en matière de soins palliatifs - COCOM</fr>
-				<nl>Samenwerkingsverband inzake palliatieve zorg - GGC</nl>
-				<pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>861</id>
-				<fr>Centrum voor expertise inzake preventieve gezondheidszorg - Communauté flamande</fr>
-				<nl>Centrum voor expertise inzake preventieve gezondheidszorg - Vlaamse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>862</id>
-				<fr>Centre d'accueil de jour pour personnes âgées - COCOM</fr>
-				<nl>Centrum voor dagopvang voor bejaarden - GGC</nl>
-				<pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>863</id>
-				<fr>Organisme d'insertion socioprofessionnelle (mission locale) - COCOF</fr>
-				<nl>Organisme d'insertion socioprofessionnelle (mission locale) - COCOF</nl>
-				<pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>864</id>
-				<fr>Organisme d'insertion socioprofessionnelle - OISP (atelier de formation par le travail - AFT) - COCOF</fr>
-				<nl>Organisme d'insertion socioprofessionnelle - OISP (atelier de formation par le travail - AFT) - COCOF</nl>
-				<pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>865</id>
-				<fr>Organisme d'insertion socioprofessionnelle (autre opérateur de formation) - COCOF</fr>
-				<nl>Organisme d'insertion socioprofessionnelle (autre opérateur de formation) - COCOF</nl>
-				<pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>866</id>
-				<fr>Lokale dienst voor buurtgerichte opvang - Kind en Gezin</fr>
-				<nl>Lokale dienst voor buurtgerichte opvang - Kind en Gezin</nl>
-				<pouvoirAgreantErkenning>503</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>867</id>
-				<fr>Dienst voor thuisverpleging - Communauté flamande</fr>
-				<nl>Dienst voor thuisverpleging - Vlaamse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>868</id>
-				<fr>Multidisciplinair team - VAPH</fr>
-				<nl>Multidisciplinair team - VAPH</nl>
-				<pouvoirAgreantErkenning>508</pouvoirAgreantErkenning>
-			</agrementErken>
-  <agrementErken>
-				<id>869</id>
-				<fr>Synchroon internetonderwijs - Communauté flamande</fr>
-				<nl>Synchroon internetonderwijs - Vlaamse Gemeenschap</nl>
-				<pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
-			</agrementErken>
+      <id>629</id>
+      <fr>Agence locale pour l'emploi (ALE) - Région de Bruxelles-Capitale</fr>
+      <nl>Plaatselijk werkgelegenheidsagentschap (PWA) - Brussels Hoofdstedelijk Gewest</nl>
+      <pouvoirAgreantErkenning>506</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>630</id>
+      <fr>Association d'institutions et de services psychiatriques - Autorité fédérale</fr>
+      <nl>Samenwerkingsverband van psychiatrische instellingen en diensten - Federale Overheid</nl>
+      <pouvoirAgreantErkenning>497</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>631</id>
+      <fr>Centre d'accueil spécialisé dans la traite des êtres humains - Autorité fédérale</fr>
+      <nl>Opvangcentrum gespecialiseerd inzake mensenhandel - Federale Overheid</nl>
+      <pouvoirAgreantErkenning>497</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>632</id>
+      <fr>Espace public numérique (EPN) - Autorité fédérale</fr>
+      <nl>Openbare computerruimte (OCR) - Federale Overheid</nl>
+      <pouvoirAgreantErkenning>497</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>633</id>
+      <fr>Organisation d'aide juridique - Autorité fédérale</fr>
+      <nl>Organisatie voor juridische bijstand - Federale Overheid</nl>
+      <pouvoirAgreantErkenning>497</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>635</id>
+      <fr>Service de médiation réparatrice - Autorité fédérale</fr>
+      <nl>Dienst voor herstelbemiddeling - Federale Overheid</nl>
+      <pouvoirAgreantErkenning>497</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>637</id>
+      <fr>Centre d'aide sociale urgente - COCOM</fr>
+      <nl>Centrum voor dringende maatschappelijke hulpverlening - GGC</nl>
+      <pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>638</id>
+      <fr>Centre d'hébergement de nuit inconditionnel - COCOM</fr>
+      <nl>Centrum voor onvoorwaardelijke nachtopvang - GGC</nl>
+      <pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>639</id>
+      <fr>Centre d'hébergement pour personnes handicapées - COCOM</fr>
+      <nl>Verblijfcentrum voor gehandicapte personen - GGC</nl>
+      <pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>640</id>
+      <fr>Centre de coordination pour le dépistage du cancer du sein - COCOM</fr>
+      <nl>Coördinatiecentrum van de borstkankerscreening - GGC</nl>
+      <pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>641</id>
+      <fr>Centre de jour - COCOM</fr>
+      <nl>Dagcentrum - GGC</nl>
+      <pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>642</id>
+      <fr>Centre de planning familial - COCOM</fr>
+      <nl>Centrum voor gezinsplanning - GGC</nl>
+      <pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>643</id>
+      <fr>Centre de soins de jour - COCOM</fr>
+      <nl>Centrum voor dagverzorging - GGC</nl>
+      <pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>644</id>
+      <fr>Centre offrant un premier accueil social - COCOM</fr>
+      <nl>Centrum dat voor de eerste sociale opvang zorgt - GGC</nl>
+      <pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>645</id>
+      <fr>Court séjour - COCOM</fr>
+      <nl>Kortverblijf - GGC</nl>
+      <pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>646</id>
+      <fr>En basculement vers la COCOM</fr>
+      <nl>Verschuiving naar de GGC</nl>
+      <pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>647</id>
+      <fr>Habitation pour personnes âgées - COCOM</fr>
+      <nl>Woning voor ouderen - GGC</nl>
+      <pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>648</id>
+      <fr>Hôpital aigu - COCOM</fr>
+      <nl>Acuut ziekenhuis - GGC</nl>
+      <pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>649</id>
+      <fr>Hôpital chronique - COCOM</fr>
+      <nl>Chronisch ziekenhuis - GGC</nl>
+      <pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>650</id>
+      <fr>Hôpital psychiatrique - COCOM</fr>
+      <nl>Psychiatrisch ziekenhuis - GGC</nl>
+      <pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>651</id>
+      <fr>Initiative d'habitation protégée - COCOM</fr>
+      <nl>Initiatief van beschut wonen - GGC</nl>
+      <pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>652</id>
+      <fr>Maison d'accueil - COCOM</fr>
+      <nl>Onthaaltehuis - GGC</nl>
+      <pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>653</id>
+      <fr>Maison de repos - COCOM</fr>
+      <nl>Rusthuis - GGC</nl>
+      <pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>654</id>
+      <fr>Maison de repos et de soins (MRS) - COCOM</fr>
+      <nl>Rust- en verzorgingstehuis (RVT) - GGC</nl>
+      <pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>655</id>
+      <fr>Maison de soins psychiatriques (MSP) - COCOM</fr>
+      <nl>Psychiatrisch verzorgingstehuis (PVT) - GGC</nl>
+      <pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>656</id>
+      <fr>Plateforme de concertation pour la santé mentale - COCOM</fr>
+      <nl>Overlegplatform geestelijke gezondheidszorg - GGC</nl>
+      <pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>657</id>
+      <fr>Résidence-services - COCOM</fr>
+      <nl>Service-residentie - GGC</nl>
+      <pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>658</id>
+      <fr>Service d'aide à domicile - COCOM</fr>
+      <nl>Dienst voor thuiszorg - GGC</nl>
+      <pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>659</id>
+      <fr>Service d'aide aux actes de la vie journalière (AVJ) - COCOM</fr>
+      <nl>Dienst hulpverlening bij activiteiten in het dagelijks leven (ADL) - GGC</nl>
+      <pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>660</id>
+      <fr>Service d'aide sociale aux justiciables - COCOM</fr>
+      <nl>Dienst voor justitieel welzijnswerk - GGC</nl>
+      <pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>661</id>
+      <fr>Service d'habitat accompagné/handicap - COCOM</fr>
+      <nl>Dienst voor begeleid wonen/handicap - GGC</nl>
+      <pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>662</id>
+      <fr>Service d'habitat accompagné/sans-abri - COCOM</fr>
+      <nl>Dienst voor begeleid wonen/thuislozen - GGC</nl>
+      <pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>663</id>
+      <fr>Service de médiation de dettes - COCOM</fr>
+      <nl>Dienst voor schuldbemiddeling - GGC</nl>
+      <pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>664</id>
+      <fr>Service de santé mentale - COCOM</fr>
+      <nl>Dienst voor geestelijke gezondheidszorg - GGC</nl>
+      <pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>665</id>
+      <fr>Service de soins à domicile - COCOM</fr>
+      <nl>Dienst voor thuisverzorging - GGC</nl>
+      <pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>666</id>
+      <fr>Service intégré de soins à domicile - COCOM</fr>
+      <nl>Geïntegreerde dienst voor thuiszorg - GGC</nl>
+      <pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>667</id>
+      <fr>Service accompagnant des personnes vivant dans la rue - COCOM</fr>
+      <nl>Dienst voor de begeleiding van personen die op straat leven - GGC</nl>
+      <pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>668</id>
+      <fr>Bureau d'accueil pour primo-arrivants - COCOF</fr>
+      <nl>Bureau d'accueil pour primo-arrivants - COCOF</nl>
+      <pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>669</id>
+      <fr>Centre d'accueil téléphonique - COCOF</fr>
+      <nl>Centre d'accueil téléphonique - COCOF</nl>
+      <pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>670</id>
+      <fr>Centre d'action sociale globale (CASG) - COCOF</fr>
+      <nl>Centre d'action sociale globale (CASG) - COCOF</nl>
+      <pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>671</id>
+      <fr>Centre de coordination de soins et services à domicile - COCOF</fr>
+      <nl>Centre de coordination de soins et services à domicile - COCOF</nl>
+      <pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>672</id>
+      <fr>Centre de planning familial - COCOF</fr>
+      <nl>Centre de planning familial - COCOF</nl>
+      <pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>674</id>
+      <fr>En transfert vers la COCOF</fr>
+      <nl>Overheveling naar de COCOF</nl>
+      <pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>675</id>
+      <fr>Hôpital psychiatrique - COCOF</fr>
+      <nl>Hôpital psychiatrique - COCOF</nl>
+      <pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>676</id>
+      <fr>Initiative d'habitations protégées (IHP) - COCOF</fr>
+      <nl>Initiative d'habitations protégées (IHP) - COCOF</nl>
+      <pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>677</id>
+      <fr>Maison communautaire - COCOF</fr>
+      <nl>Maison communautaire - COCOF</nl>
+      <pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>678</id>
+      <fr>Maison d'accueil - COCOF</fr>
+      <nl>Maison d'accueil - COCOF</nl>
+      <pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>679</id>
+      <fr>Maison médicale - COCOF</fr>
+      <nl>Maison médicale - COCOF</nl>
+      <pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>685</id>
+      <fr>Organisme de coordination ou de représentation - COCOF</fr>
+      <nl>Organisme de coordination ou de représentation - COCOF</nl>
+      <pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>686</id>
+      <fr>Organisme intersectoriel de coordination - COCOF</fr>
+      <nl>Organisme intersectoriel de coordination - COCOF</nl>
+      <pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>687</id>
+      <fr>Projet communal de cohésion sociale - COCOF</fr>
+      <nl>Projet communal de cohésion sociale - COCOF</nl>
+      <pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>688</id>
+      <fr>Projet régional de cohésion sociale - COCOF</fr>
+      <nl>Projet régional de cohésion sociale - COCOF</nl>
+      <pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>689</id>
+      <fr>Réseau - COCOF</fr>
+      <nl>Réseau - COCOF</nl>
+      <pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>690</id>
+      <fr>Résidence-services - COCOF</fr>
+      <nl>Résidence-services - COCOF</nl>
+      <pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>691</id>
+      <fr>Service actif en matière de toxicomanies - COCOF</fr>
+      <nl>Service actif en matière de toxicomanies - COCOF</nl>
+      <pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>692</id>
+      <fr>Service d'accueil de jour - COCOF</fr>
+      <nl>Service d'accueil de jour - COCOF</nl>
+      <pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>693</id>
+      <fr>Service d'aide à domicile - COCOF</fr>
+      <nl>Service d'aide à domicile - COCOF</nl>
+      <pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>694</id>
+      <fr>Service d'aide aux personnes âgées maltraitées - COCOF</fr>
+      <nl>Service d'aide aux personnes âgées maltraitées - COCOF</nl>
+      <pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>695</id>
+      <fr>Service de médiation de dettes - COCOF</fr>
+      <nl>Service de médiation de dettes - COCOF</nl>
+      <pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>696</id>
+      <fr>Service de santé mentale - COCOF</fr>
+      <nl>Service de santé mentale - COCOF</nl>
+      <pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>697</id>
+      <fr>Service de soins palliatifs et continués - COCOF</fr>
+      <nl>Service de soins palliatifs et continués - COCOF</nl>
+      <pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>698</id>
+      <fr>Service de télévigilance - COCOF</fr>
+      <nl>Service de télévigilance - COCOF</nl>
+      <pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>699</id>
+      <fr>Adviesbureau in de sociale economie - Communauté flamande</fr>
+      <nl>Adviesbureau in de sociale economie - Vlaamse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>702</id>
+      <fr>Centrum voor de begeleiding en behandeling van daders van seksueel misbruik - Communauté flamande</fr>
+      <nl>Centrum voor de begeleiding en behandeling van daders van seksueel misbruik - Vlaamse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>703</id>
+      <fr>Centrum voor algemeen welzijnswerk (CAW) - Communauté flamande</fr>
+      <nl>Centrum voor algemeen welzijnswerk (CAW) - Vlaamse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>704</id>
+      <fr>Centrum voor basiseducatie - Communauté flamande</fr>
+      <nl>Centrum voor basiseducatie - Vlaamse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>705</id>
+      <fr>Centrum voor deeltijdse vorming - Communauté flamande</fr>
+      <nl>Centrum voor deeltijdse vorming - Vlaamse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>707</id>
+      <fr>Centrum voor geestelijke gezondheidszorg - Communauté flamande</fr>
+      <nl>Centrum voor geestelijke gezondheidszorg - Vlaamse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>708</id>
+      <fr>Centrum voor herstelverblijf - Communauté flamande</fr>
+      <nl>Centrum voor herstelverblijf - Vlaamse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>709</id>
+      <fr>Centrum voor integrale gezinszorg - Communauté flamande</fr>
+      <nl>Centrum voor integrale gezinszorg - Vlaamse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>710</id>
+      <fr>Centrum voor justitieel welzijnswerk - Communauté flamande</fr>
+      <nl>Centrum voor justitieel welzijnswerk - Vlaamse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>711</id>
+      <fr>Centrum voor kortverblijf - Communauté flamande</fr>
+      <nl>Centrum voor kortverblijf - Vlaamse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>712</id>
+      <fr>Centrum voor leerlingenbegeleiding - Communauté flamande</fr>
+      <nl>Centrum voor leerlingenbegeleiding - Vlaamse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>713</id>
+      <fr>Centrum voor menselijke erfelijkheid - Communauté flamande</fr>
+      <nl>Centrum voor menselijke erfelijkheid - Vlaamse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>714</id>
+      <fr>Centrum voor teleonthaal - Communauté flamande</fr>
+      <nl>Centrum voor teleonthaal - Vlaamse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>715</id>
+      <fr>Dagverzorgingscentrum - Communauté flamande</fr>
+      <nl>Dagverzorgingscentrum - Vlaamse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>716</id>
+      <fr>Dagverzorgingscentrum voor palliatieve verzorging - Communauté flamande</fr>
+      <nl>Dagverzorgingscentrum voor palliatieve verzorging - Vlaamse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>717</id>
+      <fr>Dienst maatschappelijk werk van het ziekenfonds - Communauté flamande</fr>
+      <nl>Dienst maatschappelijk werk van het ziekenfonds - Vlaamse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>718</id>
+      <fr>Dienst voor aangepast vervoer - Communauté flamande</fr>
+      <nl>Dienst voor aangepast vervoer - Vlaamse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>719</id>
+      <fr>Dienst voor crisishulp aan huis - Communauté flamande</fr>
+      <nl>Dienst voor crisishulp aan huis - Vlaamse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>720</id>
+      <fr>Dienst voor gezinszorg en aanvullende thuiszorg - Communauté flamande</fr>
+      <nl>Dienst voor gezinszorg en aanvullende thuiszorg - Vlaamse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>721</id>
+      <fr>Dienst voor herstelgerichte en constructieve afhandeling - Communauté flamande</fr>
+      <nl>Dienst voor herstelgerichte en constructieve afhandeling - Vlaamse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>722</id>
+      <fr>Dienst voor oppashulp - Communauté flamande</fr>
+      <nl>Dienst voor oppashulp - Vlaamse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>723</id>
+      <fr>Dienst voor pleegzorg - Communauté flamande</fr>
+      <nl>Dienst voor pleegzorg - Vlaamse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>724</id>
+      <fr>Dienst voor schuldbemiddeling - Communauté flamande</fr>
+      <nl>Dienst voor schuldbemiddeling - Vlaamse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>725</id>
+      <fr>Dienst voor slachtofferhulp - Communauté flamande</fr>
+      <nl>Dienst voor slachtofferhulp - Vlaamse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>726</id>
+      <fr>Geïntegreerde dienst voor thuisverzorging - Communauté flamande</fr>
+      <nl>Geïntegreerde dienst voor thuisverzorging - Vlaamse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>727</id>
+      <fr>Gemeenschapsinstelling - Communauté flamande</fr>
+      <nl>Gemeenschapsinstelling - Vlaamse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>728</id>
+      <fr>Gespecialiseerde bibliotheekvoorziening - Communauté flamande</fr>
+      <nl>Gespecialiseerde bibliotheekvoorziening - Vlaamse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>729</id>
+      <fr>Groep van assistentiewoningen - Communauté flamande</fr>
+      <nl>Groep van assistentiewoningen - Vlaamse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>730</id>
+      <fr>Indicatiesteller zorgverzekering - Communauté flamande</fr>
+      <nl>Indicatiesteller zorgverzekering - Vlaamse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>731</id>
+      <fr>Initiatief beschut wonen - Communauté flamande</fr>
+      <nl>Initiatief beschut wonen - Vlaamse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>732</id>
+      <fr>Initiatief lokale diensteneconomie - Communauté flamande</fr>
+      <nl>Initiatief lokale diensteneconomie - Vlaamse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>733</id>
+      <fr>Instelling voor maatschappelijk opbouwwerk - Communauté flamande</fr>
+      <nl>Instelling voor maatschappelijk opbouwwerk - Vlaamse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>734</id>
+      <fr>Jeugdadviesorgaan - Communauté flamande</fr>
+      <nl>Jeugdadviesorgaan - Vlaamse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>735</id>
+      <fr>Lokaal dienstencentrum - Communauté flamande</fr>
+      <nl>Lokaal dienstencentrum - Vlaamse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>736</id>
+      <fr>Lokaal integratiecentrum - Communauté flamande</fr>
+      <nl>Lokaal integratiecentrum - Vlaamse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>737</id>
+      <fr>Lokaal steunpunt - Communauté flamande</fr>
+      <nl>Lokaal steunpunt - Vlaamse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>739</id>
+      <fr>Onthaalbureau voor inburgering - Communauté flamande</fr>
+      <nl>Onthaalbureau voor inburgering - Vlaamse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>740</id>
+      <fr>Opleidingscentrum voor polyvalente verzorgenden - Communauté flamande</fr>
+      <nl>Opleidingscentrum voor polyvalente verzorgenden - Vlaamse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>741</id>
+      <fr>Opvang- oriëntatie- en observatiecentrum - Communauté flamande</fr>
+      <nl>Opvang- oriëntatie- en observatiecentrum - Vlaamse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>742</id>
+      <fr>Organisatie met terreinwerking voor de zorg voor nabestaanden na zelfdoding - Communauté flamande</fr>
+      <nl>Organisatie met terreinwerking voor de zorg voor nabestaanden na zelfdoding - Vlaamse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>743</id>
+      <fr>Organisatie met terreinwerking voor suïcidepreventie door telezorg - Communauté flamande</fr>
+      <nl>Organisatie met terreinwerking voor suïcidepreventie door telezorg  - Vlaamse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>744</id>
+      <fr>Organisatie met terreinwerking voor de integrale zorg voor suïcidepogers - Communauté flamande</fr>
+      <nl>Organisatie met terreinwerking voor de integrale zorg voor suïcidepogers - Vlaamse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>745</id>
+      <fr>Organisatie voor bijzondere jeugdzorg - Communauté flamande</fr>
+      <nl>Organisatie voor bijzondere jeugdzorg - Vlaamse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>746</id>
+      <fr>Palliatief netwerk - Communauté flamande</fr>
+      <nl>Palliatief netwerk - Vlaamse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>747</id>
+      <fr>Participatieorganisatie - Communauté flamande</fr>
+      <nl>Participatieorganisatie - Vlaamse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>748</id>
+      <fr>Patiëntenorganisatie - Communauté flamande</fr>
+      <nl>Patiëntenorganisatie - Vlaamse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>749</id>
+      <fr>Psychiatrisch ziekenhuis - Communauté flamande</fr>
+      <nl>Psychiatrisch ziekenhuis - Vlaamse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>750</id>
+      <fr>Regionaal dienstencentrum - Communauté flamande</fr>
+      <nl>Regionaal dienstencentrum - Vlaamse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>751</id>
+      <fr>Regionaal expertisecentrum dementie - Communauté flamande</fr>
+      <nl>Regionaal expertisecentrum dementie - Vlaamse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>752</id>
+      <fr>Regionaal integratiecentrum - Communauté flamande</fr>
+      <nl>Regionaal integratiecentrum - Vlaamse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>753</id>
+      <fr>Rust- en verzorgingstehuis (RVT) - Communauté flamande</fr>
+      <nl>Rust- en verzorgingstehuis (RVT) - Vlaamse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>755</id>
+      <fr>Samenwerkingsverband inzake palliatieve zorg - Communauté flamande</fr>
+      <nl>Samenwerkingsverband inzake palliatieve zorg - Vlaamse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>756</id>
+      <fr>Samenwerkingsverband opvoedingsondersteuning - Communauté flamande</fr>
+      <nl>Samenwerkingsverband opvoedingsondersteuning - Vlaamse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>757</id>
+      <fr>Samenwerkingsverband van verenigingen waar armen het woord nemen - Communauté flamande</fr>
+      <nl>Samenwerkingsverband van verenigingen waar armen het woord nemen - Vlaamse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>758</id>
+      <fr>Sociale kredietvennootschap - Communauté flamande</fr>
+      <nl>Sociale kredietvennootschap - Vlaamse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>759</id>
+      <fr>Steunpunt jeugd - Communauté flamande</fr>
+      <nl>Steunpunt jeugd - Vlaamse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>760</id>
+      <fr>Steunpunt nazorg adoptie  - Communauté flamande</fr>
+      <nl>Steunpunt nazorg adoptie  - Vlaamse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>761</id>
+      <fr>Universitair ziekenhuis - Communauté flamande</fr>
+      <nl>Universitair ziekenhuis - Vlaamse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>762</id>
+      <fr>Vereniging van gebruikers en mantelzorgers - Communauté flamande</fr>
+      <nl>Vereniging van gebruikers en mantelzorgers - Vlaamse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>763</id>
+      <fr>Vereniging waar armen het woord nemen - Communauté flamande</fr>
+      <nl>Vereniging waar armen het woord nemen - Vlaamse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>764</id>
+      <fr>Vlaams expertisecentrum migratie en integratie - Communauté flamande</fr>
+      <nl>Vlaams expertisecentrum migratie en integratie - Vlaamse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>765</id>
+      <fr>Vlaamse ouderenraad - Communauté flamande</fr>
+      <nl>Vlaamse ouderenraad - Vlaamse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>766</id>
+      <fr>Woonzorgcentrum (WZC) - Communauté flamande</fr>
+      <nl>Woonzorgcentrum (WZC) - Vlaamse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>767</id>
+      <fr>Zorgkas - Communauté flamande</fr>
+      <nl>Zorgkas - Vlaamse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>768</id>
+      <fr>Centre d'accueil d'urgence (CAU) - Communauté française</fr>
+      <nl>Centre d'accueil d'urgence (CAU) - Franse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>502</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>769</id>
+      <fr>Centre d'accueil spécialisé (CAS) - Communauté française</fr>
+      <nl>Centre d'accueil spécialisé (CAS) - Franse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>502</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>770</id>
+      <fr>Centre d'information des jeunes - Communauté française</fr>
+      <nl>Centre d'information des jeunes - Franse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>502</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>771</id>
+      <fr>Centre d'observation et d'orientation (COO) - Communauté française</fr>
+      <nl>Centre d'observation et d'orientation (COO) - Franse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>502</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>772</id>
+      <fr>Centre d'orientation éducative (COE) - Communauté française</fr>
+      <nl>Centre d'orientation éducative (COE) - Franse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>502</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>774</id>
+      <fr>Coordination régionale d'écoles de devoirs - Communauté française</fr>
+      <nl>Coordination régionale d'écoles de devoirs - Franse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>502</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>775</id>
+      <fr>Espace-rencontres - Communauté française</fr>
+      <nl>Espace-rencontres - Franse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>502</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>776</id>
+      <fr>Hôpital universitaire - Communauté française</fr>
+      <nl>Hôpital universitaire - Franse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>502</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>777</id>
+      <fr>Maison de jeunes - Communauté française</fr>
+      <nl>Maison de jeunes - Franse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>502</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>778</id>
+      <fr>Organisme d'adoption - Communauté française</fr>
+      <nl>Organisme d'adoption - Franse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>502</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>779</id>
+      <fr>Service de formation de l'aide à la jeunesse - Communauté française</fr>
+      <nl>Service de formation de l'aide à la jeunesse - Franse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>502</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>780</id>
+      <fr>Projet pédagogique particulier (PPP) - Communauté française</fr>
+      <nl>Projet pédagogique particulier (PPP) - Franse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>502</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>781</id>
+      <fr>Service d'accrochage scolaire - Communauté française</fr>
+      <nl>Service d'accrochage scolaire - Franse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>502</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>782</id>
+      <fr>Service d'accueil et d'aide éducative (SAAE) - Communauté française</fr>
+      <nl>Service d'accueil et d'aide éducative (SAAE) - Franse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>502</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>783</id>
+      <fr>Service d'accueil téléphonique des enfants - Communauté française</fr>
+      <nl>Service d'accueil téléphonique des enfants - Franse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>502</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>784</id>
+      <fr>Service d'actions restauratrices et éducatives - Communauté française</fr>
+      <nl>Service d'actions restauratrices et éducatives - Franse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>502</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>785</id>
+      <fr>Service d'aide en milieu ouvert (AMO) - Communauté française</fr>
+      <nl>Service d'aide en milieu ouvert (AMO) - Franse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>502</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>786</id>
+      <fr>Service d'aide et d'intervention éducative (SAIE) - Communauté française</fr>
+      <nl>Service d'aide et d'intervention éducative (SAIE) - Franse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>502</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>787</id>
+      <fr>Service d'aide sociale aux détenus - Communauté française</fr>
+      <nl>Service d'aide sociale aux détenus - Franse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>502</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>788</id>
+      <fr>Service d'aide sociale aux justiciables - Communauté française</fr>
+      <nl>Service d'aide sociale aux justiciables - Franse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>502</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>789</id>
+      <fr>Service de placement familial - Communauté française</fr>
+      <nl>Service de placement familial - Franse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>502</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>790</id>
+      <fr>Service de promotion de la santé à l'école - Communauté française</fr>
+      <nl>Service de promotion de la santé à l'école - Franse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>502</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>791</id>
+      <fr>Service de protutelle - Communauté française</fr>
+      <nl>Service de protutelle - Franse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>502</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>792</id>
+      <fr>Binnenlandse adoptiedienst - Kind en Gezin</fr>
+      <nl>Binnenlandse adoptiedienst - Kind en Gezin</nl>
+      <pouvoirAgreantErkenning>503</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>793</id>
+      <fr>Buitenlandse adoptiedienst - Kind en Gezin</fr>
+      <nl>Buitenlandse adoptiedienst - Kind en Gezin</nl>
+      <pouvoirAgreantErkenning>503</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>794</id>
+      <fr>Centrum inclusieve kinderopvang - Kind en Gezin</fr>
+      <nl>Centrum inclusieve kinderopvang - Kind en Gezin</nl>
+      <pouvoirAgreantErkenning>503</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>795</id>
+      <fr>Centrum voor kinderzorg en gezinsondersteuning - Kind en Gezin</fr>
+      <nl>Centrum voor kinderzorg en gezinsondersteuning - Kind en Gezin</nl>
+      <pouvoirAgreantErkenning>503</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>796</id>
+      <fr>Consultatiebureau - Kind en Gezin</fr>
+      <nl>Consultatiebureau - Kind en Gezin</nl>
+      <pouvoirAgreantErkenning>503</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>797</id>
+      <fr>Dienst voor maatschappelijk onderzoek interlandelijke adoptie - Kind en Gezin</fr>
+      <nl>Dienst voor maatschappelijk onderzoek interlandelijke adoptie - Kind en Gezin</nl>
+      <pouvoirAgreantErkenning>503</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>798</id>
+      <fr>Expertisecentrum voor kraamzorg - Kind en Gezin</fr>
+      <nl>Expertisecentrum voor kraamzorg - Kind en Gezin</nl>
+      <pouvoirAgreantErkenning>503</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>799</id>
+      <fr>Groepsopvang - Kind en Gezin</fr>
+      <nl>Groepsopvang - Kind en Gezin</nl>
+      <pouvoirAgreantErkenning>503</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>800</id>
+      <fr>INLOOP-team - Kind en Gezin</fr>
+      <nl>INLOOP-team - Kind en Gezin</nl>
+      <pouvoirAgreantErkenning>503</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>801</id>
+      <fr>Organisator gezinsopvang - Kind en Gezin</fr>
+      <nl>Organisator gezinsopvang - Kind en Gezin</nl>
+      <pouvoirAgreantErkenning>503</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>802</id>
+      <fr>Prenataal steunpunt - Kind en Gezin</fr>
+      <nl>Prenataal steunpunt - Kind en Gezin</nl>
+      <pouvoirAgreantErkenning>503</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>803</id>
+      <fr>Trefgroep - Kind en Gezin</fr>
+      <nl>Trefgroep - Kind en Gezin</nl>
+      <pouvoirAgreantErkenning>503</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>804</id>
+      <fr>Vertrouwenscentrum kindermishandeling - Kind en Gezin</fr>
+      <nl>Vertrouwenscentrum kindermishandeling - Kind en Gezin</nl>
+      <pouvoirAgreantErkenning>503</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>805</id>
+      <fr>Voorbereidingscentrum - Kind en Gezin</fr>
+      <nl>Voorbereidingscentrum - Kind en Gezin</nl>
+      <pouvoirAgreantErkenning>503</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>806</id>
+      <fr>Consultation pour enfants - ONE</fr>
+      <nl>Consultation pour enfants - ONE</nl>
+      <pouvoirAgreantErkenning>504</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>807</id>
+      <fr>Consultation prénatale - ONE</fr>
+      <nl>Consultation prénatale - ONE</nl>
+      <pouvoirAgreantErkenning>504</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>808</id>
+      <fr>Crèche - ONE</fr>
+      <nl>Crèche - ONE</nl>
+      <pouvoirAgreantErkenning>504</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>809</id>
+      <fr>Crèche parentale - ONE</fr>
+      <nl>Crèche parentale - ONE</nl>
+      <pouvoirAgreantErkenning>504</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>810</id>
+      <fr>École de devoirs (EDD) - ONE</fr>
+      <nl>École de devoirs (EDD) - ONE</nl>
+      <pouvoirAgreantErkenning>504</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>811</id>
+      <fr>Équipe SOS Enfants - ONE</fr>
+      <nl>Équipe SOS Enfants - ONE</nl>
+      <pouvoirAgreantErkenning>504</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>812</id>
+      <fr>Maison communale d'accueil de l'enfance (MCAE) - ONE</fr>
+      <nl>Maison communale d'accueil de l'enfance (MCAE) - ONE</nl>
+      <pouvoirAgreantErkenning>504</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>813</id>
+      <fr>Maison d'enfants - ONE</fr>
+      <nl>Maison d'enfants - ONE</nl>
+      <pouvoirAgreantErkenning>504</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>814</id>
+      <fr>Prégardiennat - ONE</fr>
+      <nl>Prégardiennat - ONE</nl>
+      <pouvoirAgreantErkenning>504</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>815</id>
+      <fr>Service d'accueil spécialisé de la petite enfance (SASPE) - ONE</fr>
+      <nl>Service d'accueil spécialisé de la petite enfance (SASPE) - ONE</nl>
+      <pouvoirAgreantErkenning>504</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>816</id>
+      <fr>Service d'accueillant(e)s d'enfants conventionné(e)s - ONE</fr>
+      <nl>Service d'accueillant(e)s d'enfants conventionné(e)s - ONE</nl>
+      <pouvoirAgreantErkenning>504</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>817</id>
+      <fr>Centre d'hébergement pour adultes - PHARE</fr>
+      <nl>Centre d'hébergement pour adultes - PHARE</nl>
+      <pouvoirAgreantErkenning>505</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>818</id>
+      <fr>Centre d'hébergement pour enfants - PHARE</fr>
+      <nl>Centre d'hébergement pour enfants - PHARE</nl>
+      <pouvoirAgreantErkenning>505</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>819</id>
+      <fr>Centre d'orientation spécialisée - PHARE</fr>
+      <nl>Centre d'orientation spécialisée - PHARE</nl>
+      <pouvoirAgreantErkenning>505</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>820</id>
+      <fr>Centre de jour pour adultes - PHARE</fr>
+      <nl>Centre de jour pour adultes - PHARE</nl>
+      <pouvoirAgreantErkenning>505</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>821</id>
+      <fr>Centre de jour pour enfants non scolarisés - PHARE</fr>
+      <nl>Centre de jour pour enfants non scolarisés - PHARE</nl>
+      <pouvoirAgreantErkenning>505</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>822</id>
+      <fr>Centre de jour pour enfants scolarisés - PHARE</fr>
+      <nl>Centre de jour pour enfants scolarisés - PHARE</nl>
+      <pouvoirAgreantErkenning>505</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>823</id>
+      <fr>Entreprise de travail adapté (ETA) - PHARE</fr>
+      <nl>Entreprise de travail adapté (ETA) - PHARE</nl>
+      <pouvoirAgreantErkenning>505</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>824</id>
+      <fr>Service d'accompagnement - PHARE</fr>
+      <nl>Service d'accompagnement - PHARE</nl>
+      <pouvoirAgreantErkenning>505</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>825</id>
+      <fr>Service d'accompagnement pédagogique - PHARE</fr>
+      <nl>Service d'accompagnement pédagogique - PHARE</nl>
+      <pouvoirAgreantErkenning>505</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>826</id>
+      <fr>Service d'interprétation pour sourds - PHARE</fr>
+      <nl>Service d'interprétation pour sourds - PHARE</nl>
+      <pouvoirAgreantErkenning>505</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>827</id>
+      <fr>Service spécialisé dans l'accessibilité de l'espace social - PHARE</fr>
+      <nl>Service spécialisé dans l'accessibilité de l'espace social - PHARE</nl>
+      <pouvoirAgreantErkenning>505</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>828</id>
+      <fr>Agence immobilière sociale (AIS) - Région de Bruxelles-Capitale</fr>
+      <nl>Sociaal verhuurkantoor (SVK) - Brussels Hoofdstedelijk Gewest</nl>
+      <pouvoirAgreantErkenning>506</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>829</id>
+      <fr>Association œuvrant à l'insertion par le logement - Région de Bruxelles-Capitale</fr>
+      <nl>Vereniging voor integratie via huisvesting - Brussels Hoofdstedelijk Gewest</nl>
+      <pouvoirAgreantErkenning>506</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>830</id>
+      <fr>Initiative locale de développement de l'emploi (ILDE) - Région de Bruxelles-Capitale</fr>
+      <nl>Plaatselijk initiatief voor ontwikkeling van werkgelegenheid (PIOW) - Brussels Hoofdstedelijk Gewest</nl>
+      <pouvoirAgreantErkenning>506</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>831</id>
+      <fr>Lokale werkwinkel - Région de Bruxelles-Capitale</fr>
+      <nl>Lokale werkwinkel - Brussels Hoofdstedelijk Gewest</nl>
+      <pouvoirAgreantErkenning>506</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>832</id>
+      <fr>Mission locale pour l'emploi - Région de Bruxelles-Capitale</fr>
+      <nl>Mission locale pour l'emploi - Brussels Hoofdstedelijk Gewest</nl>
+      <pouvoirAgreantErkenning>506</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>833</id>
+      <fr>Programme de développement local intégré en rénovation urbaine - Région de Bruxelles-Capitale</fr>
+      <nl>Programma op het vlak van geïntegreerde stadsrenovatie - Brussels Hoofdstedelijk Gewest</nl>
+      <pouvoirAgreantErkenning>506</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>834</id>
+      <fr>Société de crédit social - Région de Bruxelles-Capitale</fr>
+      <nl>Instelling voor sociaal krediet - Brussels Hoofdstedelijk Gewest</nl>
+      <pouvoirAgreantErkenning>506</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>835</id>
+      <fr>Société immobilière de service public (SISP) - SLRB</fr>
+      <nl>Openbare vastgoedmaatschappij (OVM) - BGHM</nl>
+      <pouvoirAgreantErkenning>507</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>836</id>
+      <fr>Bijstandsorganisatie - VAPH</fr>
+      <nl>Bijstandsorganisatie - VAPH</nl>
+      <pouvoirAgreantErkenning>508</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>837</id>
+      <fr>Centrum voor functionele revalidatie - VAPH</fr>
+      <nl>Centrum voor functionele revalidatie - VAPH</nl>
+      <pouvoirAgreantErkenning>508</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>838</id>
+      <fr>Centrum voor ontwikkelingsstoornissen - VAPH</fr>
+      <nl>Centrum voor ontwikkelingsstoornissen - VAPH</nl>
+      <pouvoirAgreantErkenning>508</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>839</id>
+      <fr>Dienst inclusieve ondersteuning (DIO) - VAPH</fr>
+      <nl>Dienst inclusieve ondersteuning (DIO) - VAPH</nl>
+      <pouvoirAgreantErkenning>508</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>840</id>
+      <fr>Dienst ondersteuningsplan (DOP) - VAPH</fr>
+      <nl>Dienst ondersteuningsplan (DOP) - VAPH</nl>
+      <pouvoirAgreantErkenning>508</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>842</id>
+      <fr>Flexibel aanbod meerderjarigen - VAPH</fr>
+      <nl>Flexibel aanbod meerderjarigen - VAPH</nl>
+      <pouvoirAgreantErkenning>508</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>844</id>
+      <fr>Multifunctioneel centrum minderjarigen (MFC) - VAPH</fr>
+      <nl>Multifunctioneel centrum minderjarigen (MFC) - VAPH</nl>
+      <pouvoirAgreantErkenning>508</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>845</id>
+      <fr>Organisatie voor vrijetijdszorg - VAPH</fr>
+      <nl>Organisatie voor vrijetijdszorg - VAPH</nl>
+      <pouvoirAgreantErkenning>508</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>846</id>
+      <fr>Rechtstreeks toegankelijke hulp (RTH) - VAPH</fr>
+      <nl>Rechtstreeks toegankelijke hulp (RTH) - VAPH</nl>
+      <pouvoirAgreantErkenning>508</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>849</id>
+      <fr>Gespecialiseerde arbeidsonderzoeksdienst - VDAB</fr>
+      <nl>Gespecialiseerde arbeidsonderzoeksdienst - VDAB</nl>
+      <pouvoirAgreantErkenning>509</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>850</id>
+      <fr>Gespecialiseerde opleidings- begeleidings- en bemiddelingsdienst (GOB) - VDAB</fr>
+      <nl>Gespecialiseerde opleidings- begeleidings- en bemiddelingsdienst (GOB) - VDAB</nl>
+      <pouvoirAgreantErkenning>509</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>851</id>
+      <fr>Gespecialiseerde trajectbepalings- en begeleidingsdienst - VDAB</fr>
+      <nl>Gespecialiseerde trajectbepalings- en begeleidingsdienst - VDAB</nl>
+      <pouvoirAgreantErkenning>509</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>852</id>
+      <fr>Allochtone zelforganisatie - VGC</fr>
+      <nl>Allochtone zelforganisatie - VGC</nl>
+      <pouvoirAgreantErkenning>510</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>853</id>
+      <fr>Gemeenschapscentrum - VGC</fr>
+      <nl>Gemeenschapscentrum - VGC</nl>
+      <pouvoirAgreantErkenning>510</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>854</id>
+      <fr>Jeugdcentrum - VGC</fr>
+      <nl>Jeugdcentrum - VGC</nl>
+      <pouvoirAgreantErkenning>510</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>855</id>
+      <fr>Jeugdhuis - VGC</fr>
+      <nl>Jeugdhuis - VGC</nl>
+      <pouvoirAgreantErkenning>510</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>857</id>
+      <fr>Werking met maatschappelijk kwetsbare kinderen en jongeren (WMKJ) - VGC</fr>
+      <nl>Werking met maatschappelijk kwetsbare kinderen en jongeren (WMKJ) - VGC</nl>
+      <pouvoirAgreantErkenning>510</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>858</id>
+      <fr>Multidisciplinair team - Communauté flamande</fr>
+      <nl>Multidisciplinair team - Vlaamse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>859</id>
+      <fr>Beschutte werkplaats - Communauté flamande</fr>
+      <nl>Beschutte werkplaats - Vlaamse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>860</id>
+      <fr>Association en matière de soins palliatifs - COCOM</fr>
+      <nl>Samenwerkingsverband inzake palliatieve zorg - GGC</nl>
+      <pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>861</id>
+      <fr>Centrum voor expertise inzake preventieve gezondheidszorg - Communauté flamande</fr>
+      <nl>Centrum voor expertise inzake preventieve gezondheidszorg - Vlaamse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>862</id>
+      <fr>Centre d'accueil de jour pour personnes âgées - COCOM</fr>
+      <nl>Centrum voor dagopvang voor bejaarden - GGC</nl>
+      <pouvoirAgreantErkenning>498</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>863</id>
+      <fr>Organisme d'insertion socioprofessionnelle (mission locale) - COCOF</fr>
+      <nl>Organisme d'insertion socioprofessionnelle (mission locale) - COCOF</nl>
+      <pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>864</id>
+      <fr>Organisme d'insertion socioprofessionnelle - OISP (atelier de formation par le travail - AFT) - COCOF</fr>
+      <nl>Organisme d'insertion socioprofessionnelle - OISP (atelier de formation par le travail - AFT) - COCOF</nl>
+      <pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>865</id>
+      <fr>Organisme d'insertion socioprofessionnelle (autre opérateur de formation) - COCOF</fr>
+      <nl>Organisme d'insertion socioprofessionnelle (autre opérateur de formation) - COCOF</nl>
+      <pouvoirAgreantErkenning>499</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>866</id>
+      <fr>Lokale dienst voor buurtgerichte opvang - Kind en Gezin</fr>
+      <nl>Lokale dienst voor buurtgerichte opvang - Kind en Gezin</nl>
+      <pouvoirAgreantErkenning>503</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>867</id>
+      <fr>Dienst voor thuisverpleging - Communauté flamande</fr>
+      <nl>Dienst voor thuisverpleging - Vlaamse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>868</id>
+      <fr>Multidisciplinair team - VAPH</fr>
+      <nl>Multidisciplinair team - VAPH</nl>
+      <pouvoirAgreantErkenning>508</pouvoirAgreantErkenning>
+    </agrementErken>
+  <agrementErken>
+      <id>869</id>
+      <fr>Synchroon internetonderwijs - Communauté flamande</fr>
+      <nl>Synchroon internetonderwijs - Vlaamse Gemeenschap</nl>
+      <pouvoirAgreantErkenning>501</pouvoirAgreantErkenning>
+    </agrementErken>
 </agreements>

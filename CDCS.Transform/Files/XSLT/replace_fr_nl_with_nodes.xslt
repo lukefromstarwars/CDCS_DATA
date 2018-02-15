@@ -25,12 +25,11 @@
       </parents>
       <parentIds>
         <xsl:for-each select="parent">
-          <xsl:value-of select="concat(.,'|')" />
+          <xsl:value-of select="." />
+          <xsl:if test="position() != last()">,</xsl:if>
         </xsl:for-each>
       </parentIds>
-
     </xsl:copy>
-
   </xsl:template>
 
 </xsl:stylesheet>

@@ -25,8 +25,6 @@ namespace CDCS.Transform.Migrations
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd();
 
-                    b.Property<int?>("CdcsId");
-
                     b.Property<string>("CreatedBy");
 
                     b.Property<DateTime?>("CreatedOn");

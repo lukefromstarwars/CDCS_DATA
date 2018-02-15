@@ -9,7 +9,14 @@
               <xs:element minOccurs="0" name="id" type="xs:unsignedShort" />
               <xs:element minOccurs="0" name="fr" type="xs:string" />
               <xs:element minOccurs="0" name="nl" type="xs:string" />
-              <xs:element minOccurs="0" maxOccurs="unbounded" name="parent" type="xs:unsignedShort" />
+              <xs:element minOccurs="0" name="parents">
+                <xs:complexType>
+                  <xs:sequence minOccurs="0">
+                    <xs:element minOccurs="0" maxOccurs="unbounded" name="parent" type="xs:unsignedShort" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element minOccurs="0" name="parentIds" type="xs:string" />
             </xs:sequence>
           </xs:complexType>
         </xs:element>

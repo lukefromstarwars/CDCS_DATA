@@ -1,68 +1,68 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <motherOrganisations>
   <pouvoirAgreantErkenning>
-				<id>497</id>
-				<fr>AUTORITÉ FÉDÉRALE</fr>
-				<nl>FEDERALE OVERHEID</nl>
-			</pouvoirAgreantErkenning>
+      <id>497</id>
+      <fr>AUTORITÉ FÉDÉRALE</fr>
+      <nl>FEDERALE OVERHEID</nl>
+    </pouvoirAgreantErkenning>
   <pouvoirAgreantErkenning>
-				<id>498</id>
-				<fr>COMMISSION COMMUNAUTAIRE COMMUNE - COCOM</fr>
-				<nl>GEMEENSCHAPPELIJKE GEMEENSCHAPSCOMMISSIE - GGC</nl>
-			</pouvoirAgreantErkenning>
+      <id>498</id>
+      <fr>COMMISSION COMMUNAUTAIRE COMMUNE - COCOM</fr>
+      <nl>GEMEENSCHAPPELIJKE GEMEENSCHAPSCOMMISSIE - GGC</nl>
+    </pouvoirAgreantErkenning>
   <pouvoirAgreantErkenning>
-				<id>499</id>
-				<fr>COMMISSION COMMUNAUTAIRE FRANÇAISE - COCOF</fr>
-				<nl>COMMISSION COMMUNAUTAIRE FRANÇAISE - COCOF</nl>
-			</pouvoirAgreantErkenning>
+      <id>499</id>
+      <fr>COMMISSION COMMUNAUTAIRE FRANÇAISE - COCOF</fr>
+      <nl>COMMISSION COMMUNAUTAIRE FRANÇAISE - COCOF</nl>
+    </pouvoirAgreantErkenning>
   <pouvoirAgreantErkenning>
-				<id>501</id>
-				<fr>COMMUNAUTÉ FLAMANDE</fr>
-				<nl>VLAAMSE GEMEENSCHAP</nl>
-			</pouvoirAgreantErkenning>
+      <id>501</id>
+      <fr>COMMUNAUTÉ FLAMANDE</fr>
+      <nl>VLAAMSE GEMEENSCHAP</nl>
+    </pouvoirAgreantErkenning>
   <pouvoirAgreantErkenning>
-				<id>502</id>
-				<fr>COMMUNAUTÉ FRANÇAISE</fr>
-				<nl>FRANSE GEMEENSCHAP</nl>
-			</pouvoirAgreantErkenning>
+      <id>502</id>
+      <fr>COMMUNAUTÉ FRANÇAISE</fr>
+      <nl>FRANSE GEMEENSCHAP</nl>
+    </pouvoirAgreantErkenning>
   <pouvoirAgreantErkenning>
-				<id>503</id>
-				<fr>KIND EN GEZIN</fr>
-				<nl>KIND EN GEZIN</nl>
-			</pouvoirAgreantErkenning>
+      <id>503</id>
+      <fr>KIND EN GEZIN</fr>
+      <nl>KIND EN GEZIN</nl>
+    </pouvoirAgreantErkenning>
   <pouvoirAgreantErkenning>
-				<id>504</id>
-				<fr>OFFICE DE LA NAISSANCE ET DE L'ENFANCE - ONE</fr>
-				<nl>OFFICE DE LA NAISSANCE ET DE L'ENFANCE - ONE</nl>
-			</pouvoirAgreantErkenning>
+      <id>504</id>
+      <fr>OFFICE DE LA NAISSANCE ET DE L'ENFANCE - ONE</fr>
+      <nl>OFFICE DE LA NAISSANCE ET DE L'ENFANCE - ONE</nl>
+    </pouvoirAgreantErkenning>
   <pouvoirAgreantErkenning>
-				<id>505</id>
-				<fr>PERSONNES HANDICAPÉES AUTONOMIE RECHERCHÉE - PHARE</fr>
-				<nl>PERSONNES HANDICAPÉES AUTONOMIE RECHERCHÉE - PHARE</nl>
-			</pouvoirAgreantErkenning>
+      <id>505</id>
+      <fr>PERSONNES HANDICAPÉES AUTONOMIE RECHERCHÉE - PHARE</fr>
+      <nl>PERSONNES HANDICAPÉES AUTONOMIE RECHERCHÉE - PHARE</nl>
+    </pouvoirAgreantErkenning>
   <pouvoirAgreantErkenning>
-				<id>506</id>
-				<fr>RÉGION DE BRUXELLES-CAPITALE</fr>
-				<nl>BRUSSELS HOOFDSTEDELIJK GEWEST</nl>
-			</pouvoirAgreantErkenning>
+      <id>506</id>
+      <fr>RÉGION DE BRUXELLES-CAPITALE</fr>
+      <nl>BRUSSELS HOOFDSTEDELIJK GEWEST</nl>
+    </pouvoirAgreantErkenning>
   <pouvoirAgreantErkenning>
-				<id>507</id>
-				<fr>SOCIÉTÉ DU LOGEMENT DE LA RÉGION DE BRUXELLES-CAPITALE - SLRB</fr>
-				<nl>BRUSSELSE GEWESTELIJKE HUISVESTINGSMAATSCHAPPIJ - BGHM</nl>
-			</pouvoirAgreantErkenning>
+      <id>507</id>
+      <fr>SOCIÉTÉ DU LOGEMENT DE LA RÉGION DE BRUXELLES-CAPITALE - SLRB</fr>
+      <nl>BRUSSELSE GEWESTELIJKE HUISVESTINGSMAATSCHAPPIJ - BGHM</nl>
+    </pouvoirAgreantErkenning>
   <pouvoirAgreantErkenning>
-				<id>508</id>
-				<fr>VLAAMS AGENTSCHAP VOOR PERSONEN MET EEN HANDICAP - VAPH</fr>
-				<nl>VLAAMS AGENTSCHAP VOOR PERSONEN MET EEN HANDICAP - VAPH</nl>
-			</pouvoirAgreantErkenning>
+      <id>508</id>
+      <fr>VLAAMS AGENTSCHAP VOOR PERSONEN MET EEN HANDICAP - VAPH</fr>
+      <nl>VLAAMS AGENTSCHAP VOOR PERSONEN MET EEN HANDICAP - VAPH</nl>
+    </pouvoirAgreantErkenning>
   <pouvoirAgreantErkenning>
-				<id>509</id>
-				<fr>VLAAMSE DIENST VOOR ARBEIDSBEMIDDELING EN BEROEPSOPLEIDING - VDAB</fr>
-				<nl>VLAAMSE DIENST VOOR ARBEIDSBEMIDDELING EN BEROEPSOPLEIDING - VDAB</nl>
-			</pouvoirAgreantErkenning>
+      <id>509</id>
+      <fr>VLAAMSE DIENST VOOR ARBEIDSBEMIDDELING EN BEROEPSOPLEIDING - VDAB</fr>
+      <nl>VLAAMSE DIENST VOOR ARBEIDSBEMIDDELING EN BEROEPSOPLEIDING - VDAB</nl>
+    </pouvoirAgreantErkenning>
   <pouvoirAgreantErkenning>
-				<id>510</id>
-				<fr>VLAAMSE GEMEENSCHAPSCOMMISSIE - VGC</fr>
-				<nl>VLAAMSE GEMEENSCHAPSCOMMISSIE - VGC</nl>
-			</pouvoirAgreantErkenning>
+      <id>510</id>
+      <fr>VLAAMSE GEMEENSCHAPSCOMMISSIE - VGC</fr>
+      <nl>VLAAMSE GEMEENSCHAPSCOMMISSIE - VGC</nl>
+    </pouvoirAgreantErkenning>
 </motherOrganisations>

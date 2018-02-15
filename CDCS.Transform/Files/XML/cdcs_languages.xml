@@ -1,23 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <languages>
   <LangStat>
-				<id>730</id>
-				<fr>FR</fr>
-				<nl>FR</nl>
-			</LangStat>
+      <id>730</id>
+      <fr>FR</fr>
+      <nl>FR</nl>
+    </LangStat>
   <LangStat>
-				<id>731</id>
-				<fr>FR-NL</fr>
-				<nl>FR-NL</nl>
-			</LangStat>
+      <id>731</id>
+      <fr>FR-NL</fr>
+      <nl>FR-NL</nl>
+    </LangStat>
   <LangStat>
-				<id>732</id>
-				<fr>NL</fr>
-				<nl>NL</nl>
-			</LangStat>
+      <id>732</id>
+      <fr>NL</fr>
+      <nl>NL</nl>
+    </LangStat>
   <LangStat>
-				<id>1606</id>
-				<fr />
-				<nl />
-			</LangStat>
+      <id>1606</id>
+      <fr />
+      <nl />
+    </LangStat>
 </languages>

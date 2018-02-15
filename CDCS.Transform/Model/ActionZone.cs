@@ -10,7 +10,6 @@ namespace CDCS.Transform.Model
 {
     public class ActionZone : LookUpString
     {
-        public int? CdcsId { get; set; }
         public string ParentIds { get; set; }
 
         [NotMapped]

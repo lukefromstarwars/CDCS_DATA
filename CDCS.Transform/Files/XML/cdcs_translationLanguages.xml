@@ -1,563 +1,563 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <translationLanguages>
   <offrLingTaal>
-				<id>739</id>
-				<fr>français</fr>
-				<nl>Frans</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>740</id>
-				<fr>néerlandais</fr>
-				<nl>Nederlands</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>741</id>
-				<fr>afar</fr>
-				<nl>Afar</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>742</id>
-				<fr>albanais</fr>
-				<nl>Albanees</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>743</id>
-				<fr>allemand</fr>
-				<nl>Duits</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>744</id>
-				<fr>amharique </fr>
-				<nl>Amhaars</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>745</id>
-				<fr>anglais</fr>
-				<nl>Engels</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>746</id>
-				<fr>arabe (standard moderne)</fr>
-				<nl>Arabisch (modern standaard)</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>747</id>
-				<fr>arabe (maghrébin)</fr>
-				<nl>Arabisch (Maghrebijns)</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>748</id>
-				<fr>araméen</fr>
-				<nl>Aramees</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>749</id>
-				<fr>arménien</fr>
-				<nl>Armeens</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>750</id>
-				<fr>azéri</fr>
-				<nl>Azeri</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>751</id>
-				<fr>bambara</fr>
-				<nl>Bambara</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>752</id>
-				<fr>bengali</fr>
-				<nl>Bengaals</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>753</id>
-				<fr>biélorusse</fr>
-				<nl>Wit-Russisch</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>754</id>
-				<fr>bosniaque </fr>
-				<nl>Bosnisch </nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>755</id>
-				<fr>bulgare </fr>
-				<nl>Bulgaars </nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>756</id>
-				<fr>cachemiri</fr>
-				<nl>Kasjmiri</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>757</id>
-				<fr>cantonais</fr>
-				<nl>Kantonees</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>758</id>
-				<fr>catalan</fr>
-				<nl>Catalaans</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>759</id>
-				<fr>cingalais</fr>
-				<nl>Singalees</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>760</id>
-				<fr>coréen </fr>
-				<nl>Koreaans</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>761</id>
-				<fr>croate </fr>
-				<nl>Kroatisch</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>762</id>
-				<fr>danois</fr>
-				<nl>Deens</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>763</id>
-				<fr>dari </fr>
-				<nl>Dari </nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>764</id>
-				<fr>dioula</fr>
-				<nl>Dioula</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>765</id>
-				<fr>espagnol</fr>
-				<nl>Spaans</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>766</id>
-				<fr>ewe</fr>
-				<nl>Ewe</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>767</id>
-				<fr>finnois</fr>
-				<nl>Fins</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>768</id>
-				<fr>fon-gbe</fr>
-				<nl>Fon</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>769</id>
-				<fr>géorgien</fr>
-				<nl>Georgisch</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>770</id>
-				<fr>grec</fr>
-				<nl>Grieks</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>771</id>
-				<fr>gujarati</fr>
-				<nl>Gujarati</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>772</id>
-				<fr>hakka</fr>
-				<nl>Hakka</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>773</id>
-				<fr>haoussa</fr>
-				<nl>Hausa</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>774</id>
-				<fr>hassanya</fr>
-				<nl>Hassaniya</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>775</id>
-				<fr>hébreu</fr>
-				<nl>Hebreeuws</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>776</id>
-				<fr>hindi</fr>
-				<nl>Hindi</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>777</id>
-				<fr>hongrois</fr>
-				<nl>Hongaars</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>778</id>
-				<fr>igbo</fr>
-				<nl>Igbo</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>779</id>
-				<fr>indonésien</fr>
-				<nl>Indonesisch</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>780</id>
-				<fr>italien</fr>
-				<nl>Italiaans</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>781</id>
-				<fr>japonais</fr>
-				<nl>Japans</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>782</id>
-				<fr>kabyle</fr>
-				<nl>Kabylisch</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>783</id>
-				<fr>kazakh</fr>
-				<nl>Kazachs</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>784</id>
-				<fr>khmer</fr>
-				<nl>Khmer</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>785</id>
-				<fr>kirghiz</fr>
-				<nl>Kirgizisch</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>786</id>
-				<fr>kikongo</fr>
-				<nl>Kikongo </nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>787</id>
-				<fr>kinyarwanda </fr>
-				<nl>Kinyarwanda</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>788</id>
-				<fr>kirundi</fr>
-				<nl>Kirundi</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>789</id>
-				<fr>kiyaka </fr>
-				<nl>Kiyaka </nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>790</id>
-				<fr>krio</fr>
-				<nl>Krio</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>791</id>
-				<fr>kurde</fr>
-				<nl>Koerdisch</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>792</id>
-				<fr>langue des signes de Belgique francophone (LSFB)</fr>
-				<nl>langue des signes de Belgique francophone (LSFB)</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>793</id>
-				<fr>lao</fr>
-				<nl>Lao</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>794</id>
-				<fr>letton</fr>
-				<nl>Lets</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>795</id>
-				<fr>lingala</fr>
-				<nl>Lingala </nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>796</id>
-				<fr>lituanien </fr>
-				<nl>Litouws</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>797</id>
-				<fr>macédonien </fr>
-				<nl>Macedonisch </nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>798</id>
-				<fr>malayalam</fr>
-				<nl>Malayalam</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>799</id>
-				<fr>malinké </fr>
-				<nl>Malinké </nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>800</id>
-				<fr>mandarin</fr>
-				<nl>Mandarijn</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>801</id>
-				<fr>mongol</fr>
-				<nl>Mongools</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>802</id>
-				<fr>monténégrin</fr>
-				<nl>Montenegrijns</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>803</id>
-				<fr>moré</fr>
-				<nl>More</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>804</id>
-				<fr>népalais</fr>
-				<nl>Nepalees</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>805</id>
-				<fr>norvégien</fr>
-				<nl>Noors</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>806</id>
-				<fr>oromo</fr>
-				<nl>Oromo </nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>807</id>
-				<fr>ouïgour </fr>
-				<nl>Oeigoers</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>808</id>
-				<fr>ourdou</fr>
-				<nl>Urdu  </nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>809</id>
-				<fr>ouzbek</fr>
-				<nl>Oezbeeks</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>810</id>
-				<fr>pashto</fr>
-				<nl>Pasjtoe </nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>811</id>
-				<fr>pendjabi</fr>
-				<nl>Punjabi</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>812</id>
-				<fr>persan</fr>
-				<nl>Perzisch </nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>813</id>
-				<fr>peul</fr>
-				<nl>Peul </nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>814</id>
-				<fr>philippin</fr>
-				<nl>Filipijns</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>815</id>
-				<fr>polonais </fr>
-				<nl>Pools </nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>816</id>
-				<fr>portugais </fr>
-				<nl>Portugees </nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>817</id>
-				<fr>rifain</fr>
-				<nl>Riffijns</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>818</id>
-				<fr>rom </fr>
-				<nl>Rom</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>819</id>
-				<fr>roumain</fr>
-				<nl>Roemeens</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>820</id>
-				<fr>russe </fr>
-				<nl>Russisch </nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>821</id>
-				<fr>serbe</fr>
-				<nl>Servisch</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>822</id>
-				<fr>slovaque </fr>
-				<nl>Slowaaks </nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>823</id>
-				<fr>slovène</fr>
-				<nl>Sloveens</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>824</id>
-				<fr>somali </fr>
-				<nl>Somalisch</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>825</id>
-				<fr>soussou</fr>
-				<nl>Soussou </nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>826</id>
-				<fr>suédois </fr>
-				<nl>Zweeds</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>827</id>
-				<fr>swahili </fr>
-				<nl>Swahili </nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>828</id>
-				<fr>tagalog</fr>
-				<nl>Tagalog</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>829</id>
-				<fr>tamil</fr>
-				<nl>Tamil</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>830</id>
-				<fr>tchèque </fr>
-				<nl>Tsjechisch</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>831</id>
-				<fr>tchétchène</fr>
-				<nl>Tsjetsjeens</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>832</id>
-				<fr>tetela</fr>
-				<nl>Tetela</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>833</id>
-				<fr>thaï</fr>
-				<nl>Thai</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>834</id>
-				<fr>tibétain</fr>
-				<nl>Tibetaans</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>835</id>
-				<fr>tigrigna</fr>
-				<nl>Tigrinya</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>836</id>
-				<fr>tshiluba</fr>
-				<nl>Tshiluba</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>837</id>
-				<fr>tswana</fr>
-				<nl>Tswana</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>838</id>
-				<fr>turc </fr>
-				<nl>Turks</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>839</id>
-				<fr>turkmène</fr>
-				<nl>Turkmeens</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>840</id>
-				<fr>twi</fr>
-				<nl>Twi </nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>841</id>
-				<fr>ukrainien  </fr>
-				<nl>Oekraïens</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>842</id>
-				<fr>vietnamien</fr>
-				<nl>Vietnamees</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>843</id>
-				<fr>Vlaamse Gebarentaal (VGT)</fr>
-				<nl>Vlaamse Gebarentaal (VGT)</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>844</id>
-				<fr>wolof</fr>
-				<nl>Wolof</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>845</id>
-				<fr>yiddish</fr>
-				<nl>Jiddisch</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>846</id>
-				<fr>zarma</fr>
-				<nl>Zarma</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>847</id>
-				<fr>-service faisant appel à un service d'interprétariat social</fr>
-				<nl>-Dienst die een beroep doet op sociaal tolkdiensten </nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>848</id>
-				<fr>-service faisant appel à un service de médiation interculturelle</fr>
-				<nl>-Dienst die een beroep doet op interculturele bemiddelaars</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>1168</id>
-				<fr>domari</fr>
-				<nl>Domari</nl>
-			</offrLingTaal>
-  <offrLingTaal>
-				<id>1169</id>
-				<fr>tadjik</fr>
-				<nl>Tadzjieks</nl>
-			</offrLingTaal>
+      <id>739</id>
+      <fr>français</fr>
+      <nl>Frans</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>740</id>
+      <fr>néerlandais</fr>
+      <nl>Nederlands</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>741</id>
+      <fr>afar</fr>
+      <nl>Afar</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>742</id>
+      <fr>albanais</fr>
+      <nl>Albanees</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>743</id>
+      <fr>allemand</fr>
+      <nl>Duits</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>744</id>
+      <fr>amharique </fr>
+      <nl>Amhaars</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>745</id>
+      <fr>anglais</fr>
+      <nl>Engels</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>746</id>
+      <fr>arabe (standard moderne)</fr>
+      <nl>Arabisch (modern standaard)</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>747</id>
+      <fr>arabe (maghrébin)</fr>
+      <nl>Arabisch (Maghrebijns)</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>748</id>
+      <fr>araméen</fr>
+      <nl>Aramees</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>749</id>
+      <fr>arménien</fr>
+      <nl>Armeens</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>750</id>
+      <fr>azéri</fr>
+      <nl>Azeri</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>751</id>
+      <fr>bambara</fr>
+      <nl>Bambara</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>752</id>
+      <fr>bengali</fr>
+      <nl>Bengaals</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>753</id>
+      <fr>biélorusse</fr>
+      <nl>Wit-Russisch</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>754</id>
+      <fr>bosniaque </fr>
+      <nl>Bosnisch </nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>755</id>
+      <fr>bulgare </fr>
+      <nl>Bulgaars </nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>756</id>
+      <fr>cachemiri</fr>
+      <nl>Kasjmiri</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>757</id>
+      <fr>cantonais</fr>
+      <nl>Kantonees</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>758</id>
+      <fr>catalan</fr>
+      <nl>Catalaans</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>759</id>
+      <fr>cingalais</fr>
+      <nl>Singalees</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>760</id>
+      <fr>coréen </fr>
+      <nl>Koreaans</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>761</id>
+      <fr>croate </fr>
+      <nl>Kroatisch</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>762</id>
+      <fr>danois</fr>
+      <nl>Deens</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>763</id>
+      <fr>dari </fr>
+      <nl>Dari </nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>764</id>
+      <fr>dioula</fr>
+      <nl>Dioula</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>765</id>
+      <fr>espagnol</fr>
+      <nl>Spaans</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>766</id>
+      <fr>ewe</fr>
+      <nl>Ewe</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>767</id>
+      <fr>finnois</fr>
+      <nl>Fins</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>768</id>
+      <fr>fon-gbe</fr>
+      <nl>Fon</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>769</id>
+      <fr>géorgien</fr>
+      <nl>Georgisch</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>770</id>
+      <fr>grec</fr>
+      <nl>Grieks</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>771</id>
+      <fr>gujarati</fr>
+      <nl>Gujarati</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>772</id>
+      <fr>hakka</fr>
+      <nl>Hakka</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>773</id>
+      <fr>haoussa</fr>
+      <nl>Hausa</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>774</id>
+      <fr>hassanya</fr>
+      <nl>Hassaniya</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>775</id>
+      <fr>hébreu</fr>
+      <nl>Hebreeuws</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>776</id>
+      <fr>hindi</fr>
+      <nl>Hindi</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>777</id>
+      <fr>hongrois</fr>
+      <nl>Hongaars</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>778</id>
+      <fr>igbo</fr>
+      <nl>Igbo</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>779</id>
+      <fr>indonésien</fr>
+      <nl>Indonesisch</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>780</id>
+      <fr>italien</fr>
+      <nl>Italiaans</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>781</id>
+      <fr>japonais</fr>
+      <nl>Japans</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>782</id>
+      <fr>kabyle</fr>
+      <nl>Kabylisch</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>783</id>
+      <fr>kazakh</fr>
+      <nl>Kazachs</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>784</id>
+      <fr>khmer</fr>
+      <nl>Khmer</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>785</id>
+      <fr>kirghiz</fr>
+      <nl>Kirgizisch</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>786</id>
+      <fr>kikongo</fr>
+      <nl>Kikongo </nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>787</id>
+      <fr>kinyarwanda </fr>
+      <nl>Kinyarwanda</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>788</id>
+      <fr>kirundi</fr>
+      <nl>Kirundi</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>789</id>
+      <fr>kiyaka </fr>
+      <nl>Kiyaka </nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>790</id>
+      <fr>krio</fr>
+      <nl>Krio</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>791</id>
+      <fr>kurde</fr>
+      <nl>Koerdisch</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>792</id>
+      <fr>langue des signes de Belgique francophone (LSFB)</fr>
+      <nl>langue des signes de Belgique francophone (LSFB)</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>793</id>
+      <fr>lao</fr>
+      <nl>Lao</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>794</id>
+      <fr>letton</fr>
+      <nl>Lets</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>795</id>
+      <fr>lingala</fr>
+      <nl>Lingala </nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>796</id>
+      <fr>lituanien </fr>
+      <nl>Litouws</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>797</id>
+      <fr>macédonien </fr>
+      <nl>Macedonisch </nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>798</id>
+      <fr>malayalam</fr>
+      <nl>Malayalam</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>799</id>
+      <fr>malinké </fr>
+      <nl>Malinké </nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>800</id>
+      <fr>mandarin</fr>
+      <nl>Mandarijn</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>801</id>
+      <fr>mongol</fr>
+      <nl>Mongools</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>802</id>
+      <fr>monténégrin</fr>
+      <nl>Montenegrijns</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>803</id>
+      <fr>moré</fr>
+      <nl>More</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>804</id>
+      <fr>népalais</fr>
+      <nl>Nepalees</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>805</id>
+      <fr>norvégien</fr>
+      <nl>Noors</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>806</id>
+      <fr>oromo</fr>
+      <nl>Oromo </nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>807</id>
+      <fr>ouïgour </fr>
+      <nl>Oeigoers</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>808</id>
+      <fr>ourdou</fr>
+      <nl>Urdu  </nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>809</id>
+      <fr>ouzbek</fr>
+      <nl>Oezbeeks</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>810</id>
+      <fr>pashto</fr>
+      <nl>Pasjtoe </nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>811</id>
+      <fr>pendjabi</fr>
+      <nl>Punjabi</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>812</id>
+      <fr>persan</fr>
+      <nl>Perzisch </nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>813</id>
+      <fr>peul</fr>
+      <nl>Peul </nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>814</id>
+      <fr>philippin</fr>
+      <nl>Filipijns</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>815</id>
+      <fr>polonais </fr>
+      <nl>Pools </nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>816</id>
+      <fr>portugais </fr>
+      <nl>Portugees </nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>817</id>
+      <fr>rifain</fr>
+      <nl>Riffijns</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>818</id>
+      <fr>rom </fr>
+      <nl>Rom</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>819</id>
+      <fr>roumain</fr>
+      <nl>Roemeens</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>820</id>
+      <fr>russe </fr>
+      <nl>Russisch </nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>821</id>
+      <fr>serbe</fr>
+      <nl>Servisch</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>822</id>
+      <fr>slovaque </fr>
+      <nl>Slowaaks </nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>823</id>
+      <fr>slovène</fr>
+      <nl>Sloveens</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>824</id>
+      <fr>somali </fr>
+      <nl>Somalisch</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>825</id>
+      <fr>soussou</fr>
+      <nl>Soussou </nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>826</id>
+      <fr>suédois </fr>
+      <nl>Zweeds</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>827</id>
+      <fr>swahili </fr>
+      <nl>Swahili </nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>828</id>
+      <fr>tagalog</fr>
+      <nl>Tagalog</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>829</id>
+      <fr>tamil</fr>
+      <nl>Tamil</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>830</id>
+      <fr>tchèque </fr>
+      <nl>Tsjechisch</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>831</id>
+      <fr>tchétchène</fr>
+      <nl>Tsjetsjeens</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>832</id>
+      <fr>tetela</fr>
+      <nl>Tetela</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>833</id>
+      <fr>thaï</fr>
+      <nl>Thai</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>834</id>
+      <fr>tibétain</fr>
+      <nl>Tibetaans</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>835</id>
+      <fr>tigrigna</fr>
+      <nl>Tigrinya</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>836</id>
+      <fr>tshiluba</fr>
+      <nl>Tshiluba</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>837</id>
+      <fr>tswana</fr>
+      <nl>Tswana</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>838</id>
+      <fr>turc </fr>
+      <nl>Turks</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>839</id>
+      <fr>turkmène</fr>
+      <nl>Turkmeens</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>840</id>
+      <fr>twi</fr>
+      <nl>Twi </nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>841</id>
+      <fr>ukrainien  </fr>
+      <nl>Oekraïens</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>842</id>
+      <fr>vietnamien</fr>
+      <nl>Vietnamees</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>843</id>
+      <fr>Vlaamse Gebarentaal (VGT)</fr>
+      <nl>Vlaamse Gebarentaal (VGT)</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>844</id>
+      <fr>wolof</fr>
+      <nl>Wolof</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>845</id>
+      <fr>yiddish</fr>
+      <nl>Jiddisch</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>846</id>
+      <fr>zarma</fr>
+      <nl>Zarma</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>847</id>
+      <fr>-service faisant appel à un service d'interprétariat social</fr>
+      <nl>-Dienst die een beroep doet op sociaal tolkdiensten </nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>848</id>
+      <fr>-service faisant appel à un service de médiation interculturelle</fr>
+      <nl>-Dienst die een beroep doet op interculturele bemiddelaars</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>1168</id>
+      <fr>domari</fr>
+      <nl>Domari</nl>
+    </offrLingTaal>
+  <offrLingTaal>
+      <id>1169</id>
+      <fr>tadjik</fr>
+      <nl>Tadzjieks</nl>
+    </offrLingTaal>
 </translationLanguages>
