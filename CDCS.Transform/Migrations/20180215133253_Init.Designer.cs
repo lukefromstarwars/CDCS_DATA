@@ -11,7 +11,7 @@ using System;
 namespace CDCS.Transform.Migrations
 {
     [DbContext(typeof(CdcsContext))]
-    [Migration("20180207150951_Init")]
+    [Migration("20180215133253_Init")]
     partial class Init
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -25,8 +25,6 @@ namespace CDCS.Transform.Migrations
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd();
-
-                    b.Property<int?>("CdcsId");
 
                     b.Property<string>("CreatedBy");
 

@@ -15,7 +15,6 @@ namespace CDCS.Transform.Migrations
                 {
                     Id = table.Column<int>(nullable: false)
                         .Annotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn),
-                    CdcsId = table.Column<int>(nullable: true),
                     CreatedBy = table.Column<string>(nullable: true),
                     CreatedOn = table.Column<DateTime>(nullable: true),
                     Description_FR = table.Column<string>(nullable: true),
