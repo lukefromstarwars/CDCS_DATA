@@ -55,6 +55,40 @@ namespace CDCS.Transform.Migrations
 
                     b.ToTable("ActionZones");
                 });
+
+            modelBuilder.Entity("CDCS.Transform.Model.OrganisationLanguage", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd();
+
+                    b.Property<string>("CreatedBy");
+
+                    b.Property<DateTime?>("CreatedOn");
+
+                    b.Property<string>("Description_FR");
+
+                    b.Property<string>("Description_NL");
+
+                    b.Property<string>("FR");
+
+                    b.Property<string>("ModifiedBy");
+
+                    b.Property<DateTime?>("ModifiedOn");
+
+                    b.Property<string>("NL");
+
+                    b.Property<DateTime?>("RemovedOn");
+
+                    b.Property<byte[]>("RowVersion")
+                        .IsConcurrencyToken()
+                        .ValueGeneratedOnAddOrUpdate();
+
+                    b.Property<int?>("SortOrder");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("OrganisationLanguages");
+                });
 #pragma warning restore 612, 618
         }
     }

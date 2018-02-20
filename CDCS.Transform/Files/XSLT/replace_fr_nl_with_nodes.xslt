@@ -17,8 +17,9 @@
     </xsl:element>
   </xsl:template>
 
-  <xsl:template match="//zoneActionWerkgebied">
-    <xsl:copy>
+  <xsl:template match="//zoneActionWerkgebiedList/zoneActionWerkgebied">
+    <!--    <xsl:copy>-->
+    <ActionZone>
       <xsl:apply-templates select="@*|node()[not(self::parent)]" />
       <parents>
         <xsl:apply-templates select="parent" />
@@ -29,7 +30,15 @@
           <xsl:if test="position() != last()">,</xsl:if>
         </xsl:for-each>
       </parentIds>
-    </xsl:copy>
+    </ActionZone>
+    <!--    </xsl:copy>-->
+  </xsl:template>
+  <xsl:template match="//zoneActionWerkgebiedList">
+    <!--    <xsl:copy>-->
+    <ActionZones>
+      <xsl:apply-templates select="@* | node()"/>
+    </ActionZones>
+    <!--    </xsl:copy>-->
   </xsl:template>
 
 </xsl:stylesheet>
